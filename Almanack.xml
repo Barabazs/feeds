@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://every.to/almanack?sort=newest</id>
+    <title>Almanack</title>
+    <updated>2021-08-30T17:33:19.683Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Decentralized Exchanges: Why Crypto’s FirstKiller Apps are So Powerful - DeFriday #12]]></title>
+        <id>https://every.to/almanack/decentralized-exchanges</id>
+        <link href="https://every.to/almanack/decentralized-exchanges"/>
+        <updated>2021-08-30T17:32:42.073Z</updated>
+        <content type="html"><![CDATA[Look at me. I'm the bank now.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regulate Who? The Weird LegalWorld of DeFi - DeFriday #11]]></title>
+        <id>https://every.to/almanack/regulate-defi</id>
+        <link href="https://every.to/almanack/regulate-defi"/>
+        <updated>2021-08-30T17:32:42.073Z</updated>
+        <content type="html"><![CDATA[Did this Unicorn take your money?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Ethereum Be Ultra-Sound Money? - DeFriday #10]]></title>
+        <id>https://every.to/almanack/ultra-sound-money</id>
+        <link href="https://every.to/almanack/ultra-sound-money"/>
+        <updated>2021-08-30T17:32:42.078Z</updated>
+        <content type="html"><![CDATA[Or is it all ultra-hopium?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antifragile Finance: How HacksMake DeFi Stronger - DeFriday #9]]></title>
+        <id>https://every.to/almanack/antifragile-finance-hacks</id>
+        <link href="https://every.to/almanack/antifragile-finance-hacks"/>
+        <updated>2021-08-30T17:32:42.078Z</updated>
+        <content type="html"><![CDATA[We're all in this together.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proof of Green: How Ethereum 2.0 SolvesCrypto’s Energy Concerns - DeFriday #8]]></title>
+        <id>https://every.to/almanack/proof-of-stake-ethereum</id>
+        <link href="https://every.to/almanack/proof-of-stake-ethereum"/>
+        <updated>2021-08-30T17:32:42.078Z</updated>
+        <content type="html"><![CDATA[Stake? I thought you said Steak!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EIP-1559: Can Ethereum ReplaceBitcoin as Digital Gold? - DeFriday #7]]></title>
+        <id>https://every.to/almanack/eip-1559-ethereum-bitcoin</id>
+        <link href="https://every.to/almanack/eip-1559-ethereum-bitcoin"/>
+        <updated>2021-08-30T17:32:42.079Z</updated>
+        <content type="html"><![CDATA[Is 1559 all hype? Or will it send Ethereum to the moon?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[150% APR? How Are DeFiYields So High? - DeFriday #6]]></title>
+        <id>https://every.to/almanack/defi-yields</id>
+        <link href="https://every.to/almanack/defi-yields"/>
+        <updated>2021-08-30T17:32:42.079Z</updated>
+        <content type="html"><![CDATA[Is this the real life? Is this just fantasy?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Melting Iron: How to Lose$2b in One Day - DeFriday #5]]></title>
+        <id>https://every.to/almanack/iron-titan-crash</id>
+        <link href="https://every.to/almanack/iron-titan-crash"/>
+        <updated>2021-08-30T17:32:42.079Z</updated>
+        <content type="html"><![CDATA[The spectacular rise and fall of<br data-owner="balance-text">TITAN, IRON, and Mark Cuban]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Mind-Bending Magic ofSelf-Paying Loans - DeFriday #4]]></title>
+        <id>https://every.to/almanack/alchemix-self-paying-loans</id>
+        <link href="https://every.to/almanack/alchemix-self-paying-loans"/>
+        <updated>2021-08-30T17:32:42.080Z</updated>
+        <content type="html"><![CDATA[How Alchemix changes the wealth building game]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFriday #3: How Arbitrum SolvesEthereum’s Scaling Challenges]]></title>
+        <id>https://every.to/almanack/defriday-3-how-arbitrum-solves-ethereum-s-scaling-challenges</id>
+        <link href="https://every.to/almanack/defriday-3-how-arbitrum-solves-ethereum-s-scaling-challenges"/>
+        <updated>2021-08-30T17:32:42.082Z</updated>
+        <content type="html"><![CDATA[Plus: Convex's insane growth, Elon's<br data-owner="balance-text">long game, DOGE, and Esports]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFriday 2: Polygon’sSurge & Ethereum’s Future]]></title>
+        <id>https://every.to/almanack/defriday-2-polygon-s-surge-ethereum-s-future</id>
+        <link href="https://every.to/almanack/defriday-2-polygon-s-surge-ethereum-s-future"/>
+        <updated>2021-08-30T17:32:42.083Z</updated>
+        <content type="html"><![CDATA[Plus: Interest-Earning Lottery Tickets and Crypto Sharks]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeFriday #1: May Market Meltdown Madness]]></title>
+        <id>https://every.to/almanack/defriday-1-may-market-meltdown-winners-losers</id>
+        <link href="https://every.to/almanack/defriday-1-may-market-meltdown-winners-losers"/>
+        <updated>2021-08-30T17:32:42.083Z</updated>
+        <content type="html"><![CDATA[DeFi just saw its first huge market crash. How'd it hold up?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asset Allocation Autopilot:Earning 15%+ APYs in DeFi]]></title>
+        <id>https://every.to/almanack/automatic-savings-optimization</id>
+        <link href="https://every.to/almanack/automatic-savings-optimization"/>
+        <updated>2021-08-30T17:32:42.085Z</updated>
+        <content type="html"><![CDATA[Why hunt for the best rates when software can do it for you?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a High Yield “SavingsAccount” with Crypto & DeFi]]></title>
+        <id>https://every.to/almanack/creating-a-high-yield-savings-account-with-crypto-defi</id>
+        <link href="https://every.to/almanack/creating-a-high-yield-savings-account-with-crypto-defi"/>
+        <updated>2021-08-30T17:32:42.085Z</updated>
+        <content type="html"><![CDATA[You've bought some Bitcoin. What's next?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Personal Leverage: How toTruly 10x Your Productivity]]></title>
+        <id>https://every.to/almanack/personal-leverage-how-to-truly-10x-your-productivity-2450</id>
+        <link href="https://every.to/almanack/personal-leverage-how-to-truly-10x-your-productivity-2450"/>
+        <updated>2021-08-30T17:32:42.086Z</updated>
+        <content type="html"><![CDATA[Define, Refine, Automate, Delegate]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Founder Trap]]></title>
+        <id>https://every.to/almanack/the-founder-trap</id>
+        <link href="https://every.to/almanack/the-founder-trap"/>
+        <updated>2021-08-30T17:32:42.087Z</updated>
+        <content type="html"><![CDATA[What happens when the wrong thing works?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When should you take money off the table?]]></title>
+        <id>https://every.to/almanack/when-should-you-take-money-off-the-table</id>
+        <link href="https://every.to/almanack/when-should-you-take-money-off-the-table"/>
+        <updated>2021-08-30T17:32:42.088Z</updated>
+        <content type="html"><![CDATA[Accidentally predicting the (most recent) Bitcoin peak]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Problem with Retirement Funds]]></title>
+        <id>https://every.to/almanack/the-problem-with-retirement-funds-24775574</id>
+        <link href="https://every.to/almanack/the-problem-with-retirement-funds-24775574"/>
+        <updated>2021-08-30T17:32:42.090Z</updated>
+        <content type="html"><![CDATA[Why get rich slowly?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Spend 5 Minutes Per Day on Email]]></title>
+        <id>https://every.to/almanack/how-i-spend-5-minutes-per-day-on-15213699</id>
+        <link href="https://every.to/almanack/how-i-spend-5-minutes-per-day-on-15213699"/>
+        <updated>2021-08-30T17:32:42.091Z</updated>
+        <content type="html"><![CDATA[You, too, can be free]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Mental Model BehindEvery High-Performer I Know]]></title>
+        <id>https://every.to/almanack/the-mental-model-behind-every-high-10662024</id>
+        <link href="https://every.to/almanack/the-mental-model-behind-every-high-10662024"/>
+        <updated>2021-08-30T17:32:42.092Z</updated>
+        <content type="html"><![CDATA[During my first college internship, I completely<br data-owner="balance-text">replaced myself with Visual Basic scripts. Let<br data-owner="balance-text">me explain.&nbsp;
+I had been working in Excel for]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Took Notes on 250+ Books in Roam]]></title>
+        <id>https://every.to/almanack/how-i-took-notes-on-250-books-in-10649360</id>
+        <link href="https://every.to/almanack/how-i-took-notes-on-250-books-in-10649360"/>
+        <updated>2021-08-30T17:32:42.094Z</updated>
+        <content type="html"><![CDATA[My step-by-step guide for taking book notes in Roam]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oatly: The New Coke]]></title>
+        <id>https://every.to/almanack/oatly-the-new-coke-821556</id>
+        <link href="https://every.to/almanack/oatly-the-new-coke-821556"/>
+        <updated>2021-08-30T17:32:42.095Z</updated>
+        <content type="html"><![CDATA[Fool me once, shame on you...]]></content>
+    </entry>
+</feed>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://every.to/the-prediction-game?sort=newest</id>
+    <title>The Prediction Game</title>
+    <updated>2021-08-30T17:33:19.802Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Summer (Prediction) Games]]></title>
+        <id>https://every.to/the-prediction-game/the-summer-prediction-games</id>
+        <link href="https://every.to/the-prediction-game/the-summer-prediction-games"/>
+        <updated>2021-08-30T17:33:19.044Z</updated>
+        <content type="html"><![CDATA[COVID cases have gone down, and then up again here<br data-owner="balance-text">in the United States, not unlike crypto prices. The<br data-owner="balance-text">Olympics have come and gone, and so has the Governor<br data-owner="balance-text">of New York. We truly live in unprecedented times.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Today is Math Geeks’ FavoriteFriday the 13th in a Century]]></title>
+        <id>https://every.to/the-prediction-game/why-today-is-math-geeks-favorite-friday-the-13th-in-a-century</id>
+        <link href="https://every.to/the-prediction-game/why-today-is-math-geeks-favorite-friday-the-13th-in-a-century"/>
+        <updated>2021-08-30T17:33:19.047Z</updated>
+        <content type="html"><![CDATA[A rare occurrence that could have<br data-owner="balance-text">been predicted a thousand years ago]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaxx to the Future]]></title>
+        <id>https://every.to/the-prediction-game/spring-is-here</id>
+        <link href="https://every.to/the-prediction-game/spring-is-here"/>
+        <updated>2021-08-30T17:33:19.048Z</updated>
+        <content type="html"><![CDATA[Spring is here, vaccines are going into people’s arms<br data-owner="balance-text">and it’s raining points here at the Prediction Game.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to See The FutureLike a Superforecaster]]></title>
+        <id>https://every.to/the-prediction-game/how-to-see-the-future-like-a-superforecaster-8313</id>
+        <link href="https://every.to/the-prediction-game/how-to-see-the-future-like-a-superforecaster-8313"/>
+        <updated>2021-08-30T17:33:19.048Z</updated>
+        <content type="html"><![CDATA[Maybe, if we get really good at analyzing<br data-owner="balance-text">the past and present we can get really good<br data-owner="balance-text">at predicting the future in lots of situations.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did We Create a Rip inthe Fabric of Spacetime?]]></title>
+        <id>https://every.to/the-prediction-game/did-we-create-a-rip-in-the-fabric-of-spacetime</id>
+        <link href="https://every.to/the-prediction-game/did-we-create-a-rip-in-the-fabric-of-spacetime"/>
+        <updated>2021-08-30T17:33:19.049Z</updated>
+        <content type="html"><![CDATA[We take a look at what has been a bonkers month<br data-owner="balance-text">in American history, and review all of your predictions,<br data-owner="balance-text">some of which have been stunningly accurate.<br data-owner="balance-text">It's the January 2021 Prediction Game update.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let the games begin.]]></title>
+        <id>https://every.to/the-prediction-game/let-the-games-begin-de41d189-6105-4605-a81b-2059991ab5f9</id>
+        <link href="https://every.to/the-prediction-game/let-the-games-begin-de41d189-6105-4605-a81b-2059991ab5f9"/>
+        <updated>2021-08-30T17:33:19.050Z</updated>
+        <content type="html"><![CDATA[The 2021 Prediction Game has begun.]]></content>
+    </entry>
+</feed>
