@@ -5,6 +5,8 @@ entrySelector = ".post-preview"
 titleSelector = ".post-title"
 linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
+onFail = "stale"
+timeout = 120
 
 [Praxis]
 title = "Praxis"
@@ -13,6 +15,8 @@ entrySelector = ".post-preview"
 titleSelector = ".post-title"
 linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
+onFail = "stale"
+timeout = 120
 
 [Almanack]
 title = "Almanack"
@@ -21,6 +25,8 @@ entrySelector = ".post-preview"
 titleSelector = ".post-title"
 linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
+onFail = "stale"
+timeout = 120
 
 [Cybernaut]
 title = "Cybernaut"
@@ -29,6 +35,8 @@ entrySelector = ".post-preview"
 titleSelector = ".post-title"
 linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
+onFail = "stale"
+timeout = 120
 
 [Divinations]
 title = "Divinations"
@@ -37,6 +45,8 @@ entrySelector = ".post-preview"
 titleSelector = ".post-title"
 linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
+onFail = "stale"
+timeout = 120
 
 [NapkinMath]
 title = "Napkin Math"
@@ -45,6 +55,8 @@ entrySelector = ".post-preview"
 titleSelector = ".post-title"
 linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
+onFail = "stale"
+timeout = 120
 
 [MeansOfCreation]
 title = "Means of Creation"
@@ -53,6 +65,8 @@ entrySelector = ".post-preview"
 titleSelector = ".post-title"
 linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
+onFail = "stale"
+timeout = 120
 
 [FreeRadicals]
 title = "Free Radicals"
@@ -61,6 +75,8 @@ entrySelector = ".post-preview"
 titleSelector = ".post-title"
 linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
+onFail = "stale"
+timeout = 120
 
 [AskJerry]
 title = "Ask Jerry"
@@ -69,6 +85,8 @@ entrySelector = ".post-preview"
 titleSelector = ".post-title"
 linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
+onFail = "stale"
+timeout = 120
 
 [TalkTherapy]
 title = "Talk Therapy"
@@ -77,6 +95,8 @@ entrySelector = ".post-preview"
 titleSelector = ".post-title"
 linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
+onFail = "stale"
+timeout = 120
 
 [Glassy]
 title = "Glassy"
@@ -85,6 +105,8 @@ entrySelector = ".post-preview"
 titleSelector = ".post-title"
 linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
+onFail = "stale"
+timeout = 120
 
 [TheLongConversation]
 title = "The Long Conversation"
@@ -93,6 +115,8 @@ entrySelector = ".post-preview"
 titleSelector = ".post-title"
 linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
+onFail = "stale"
+timeout = 120
 
 [ThePredictionGame]
 title = "The Prediction Game"
@@ -101,3 +125,5 @@ entrySelector = ".post-preview"
 titleSelector = ".post-title"
 linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
+onFail = "stale"
+timeout = 120
