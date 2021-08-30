@@ -38,7 +38,7 @@ titleSelector = ".post-title"
 linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
 
-[Napkin Math]
+[NapkinMath]
 title = "Napkin Math"
 url = "https://every.to/napkin-math?sort=newest"
 entrySelector = ".post-preview"
@@ -46,7 +46,7 @@ titleSelector = ".post-title"
 linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
 
-[Means of Creation]
+[MeansOfCreation]
 title = "Means of Creation"
 url = "https://every.to/means-of-creation?sort=newest"
 entrySelector = ".post-preview"
@@ -54,7 +54,7 @@ titleSelector = ".post-title"
 linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
 
-[Free Radicals]
+[FreeRadicals]
 title = "Free Radicals"
 url = "https://every.to/free-radicals?sort=newest"
 entrySelector = ".post-preview"
@@ -62,7 +62,7 @@ titleSelector = ".post-title"
 linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
 
-[Ask Jerry]
+[AskJerry]
 title = "Ask Jerry"
 url = "https://every.to/ask-jerry?sort=newest"
 entrySelector = ".post-preview"
@@ -70,7 +70,7 @@ titleSelector = ".post-title"
 linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
 
-[Talk Therapy]
+[TalkTherapy]
 title = "Talk Therapy"
 url = "https://every.to/talk-therapy?sort=newest"
 entrySelector = ".post-preview"
@@ -86,7 +86,7 @@ titleSelector = ".post-title"
 linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
 
-[The Long Conversation]
+[TheLongConversation]
 title = "The Long Conversation"
 url = "https://every.to/the-long-conversation?sort=newest"
 entrySelector = ".post-preview"
@@ -94,7 +94,7 @@ titleSelector = ".post-title"
 linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
 
-[The Prediction Game]
+[ThePredictionGame]
 title = "The Prediction Game"
 url = "https://every.to/the-prediction-game?sort=newest"
 entrySelector = ".post-preview"
