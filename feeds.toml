@@ -1,13 +1,103 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
+[Superorganizers]
+title = "Superorganizers"
+url = "https://every.to/superorganizers?sort=newest"
+entrySelector = ".post-preview"
+titleSelector = ".post-title"
+linkSelector = "a.post-cover"
+contentSelector = ".post-preview-text"
 
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
+[Praxis]
+title = "Praxis"
+url = "https://every.to/praxis?sort=newest"
+entrySelector = ".post-preview"
+titleSelector = ".post-title"
+linkSelector = "a.post-cover"
+contentSelector = ".post-preview-text"
+
+[Almanack]
+title = "Almanack"
+url = "https://every.to/almanack?sort=newest"
+entrySelector = ".post-preview"
+titleSelector = ".post-title"
+linkSelector = "a.post-cover"
+contentSelector = ".post-preview-text"
+
+[Cybernaut]
+title = "Cybernaut"
+url = "https://every.to/cybernaut?sort=newest"
+entrySelector = ".post-preview"
+titleSelector = ".post-title"
+linkSelector = "a.post-cover"
+contentSelector = ".post-preview-text"
+
+[Divinations]
+title = "Divinations"
+url = "https://every.to/divinations?sort=newest"
+entrySelector = ".post-preview"
+titleSelector = ".post-title"
+linkSelector = "a.post-cover"
+contentSelector = ".post-preview-text"
+
+[Napkin Math]
+title = "Napkin Math"
+url = "https://every.to/napkin-math?sort=newest"
+entrySelector = ".post-preview"
+titleSelector = ".post-title"
+linkSelector = "a.post-cover"
+contentSelector = ".post-preview-text"
+
+[Means of Creation]
+title = "Means of Creation"
+url = "https://every.to/means-of-creation?sort=newest"
+entrySelector = ".post-preview"
+titleSelector = ".post-title"
+linkSelector = "a.post-cover"
+contentSelector = ".post-preview-text"
+
+[Free Radicals]
+title = "Free Radicals"
+url = "https://every.to/free-radicals?sort=newest"
+entrySelector = ".post-preview"
+titleSelector = ".post-title"
+linkSelector = "a.post-cover"
+contentSelector = ".post-preview-text"
+
+[Ask Jerry]
+title = "Ask Jerry"
+url = "https://every.to/ask-jerry?sort=newest"
+entrySelector = ".post-preview"
+titleSelector = ".post-title"
+linkSelector = "a.post-cover"
+contentSelector = ".post-preview-text"
+
+[Talk Therapy]
+title = "Talk Therapy"
+url = "https://every.to/talk-therapy?sort=newest"
+entrySelector = ".post-preview"
+titleSelector = ".post-title"
+linkSelector = "a.post-cover"
+contentSelector = ".post-preview-text"
+
+[Glassy]
+title = "Glassy"
+url = "https://every.to/Glassy?sort=newest"
+entrySelector = ".post-preview"
+titleSelector = ".post-title"
+linkSelector = "a.post-cover"
+contentSelector = ".post-preview-text"
+
+[The Long Conversation]
+title = "The Long Conversation"
+url = "https://every.to/the-long-conversation?sort=newest"
+entrySelector = ".post-preview"
+titleSelector = ".post-title"
+linkSelector = "a.post-cover"
+contentSelector = ".post-preview-text"
+
+[The Prediction Game]
+title = "The Prediction Game"
+url = "https://every.to/the-prediction-game?sort=newest"
+entrySelector = ".post-preview"
+titleSelector = ".post-title"
+linkSelector = "a.post-cover"
+contentSelector = ".post-preview-text"
