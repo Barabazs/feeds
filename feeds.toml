@@ -127,3 +127,13 @@ linkSelector = "a.post-cover"
 contentSelector = ".post-preview-text"
 onFail = "stale"
 timeout = 120
+
+[ship30for30]
+title = "Ship 30 for 30"
+url = "https://www.ship30for30.com/blog"
+entrySelector = ".w-dyn-item"
+titleSelector = ".w-dyn-item h3"
+linkSelector = ".w-dyn-item a"
+contentSelector = ".w-dyn-item .dark-dimmed-text"
+onFail = "stale"
+timeout = 120
