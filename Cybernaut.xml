@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/cybernaut?sort=newest</id>
     <title>Cybernaut</title>
-    <updated>2021-08-31T17:44:16.640Z</updated>
+    <updated>2021-09-01T05:35:11.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Anti-Fan Phenomenon]]></title>
+        <id>https://every.to/cybernaut/the-anti-fan-phenomenon</id>
+        <link href="https://every.to/cybernaut/the-anti-fan-phenomenon"/>
+        <updated>2021-09-01T05:34:34.512Z</updated>
+        <content type="html"><![CDATA[Inside the online communities where people love to hate]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Hard Work of Being a Fan Account]]></title>
         <id>https://every.to/cybernaut/the-hard-work-of-being-a-fan-account</id>

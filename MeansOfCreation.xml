@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/means-of-creation?sort=newest</id>
     <title>Means of Creation</title>
-    <updated>2021-08-31T17:44:16.649Z</updated>
+    <updated>2021-09-01T05:35:11.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Understanding The Cultureand Commerce Driving NFTs]]></title>
+        <id>https://every.to/means-of-creation/understanding-the-culture-and-commerce-powering-a-decentralised-creator-economy</id>
+        <link href="https://every.to/means-of-creation/understanding-the-culture-and-commerce-powering-a-decentralised-creator-economy"/>
+        <updated>2021-09-01T05:34:46.670Z</updated>
+        <content type="html"><![CDATA["I like the idea of culture being more valuable and more<br data-owner="balance-text">people being able to profit from their taste" - Kyle Chayka]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Could the creator economywork for fiction authors?]]></title>
         <id>https://every.to/means-of-creation/could-the-creator-economy-work-for-fiction-authors</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/means-of-creation/snap-s-spotlight-program-led-to-a-22-rise-in-daus-c73115d9-e982-4f8f-9eb2-e84de50703d7"/>
         <updated>2021-08-30T17:32:58.100Z</updated>
         <content type="html"><![CDATA[Also: Patreon’s push towards creator equity, SMS platforms<br data-owner="balance-text">for creators, podcast advertising consolidation, and more]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook Pushes Into Newsletters]]></title>
-        <id>https://every.to/means-of-creation/facebook-pushes-into-newsletters</id>
-        <link href="https://every.to/means-of-creation/facebook-pushes-into-newsletters"/>
-        <updated>2021-08-30T17:32:58.108Z</updated>
-        <content type="html"><![CDATA[YouTube revealed $30B in creator payouts and is<br data-owner="balance-text">incentivizing creators to use “Shorts”, an OnlyFans-<br data-owner="balance-text-hyphen">like platform connecting foodies with chefs, and more]]></content>
     </entry>
 </feed>
