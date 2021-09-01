@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/talk-therapy?sort=newest</id>
     <title>Talk Therapy</title>
-    <updated>2021-09-01T05:35:11.257Z</updated>
+    <updated>2021-09-01T17:42:19.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[#93 - Ted Lasso Recap: Season 2 Episode 5]]></title>
+        <id>https://every.to/talk-therapy/93-ted-lasso-recap-season-2-episode-5</id>
+        <link href="https://every.to/talk-therapy/93-ted-lasso-recap-season-2-episode-5"/>
+        <updated>2021-09-01T17:42:04.332Z</updated>
+        <content type="html"><![CDATA[Dan, Nathan and Rachel, discuss what is perhaps<br data-owner="balance-text">the low point of a season that has already had<br data-owner="balance-text">its share of peaks and valleys. Why does the]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#92 - Ted Lasso Recap: S2 Episode 4]]></title>
         <id>https://every.to/talk-therapy/92-ted-lasso-recap-s2-episode-4</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/talk-therapy/69-shadow-work"/>
         <updated>2021-08-30T17:33:09.895Z</updated>
         <content type="html"><![CDATA[Taking a listener's recommendation to do some<br data-owner="balance-text">"shadow work"—a therapy technique culled from<br data-owner="balance-text">a New Yorker article about an unconventional Hol]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#68 - Going deeper onconflicts—and solutions]]></title>
-        <id>https://every.to/talk-therapy/68-going-deeper-on-conflicts-and-solutions-8047</id>
-        <link href="https://every.to/talk-therapy/68-going-deeper-on-conflicts-and-solutions-8047"/>
-        <updated>2021-08-30T17:33:09.918Z</updated>
-        <content type="html"><![CDATA[Taking stock of the positive feedback they've<br data-owner="balance-text">received on the last few episodes, which have<br data-owner="balance-text">taken raw, unfiltered looks and the bumps and pe]]></content>
     </entry>
 </feed>
