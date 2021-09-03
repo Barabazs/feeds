@@ -137,3 +137,12 @@ linkSelector = ".w-dyn-item a"
 contentSelector = ".w-dyn-item .dark-dimmed-text"
 onFail = "stale"
 timeout = 120
+
+[SoftwareLead]
+title = ""
+url = ""
+entrySelector = ".table-issue"
+titleSelector = ".head-table-issue > .title-table-issue > a"
+linkSelector = ".head-table-issue > .title-table-issue > a"
+onFail = "stale"
+timeout = 120
