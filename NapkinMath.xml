@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2021-09-03T05:37:14.822Z</updated>
+    <updated>2021-09-03T17:42:18.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Content Moderation Double-Bind Theory]]></title>
+        <id>https://every.to/napkin-math/content-moderation-double-bind-theory</id>
+        <link href="https://every.to/napkin-math/content-moderation-double-bind-theory"/>
+        <updated>2021-09-03T17:41:41.490Z</updated>
+        <content type="html"><![CDATA[The market failures damning content<br data-owner="balance-text">to ever increasing sensationalism]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How a Climate Tech Startup Closed 5+Enterprise Deals Before Even Launching]]></title>
         <id>https://every.to/napkin-math/how-a-climate-tech-startup-closed-5-enterprise-deals-before-even-launching</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/your-uncle-is-still-your-uncle-ant-17729093"/>
         <updated>2021-08-30T17:32:53.194Z</updated>
         <content type="html"><![CDATA[Ant's IPO has been taken down. What happened, what do<br data-owner="balance-text">you need to know and what should we expect to see next?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Political Betting MarketsPredict Election Outcomes?]]></title>
-        <id>https://every.to/napkin-math/can-political-betting-markets-predict-17472500</id>
-        <link href="https://every.to/napkin-math/can-political-betting-markets-predict-17472500"/>
-        <updated>2021-08-30T17:32:53.199Z</updated>
-        <content type="html"><![CDATA[Polls and pundits don't do a good job of predicting<br data-owner="balance-text">election results. But what about prediction<br data-owner="balance-text">markets? In this post, we discuss what makes a<br data-owner="balance-text">good market and what could cause it to be wrong.]]></content>
     </entry>
 </feed>
