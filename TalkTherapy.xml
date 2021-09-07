@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/talk-therapy?sort=newest</id>
     <title>Talk Therapy</title>
-    <updated>2021-09-07T05:37:35.149Z</updated>
+    <updated>2021-09-07T17:46:02.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[#94 - Ted Lasso Recap S2 E6: How totell a friend you’re worried about them]]></title>
+        <id>https://every.to/talk-therapy/94-ted-lasso-recap-s2-e6-how-to-tell-a-friend-you-re-worried-about-them</id>
+        <link href="https://every.to/talk-therapy/94-ted-lasso-recap-s2-e6-how-to-tell-a-friend-you-re-worried-about-them"/>
+        <updated>2021-09-07T17:43:47.122Z</updated>
+        <content type="html"><![CDATA[(Spoilers, as usual!) In the this episode of Ted<br data-owner="balance-text">Lasso, Higgins decides to take Coach Beard<br data-owner="balance-text">aside and ask him whether he really thinks it's]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#93 - Ted Lasso Recap: Season 2 Episode 5]]></title>
         <id>https://every.to/talk-therapy/93-ted-lasso-recap-season-2-episode-5</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/talk-therapy/70-nathan-screwed-up-an-honest-post-mortem"/>
         <updated>2021-08-30T17:33:09.894Z</updated>
         <content type="html"><![CDATA[After their last conversation about Jungian<br data-owner="balance-text">therapy and how "Shadow Work" can help us get<br data-owner="balance-text">a better look at the more difficult parts of ourse]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#69 - Shadow Work]]></title>
-        <id>https://every.to/talk-therapy/69-shadow-work</id>
-        <link href="https://every.to/talk-therapy/69-shadow-work"/>
-        <updated>2021-08-30T17:33:09.895Z</updated>
-        <content type="html"><![CDATA[Taking a listener's recommendation to do some<br data-owner="balance-text">"shadow work"—a therapy technique culled from<br data-owner="balance-text">a New Yorker article about an unconventional Hol]]></content>
     </entry>
 </feed>
