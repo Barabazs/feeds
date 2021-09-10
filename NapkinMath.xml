@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2021-09-09T17:43:59.540Z</updated>
+    <updated>2021-09-10T05:35:07.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tech stocks’ favorite lie to investors]]></title>
+        <id>https://every.to/napkin-math/tech-stocks-favorite-lie-to-investors</id>
+        <link href="https://every.to/napkin-math/tech-stocks-favorite-lie-to-investors"/>
+        <updated>2021-09-10T05:34:36.315Z</updated>
+        <content type="html"><![CDATA[How the LTV/CAC ratio is manipulated<br data-owner="balance-text">to take advantage of retail investors]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Content Moderation Double-Bind Theory]]></title>
         <id>https://every.to/napkin-math/content-moderation-double-bind-theory</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/cash-conversion-cycle-bridging-the-18577406"/>
         <updated>2021-08-30T17:32:53.194Z</updated>
         <content type="html"><![CDATA[What is the Cash Conversion Cycle and why<br data-owner="balance-text">is it useful? In this post, we discuss the Cash<br data-owner="balance-text">Conversion Cycle formula, an example calculation,<br data-owner="balance-text">and a comparison of public retailer IPOs.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Uncle Is Still YourUncle: Ant Pulls Its IPO]]></title>
-        <id>https://every.to/napkin-math/your-uncle-is-still-your-uncle-ant-17729093</id>
-        <link href="https://every.to/napkin-math/your-uncle-is-still-your-uncle-ant-17729093"/>
-        <updated>2021-08-30T17:32:53.194Z</updated>
-        <content type="html"><![CDATA[Ant's IPO has been taken down. What happened, what do<br data-owner="balance-text">you need to know and what should we expect to see next?]]></content>
     </entry>
 </feed>
