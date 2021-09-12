@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/free-radicals?sort=newest</id>
     <title>Free Radicals</title>
-    <updated>2021-09-11T17:42:11.223Z</updated>
+    <updated>2021-09-12T05:39:18.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[VCs are *still* ignoring Blackfounders. What can we do now?]]></title>
+        <id>https://every.to/free-radicals/it-should-be-criminal</id>
+        <link href="https://every.to/free-radicals/it-should-be-criminal"/>
+        <updated>2021-09-12T05:34:56.531Z</updated>
+        <content type="html"><![CDATA[The authors of a new book on the history and future of<br data-owner="balance-text">diversity in venture capital break some of the industry’s<br data-owner="balance-text">biggest secrets and reveal its most entrenched problems]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kim Roxie: What I don’t know is the future]]></title>
         <id>https://every.to/free-radicals/kim-roxie-what-i-don-t-know-is-the-future</id>
