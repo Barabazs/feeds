@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Barabazs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-13T17:42:21.656Z</updated>
+    <updated>2021-09-14T05:37:32.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[How James Clear is Writing His Next Book (Superorganizers)]]></title>
@@ -667,6 +667,13 @@ I had been working in Excel for]]></content>
         <content type="html"><![CDATA[How the professional platform makes networking weird]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Overcoming Web3 Bias (Divinations)]]></title>
+        <id>https://every.to/divinations/overcoming-web3-bias</id>
+        <link href="https://every.to/divinations/overcoming-web3-bias"/>
+        <updated>2021-09-14T05:34:53.510Z</updated>
+        <content type="html"><![CDATA[How to navigate strange new paradigms that<br data-owner="balance-text">could change everything—unless they don’t.]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How Power Works in Venture Capital (Divinations)]]></title>
         <id>https://every.to/divinations/how-power-works-in-venture-capital</id>
         <link href="https://every.to/divinations/how-power-works-in-venture-capital"/>
@@ -834,13 +841,6 @@ Enjoy!]]></content>
         <link href="https://every.to/divinations/roams-road-ahead-2444209"/>
         <updated>2021-08-30T17:32:49.305Z</updated>
         <content type="html"><![CDATA[How the tool for networked thought<br data-owner="balance-text">can grow into its $200m valuation]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strategy Smells (Divinations)]]></title>
-        <id>https://every.to/divinations/strategy-smells-1223871</id>
-        <link href="https://every.to/divinations/strategy-smells-1223871"/>
-        <updated>2021-08-30T17:32:49.306Z</updated>
-        <content type="html"><![CDATA[Hints that your strategy isn't working]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tech stocks’ favorite lie to investors (Napkin Math)]]></title>
@@ -1578,7 +1578,7 @@ Enjoy!]]></content>
         <content type="html"><![CDATA[Rachel and Taylor join Dan to workshop his<br data-owner="balance-text">upcoming essay on something everyone has feelings<br data-owner="balance-text">about: Worry. Topics include: how we might chan]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TLC Podcast #13: Creativity for Non-Creatives (The Long Conversation)]]></title>
+        <title type="html"><![CDATA[TLC Podcast #13: Creativityfor Non-Creatives (The Long Conversation)]]></title>
         <id>https://every.to/the-long-conversation/tlc-podcast-13-creativity-for-non-creatives</id>
         <link href="https://every.to/the-long-conversation/tlc-podcast-13-creativity-for-non-creatives"/>
         <updated>2021-08-30T17:33:16.137Z</updated>
@@ -1655,7 +1655,7 @@ Enjoy!]]></content>
         <content type="html"><![CDATA[After a writing exercise where the panelists<br data-owner="balance-text">explored different career paths they might have<br data-owner="balance-text">followed, Dan, Adam, and Taylor talk through th]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TLC Podcast #5: Writing As a Way ofBeing Part II, with Robert Yagelski (The Long Conversation)]]></title>
+        <title type="html"><![CDATA[TLC Podcast #5: Writing As a Wayof Being Part II, with Robert Yagelski (The Long Conversation)]]></title>
         <id>https://every.to/the-long-conversation/tlc-podcast-5-writing-as-a-way-of-18947299</id>
         <link href="https://every.to/the-long-conversation/tlc-podcast-5-writing-as-a-way-of-18947299"/>
         <updated>2021-08-30T17:33:16.155Z</updated>
