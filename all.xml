@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Barabazs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-22T05:39:22.717Z</updated>
+    <updated>2021-09-22T17:47:45.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[How James Clear is Writing His Next Book (Superorganizers)]]></title>
@@ -1494,6 +1494,13 @@ Enjoy!]]></content>
         <content type="html"><![CDATA[Dan &amp;amp; Nathan welcome Evan Armstrong,<br data-owner="balance-text">Every's new Napkin Math lead, to the show. Walking<br data-owner="balance-text">through Evan's path to joining the collective, t]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How Writing Can Help UsWith Grief and Trauma (The Long Conversation)]]></title>
+        <id>https://every.to/the-long-conversation/the-journal-is-a-mind-expanding-agent</id>
+        <link href="https://every.to/the-long-conversation/the-journal-is-a-mind-expanding-agent"/>
+        <updated>2021-09-22T17:43:32.353Z</updated>
+        <content type="html"><![CDATA[Evidence, explanation, and exercises]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Re: Happiness, in pursuit thereof (The Long Conversation)]]></title>
         <id>https://every.to/the-long-conversation/re-happiness-in-pursuit-thereof</id>
         <link href="https://every.to/the-long-conversation/re-happiness-in-pursuit-thereof"/>
@@ -1660,13 +1667,6 @@ Enjoy!]]></content>
         <link href="https://every.to/the-long-conversation/tlc-podcast-5-writing-as-a-way-of-18947299"/>
         <updated>2021-08-30T17:33:16.155Z</updated>
         <content type="html"><![CDATA[Rachel and the writers (including guest panelist<br data-owner="balance-text">Fadeke Adegbuyi!) welcome the author of Writing<br data-owner="balance-text">as a Way of Being, Dr. Robert P. Yagelski—o]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TLC #6: The Omniscient Writer (The Long Conversation)]]></title>
-        <id>https://every.to/the-long-conversation/tlc-6-the-omniscient-writer-18767915</id>
-        <link href="https://every.to/the-long-conversation/tlc-6-the-omniscient-writer-18767915"/>
-        <updated>2021-08-30T17:33:16.156Z</updated>
-        <content type="html"><![CDATA[I dwell in Possibility -Emily Dickinson]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Summer (Prediction) Games (The Prediction Game)]]></title>
@@ -1882,84 +1882,84 @@ Enjoy!]]></content>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2021-09-22T05:39:21.939Z</updated>
+        <updated>2021-09-22T17:47:44.286Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title featured"><a href="/veefinance-rekt/"> <!-- -->Vee Finance - REKT</a></h5><hr><span class="post-meta"><time>21 Sep 2021</time><p><span><a href="/?tag=Vee%20Finance">Vee Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Top ten thievery. $34 million taken from Vee Finance earns them the number 7 spot on our leaderboard, yet nobody seems surprised. What’s normal for us is not normal elsewhere.</p><p class="post-excerpt-more"><a href="/veefinance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2021-09-22T05:39:21.940Z</updated>
+        <updated>2021-09-22T17:47:44.287Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/jaypegs-automart-rekt/"> <!-- -->JayPegs Automart - REKT</a></h5><hr><span class="post-meta"><time>18 Sept 2021</time><p><span><a href="/?tag=NFT">NFT</a></span><span> - <a href="/?tag=Sushi">Sushi</a></span><span> - <a href="/?tag=JayPeg">JayPeg</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>A blue-chip rekt by a front-end attack. Remind us, which part of crypto is supposed to be “trustless”? Misplaced faith (temporarily) cost MISO $3.1 million.</p><p class="post-excerpt-more"><a href="/jaypegs-automart-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2021-09-22T05:39:21.941Z</updated>
+        <updated>2021-09-22T17:47:44.289Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/spotlight-on-solana/"> <!-- -->Spotlight on Solana</a></h5><hr><span class="post-meta"><time>13 Sep 2021</time><p><span><a href="/?tag=Solana">Solana</a></span><span> - <a href="/?tag=Spotlight">Spotlight</a></span></p></span><hr></header><section class="post-excerpt"><p>Was that Solana Summer? These cheaper, faster, centralised chains put the Ethereum "community" to the test. But are their claims accurate?</p><p class="post-excerpt-more"><a href="/spotlight-on-solana/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2021-09-22T05:39:21.942Z</updated>
+        <updated>2021-09-22T17:47:44.290Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/daomaker-rekt/"> <!-- -->DAO Maker - REKT</a></h5><hr><span class="post-meta"><time>06 Sep 2021</time><p><span><a href="/?tag=DAO%20Maker">DAO Maker</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>DAO Maker meet their maker. Again. $4M lost, less than a month after losing $7M. If you get rekt on repeat then we have to say something...</p><p class="post-excerpt-more"><a href="/daomaker-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2021-09-22T05:39:21.944Z</updated>
+        <updated>2021-09-22T17:47:44.290Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/tomb-finance-rekt/"> <!-- -->Tomb Finance - REKT</a></h5><hr><span class="post-meta"><time>03 Sep 2021</time><p><span><a href="/?tag=Fantom">Fantom</a></span><span> - <a href="/?tag=Tomb%20Finance">Tomb Finance</a></span></p></span><hr></header><section class="post-excerpt"><p>The raid of Tomb Finance makes for Fantom's first fatality. The Tomb team say it wasn't a hack, but we’ll let the rekt readers be the judge of that.</p><p class="post-excerpt-more"><a href="/tomb-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2021-09-22T05:39:21.945Z</updated>
+        <updated>2021-09-22T17:47:44.291Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/banksy-pranksy-scam/"> <!-- -->Banksy Pranksy Scam</a></h5><hr><span class="post-meta"><time>01 Sep 2021</time><p><span><a href="/?tag=Banksy">Banksy</a></span><span> - <a href="/?tag=Pranksy">Pranksy</a></span><span> - <a href="/?tag=NFT">NFT</a></span></p></span><hr></header><section class="post-excerpt"><p>The Banksy Pranksy Scam caught the attention of even the mainstream media, but nobody tried to find the truth. Was it a publicity stunt, or "performance art"? We stop and search the suspects to find out more.</p><p class="post-excerpt-more"><a href="/banksy-pranksy-scam/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2021-09-22T05:39:21.946Z</updated>
+        <updated>2021-09-22T17:47:44.291Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/cream-rekt/"> <!-- -->Cream Finance - REKT</a></h5><hr><span class="post-meta"><time>30 Aug 2021</time><p><span><a href="/?tag=Cream">Cream</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Inspector rekt back once again. $18.8M lost to a ghostface killer, this time from an old school DeFi protocol.</p><p class="post-excerpt-more"><a href="/cream-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2021-09-22T05:39:21.947Z</updated>
+        <updated>2021-09-22T17:47:44.292Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/xtoken-rekt-x2/"> <!-- -->X-Token - REKT X2</a></h5><hr><span class="post-meta"><time>30 Aug 2021</time><p><span><a href="/?tag=X-Token">X-Token</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Some sequels should never be written. Three months ago this team lost $24 million - in the same token, to the same attack technique. Why did they let it happen again?</p><p class="post-excerpt-more"><a href="/xtoken-rekt-x2/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2021-09-22T05:39:21.948Z</updated>
+        <updated>2021-09-22T17:47:44.292Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/a-piece-of-art/"> <!-- -->A Piece of Art</a></h5><hr><span class="post-meta"><time>27 Aug 2021</time><p><span><a href="/?tag=NFT">NFT</a></span><span> - <a href="/?tag=fractionalisation">fractionalisation</a></span></p></span><hr></header><section class="post-excerpt"><p>Chop it up, pump the price, and ramp up the speculation. NFT Fractionalisation has arrived, and influencers are getting hilariously rich, but for how long?</p><p class="post-excerpt-more"><a href="/a-piece-of-art/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2021-09-22T05:39:21.949Z</updated>
+        <updated>2021-09-22T17:47:44.293Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/punkprotocol-rekt/"> <!-- -->Punk Protocol - REKT</a></h5><hr><span class="post-meta"><time>13 Aug 2021</time><p><span><a href="/?tag=Punk%20Protocol">Punk Protocol</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Punk is dead. On Aug 10th, Punk Protocol was hacked for $8.95M, ~$5M of which was later returned.</p><p class="post-excerpt-more"><a href="/punkprotocol-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2021-09-22T05:39:21.950Z</updated>
+        <updated>2021-09-22T17:47:44.295Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/polynetwork-rekt/"> <!-- -->Poly Network - REKT</a></h5><hr><span class="post-meta"><time>11 Aug 2021</time><p><span><a href="/?tag=Poly%20Network">Poly Network</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>This is it rekt readers; the big one. $611M stolen from Poly Network, but has the hacker had a change of heart? They're returning the money bit by bit.</p><p class="post-excerpt-more"><a href="/polynetwork-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2021-09-22T05:39:21.953Z</updated>
+        <updated>2021-09-22T17:47:44.296Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/levyathan-rekt/"> <!-- -->Levyathan - REKT</a></h5><hr><span class="post-meta"><time>5 Aug 2021</time><p><span><a href="/?tag=Levyathan">Levyathan</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Levyathan Finance sank last week, along with its TVL of $1.5M. Basic errors lead to total destruction. Bad intentions or just raw incompetence? You decide.</p><p class="post-excerpt-more"><a href="/levyathan-rekt/">MORE</a></p></section>]]></content>
     </entry>
 </feed>
