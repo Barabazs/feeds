@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Barabazs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-28T17:47:17.122Z</updated>
+    <updated>2021-09-29T05:41:41.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[How James Clear is Writing His Next Book (Superorganizers)]]></title>
@@ -1025,6 +1025,13 @@ Enjoy!]]></content>
         <content type="html"><![CDATA[A look inside the S-1 of Wish. Included is the background<br data-owner="balance-text">of Wish, a look at their margins, how the universal<br data-owner="balance-text">postal union is changing their cost structure, how<br data-owner="balance-text">their CAC is rising and if they are viable long-term.]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Packy McCormick on Web3(how he got sucked in) (Means of Creation)]]></title>
+        <id>https://every.to/means-of-creation/packy-mccormick-on-web3-how-he-got-sucked-in</id>
+        <link href="https://every.to/means-of-creation/packy-mccormick-on-web3-how-he-got-sucked-in"/>
+        <updated>2021-09-29T05:35:09.152Z</updated>
+        <content type="html"><![CDATA[Packy McCormick, author of Not Boring, one of<br data-owner="balance-text">the most widely-read analysts in tech. His newsletter<br data-owner="balance-text">now has more than 75k subscribers and he]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How Crypto Projects Like Loot are Rewritingthe Playbook for Building Communities (Means of Creation)]]></title>
         <id>https://every.to/means-of-creation/crypto-is-rewriting-the-creator-economy-playbook</id>
         <link href="https://every.to/means-of-creation/crypto-is-rewriting-the-creator-economy-playbook"/>
@@ -1191,13 +1198,6 @@ Enjoy!]]></content>
         <link href="https://every.to/means-of-creation/full-transcript-means-of-creation-allen-lau"/>
         <updated>2021-08-30T17:32:58.100Z</updated>
         <content type="html"><![CDATA[Full transcript of our conversation with Allen]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LinkedIn Is Launching A Creator Program (Means of Creation)]]></title>
-        <id>https://every.to/means-of-creation/linkedin-is-launching-a-creator-program</id>
-        <link href="https://every.to/means-of-creation/linkedin-is-launching-a-creator-program"/>
-        <updated>2021-08-30T17:32:58.099Z</updated>
-        <content type="html"><![CDATA[Also: Mark Cuban’s plan to take on Clubhouse,<br data-owner="balance-text">Influencer unions, Triller’s latest content strategy,<br data-owner="balance-text">TikTok’s recipe-saving feature, and more]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[VCs are *still* ignoring Blackfounders. What can we do now? (Free Radicals)]]></title>
