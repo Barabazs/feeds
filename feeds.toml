@@ -146,15 +146,3 @@ titleSelector = ".head-table-issue > .title-table-issue > a"
 linkSelector = ".head-table-issue > .title-table-issue > a"
 onFail = "stale"
 timeout = 120
-
-[rektNews]
-title = "Rekt.news"
-url = "https://rekt.news/"
-entrySelector = "article.post"
-titleSelector = "article.post > .post-header > .post-title > a"
-linkSelector = "article.post > .post-header > .post-title > a"
-contentSelector = "article.post > .post-excerpt > p:first-of-type"
-dateSelector = "article.post > .post-header > .post-meta > time"
-dateFormat = "dd MMM yyyy"
-onFail = "stale"
-timeout = 120
