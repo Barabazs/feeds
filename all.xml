@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Barabazs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-06T17:44:30.323Z</updated>
+    <updated>2021-10-07T05:39:29.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Do “Stress Cancelling” Headsets Work? (Superorganizers)]]></title>
@@ -532,6 +532,13 @@ I had been working in Excel for]]></content>
         <link href="https://every.to/almanack/oatly-the-new-coke-821556"/>
         <updated>2021-08-30T17:32:42.095Z</updated>
         <content type="html"><![CDATA[Fool me once, shame on you...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Primer on the Parasocial Economy (Cybernaut)]]></title>
+        <id>https://every.to/cybernaut/a-primer-on-the-parasocial-economy</id>
+        <link href="https://every.to/cybernaut/a-primer-on-the-parasocial-economy"/>
+        <updated>2021-10-07T05:34:46.711Z</updated>
+        <content type="html"><![CDATA[How online platforms monetize one-<br data-owner="balance-text-hyphen">sided bonds between creators and fans]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Anti-Fan Phenomenon (Cybernaut)]]></title>
