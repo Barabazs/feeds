@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2021-10-07T05:39:29.748Z</updated>
+    <updated>2021-10-07T17:42:37.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The End of Software, Again]]></title>
+        <id>https://every.to/napkin-math/the-end-of-software-again</id>
+        <link href="https://every.to/napkin-math/the-end-of-software-again"/>
+        <updated>2021-10-07T17:37:55.768Z</updated>
+        <content type="html"><![CDATA[The impending doom of horizontal SaaS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT Projects are just MLMs for Tech Elites]]></title>
         <id>https://every.to/napkin-math/nft-projects-are-just-mlms-for-tech-elites</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/my-favorite-company-deep-dives-of-31060097"/>
         <updated>2021-08-30T17:32:53.192Z</updated>
         <content type="html"><![CDATA[Taking a look at the best companies deep dives<br data-owner="balance-text">of the past year, including posts on Fiverr/Upwork,<br data-owner="balance-text">Carta, Tyler Corporation, CostCo and more]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Live-streamingEcommerce Works in China]]></title>
-        <id>https://every.to/napkin-math/how-live-streaming-ecommerce-works-23272847</id>
-        <link href="https://every.to/napkin-math/how-live-streaming-ecommerce-works-23272847"/>
-        <updated>2021-08-30T17:32:53.192Z</updated>
-        <content type="html"><![CDATA[In China, livestreaming has changed eCommerce. Learn<br data-owner="balance-text">about how it works, what the hosts do during the<br data-owner="balance-text">steam, and how it could impact American eCommerce.]]></content>
     </entry>
 </feed>
