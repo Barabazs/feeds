@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/superorganizers?sort=newest</id>
     <title>Superorganizers</title>
-    <updated>2021-10-11T05:37:22.716Z</updated>
+    <updated>2021-10-11T17:45:37.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How Flow Saved a Chef]]></title>
+        <id>https://every.to/superorganizers/flowing-with-frank</id>
+        <link href="https://every.to/superorganizers/flowing-with-frank"/>
+        <updated>2021-10-11T17:40:26.516Z</updated>
+        <content type="html"><![CDATA[A Renowned New York Restaurateur on Using Flow to<br data-owner="balance-text">Run His Business, Make Decisions, and Guide His Life]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Do “Stress Cancelling” Headsets Work?]]></title>
         <id>https://every.to/superorganizers/cove-review-stress-cancelling-technology</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/superorganizers/hunting-knowledge-with-eric-jorgenson-19337636"/>
         <updated>2021-08-30T17:32:34.487Z</updated>
         <content type="html"><![CDATA[How the author of The Almanack<br data-owner="balance-text">of Naval Ravikant curates wisdom]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Action Item: The Questto be Good at Everything]]></title>
-        <id>https://every.to/superorganizers/action-item-the-quest-to-be-good-19156188</id>
-        <link href="https://every.to/superorganizers/action-item-the-quest-to-be-good-19156188"/>
-        <updated>2021-08-30T17:32:34.489Z</updated>
-        <content type="html"><![CDATA[The co-founder of Bark shares his 8 +<br data-owner="balance-text">1 system for becoming excellent at life]]></content>
     </entry>
 </feed>
