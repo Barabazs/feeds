@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/means-of-creation?sort=newest</id>
     <title>Means of Creation</title>
-    <updated>2021-10-26T05:40:04.391Z</updated>
+    <updated>2021-10-26T16:15:29.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Man Who Taught a Robot to Paint]]></title>
+        <id>https://every.to/means-of-creation/the-artist-and-the-robot</id>
+        <link href="https://every.to/means-of-creation/the-artist-and-the-robot"/>
+        <updated>2021-10-26T16:10:56.250Z</updated>
+        <content type="html"><![CDATA[Can a piece of technology democratize the art world?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Legitimacy Lost]]></title>
         <id>https://every.to/means-of-creation/legitimacy-lost</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/means-of-creation/the-creator-whisperer"/>
         <updated>2021-08-30T17:32:58.098Z</updated>
         <content type="html"><![CDATA[Ian Borthwick’s secrets of influencer marketing]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can NFTs Be A New MonetisationModel For Creators?]]></title>
-        <id>https://every.to/means-of-creation/can-nfts-be-a-new-monetisation-model-for-creators</id>
-        <link href="https://every.to/means-of-creation/can-nfts-be-a-new-monetisation-model-for-creators"/>
-        <updated>2021-08-30T17:32:58.098Z</updated>
-        <content type="html"><![CDATA[Also: Dispo’s $200 million valuation, MrBeast sells 1<br data-owner="balance-text">million burgers, Spotify’s latest announcements, and more]]></content>
     </entry>
 </feed>
