@@ -166,6 +166,5 @@ entrySelector = ".blog-timeline .blog-timeline--body"
 titleSelector = ".blog-timeline .blog-timeline--body h3"
 linkSelector = ".blog-timeline .blog-timeline--body h3 a"
 contentSelector = ".blog-timeline .blog-timeline--body h4"
-dateSelector = ".blog-timeline time"
 onFail = "stale"
 timeout = 120
