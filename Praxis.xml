@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/praxis?sort=newest</id>
     <title>Praxis</title>
-    <updated>2021-11-02T05:42:40.009Z</updated>
+    <updated>2021-11-02T17:47:12.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Paranoid Productivity]]></title>
-        <id>https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2</id>
-        <link href="https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2"/>
-        <updated>2021-08-30T17:32:38.661Z</updated>
-        <content type="html"><![CDATA[By Christina LuoProductivity is about managing<br data-owner="balance-text">emotions as much as projects. Yet we often focus<br data-owner="balance-text">on productivity as a toolset more than a min]]></content>
+        <title type="html"><![CDATA[The Magic of Linear Listening]]></title>
+        <id>https://every.to/praxis/the-magic-of-linear-listening</id>
+        <link href="https://every.to/praxis/the-magic-of-linear-listening"/>
+        <updated>2021-11-02T17:42:14.239Z</updated>
+        <content type="html"><![CDATA[What I Learned From Listening to<br data-owner="balance-text">100 Episodes of the SPI Podcast]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Inner Limits]]></title>
@@ -18,6 +18,13 @@
         <link href="https://every.to/praxis/inner-limits"/>
         <updated>2021-08-30T17:32:38.660Z</updated>
         <content type="html"><![CDATA[Why You’re Not Getting More Out of Journaling]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paranoid Productivity]]></title>
+        <id>https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2</id>
+        <link href="https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2"/>
+        <updated>2021-08-30T17:32:38.661Z</updated>
+        <content type="html"><![CDATA[By Christina LuoProductivity is about managing<br data-owner="balance-text">emotions as much as projects. Yet we often focus<br data-owner="balance-text">on productivity as a toolset more than a min]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Introducing: Praxis Fellows Essays]]></title>
@@ -182,12 +189,5 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <link href="https://every.to/praxis/my-26-favorite-essays-of-2019-538016"/>
         <updated>2021-08-30T17:32:38.687Z</updated>
         <content type="html"><![CDATA[As part of my year-end review, I always review<br data-owner="balance-text">my favorite reading of the year. These usually<br data-owner="balance-text">tend to be “long-form” online essays diving de]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interview with Billy Bross of Email Boss]]></title>
-        <id>https://every.to/praxis/interview-with-billy-bross-of-email-544522</id>
-        <link href="https://every.to/praxis/interview-with-billy-bross-of-email-544522"/>
-        <updated>2021-08-30T17:32:38.691Z</updated>
-        <content type="html"><![CDATA[This is an interview with my online course<br data-owner="balance-text">marketing coach and creator of the Email Boss<br data-owner="balance-text">program&nbsp;Billy Bross. It is an in-depth discussion i]]></content>
     </entry>
 </feed>
