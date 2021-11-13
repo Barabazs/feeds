@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/almanack?sort=newest</id>
     <title>Almanack</title>
-    <updated>2021-11-12T17:49:41.478Z</updated>
+    <updated>2021-11-13T05:41:56.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Yield DAOs: LeveragingWeb3 for Better Offline Living]]></title>
+        <id>https://every.to/almanack/yield-daos</id>
+        <link href="https://every.to/almanack/yield-daos"/>
+        <updated>2021-11-13T05:35:00.036Z</updated>
+        <content type="html"><![CDATA[Free meat and coffee from your university endaoment]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Tokemak Automates Low-Risk Yield Farming - DeFriday #16]]></title>
         <id>https://every.to/almanack/tokemak-defriday</id>
@@ -173,12 +180,5 @@
         <updated>2021-08-30T17:32:42.092Z</updated>
         <content type="html"><![CDATA[During my first college internship, I completely<br data-owner="balance-text">replaced myself with Visual Basic scripts. Let<br data-owner="balance-text">me explain.&nbsp;
 I had been working in Excel for]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Took Notes on 250+ Books in Roam]]></title>
-        <id>https://every.to/almanack/how-i-took-notes-on-250-books-in-10649360</id>
-        <link href="https://every.to/almanack/how-i-took-notes-on-250-books-in-10649360"/>
-        <updated>2021-08-30T17:32:42.094Z</updated>
-        <content type="html"><![CDATA[My step-by-step guide for taking book notes in Roam]]></content>
     </entry>
 </feed>
