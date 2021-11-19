@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Barabazs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-18T17:42:58.185Z</updated>
+    <updated>2021-11-19T05:44:43.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[How I Got My Brain Back (Superorganizers)]]></title>
@@ -688,6 +688,13 @@ I had been working in Excel for]]></content>
         <content type="html"><![CDATA[How the professional platform makes networking weird]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Notes on ConstitutionDAO (Divinations)]]></title>
+        <id>https://every.to/divinations/notes-on-constitutiondao</id>
+        <link href="https://every.to/divinations/notes-on-constitutiondao"/>
+        <updated>2021-11-19T05:35:53.944Z</updated>
+        <content type="html"><![CDATA[A few quick observations]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The two biggest critiques of web3, analyzed (Divinations)]]></title>
         <id>https://every.to/divinations/the-two-biggest-critiques-of-web3-analyzed</id>
         <link href="https://every.to/divinations/the-two-biggest-critiques-of-web3-analyzed"/>
@@ -854,13 +861,6 @@ I had been working in Excel for]]></content>
         <link href="https://every.to/divinations/three-shorts-snap-apple-vox-20019622"/>
         <updated>2021-08-30T17:32:49.299Z</updated>
         <content type="html"><![CDATA[On Snap's take on TikTok, Apple's developer<br data-owner="balance-text">fee reduction, and Vox's talent attrition.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Shorts: Instagram, Spotify, Substack (Divinations)]]></title>
-        <id>https://every.to/divinations/three-shorts-instagram-spotify-substack-19215761</id>
-        <link href="https://every.to/divinations/three-shorts-instagram-spotify-substack-19215761"/>
-        <updated>2021-08-30T17:32:49.299Z</updated>
-        <content type="html"><![CDATA[The strategy behind the news, in<br data-owner="balance-text">as few bullet points as possible]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Top 12 Creator Platforms—Ranked (Napkin Math)]]></title>
@@ -1717,14 +1717,14 @@ I had been working in Excel for]]></content>
         <content type="html"><![CDATA[Spring is here, vaccines are going into people’s arms<br data-owner="balance-text">and it’s raining points here at the Prediction Game.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to See The Future Like a Superforecaster (The Prediction Game)]]></title>
+        <title type="html"><![CDATA[How to See The FutureLike a Superforecaster (The Prediction Game)]]></title>
         <id>https://every.to/the-prediction-game/how-to-see-the-future-like-a-superforecaster-8313</id>
         <link href="https://every.to/the-prediction-game/how-to-see-the-future-like-a-superforecaster-8313"/>
         <updated>2021-08-30T17:33:19.048Z</updated>
         <content type="html"><![CDATA[Maybe, if we get really good at analyzing<br data-owner="balance-text">the past and present we can get really good<br data-owner="balance-text">at predicting the future in lots of situations.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Did We Create a Rip in the Fabric of Spacetime? (The Prediction Game)]]></title>
+        <title type="html"><![CDATA[Did We Create a Rip inthe Fabric of Spacetime? (The Prediction Game)]]></title>
         <id>https://every.to/the-prediction-game/did-we-create-a-rip-in-the-fabric-of-spacetime</id>
         <link href="https://every.to/the-prediction-game/did-we-create-a-rip-in-the-fabric-of-spacetime"/>
         <updated>2021-08-30T17:33:19.049Z</updated>

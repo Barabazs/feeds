@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/divinations?sort=newest</id>
     <title>Divinations</title>
-    <updated>2021-11-18T17:42:58.149Z</updated>
+    <updated>2021-11-19T05:44:43.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Notes on ConstitutionDAO]]></title>
+        <id>https://every.to/divinations/notes-on-constitutiondao</id>
+        <link href="https://every.to/divinations/notes-on-constitutiondao"/>
+        <updated>2021-11-19T05:35:53.944Z</updated>
+        <content type="html"><![CDATA[A few quick observations]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The two biggest critiques of web3, analyzed]]></title>
         <id>https://every.to/divinations/the-two-biggest-critiques-of-web3-analyzed</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/divinations/three-shorts-snap-apple-vox-20019622"/>
         <updated>2021-08-30T17:32:49.299Z</updated>
         <content type="html"><![CDATA[On Snap's take on TikTok, Apple's developer<br data-owner="balance-text">fee reduction, and Vox's talent attrition.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Shorts: Instagram, Spotify, Substack]]></title>
-        <id>https://every.to/divinations/three-shorts-instagram-spotify-substack-19215761</id>
-        <link href="https://every.to/divinations/three-shorts-instagram-spotify-substack-19215761"/>
-        <updated>2021-08-30T17:32:49.299Z</updated>
-        <content type="html"><![CDATA[The strategy behind the news, in<br data-owner="balance-text">as few bullet points as possible]]></content>
     </entry>
 </feed>
