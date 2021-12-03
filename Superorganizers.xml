@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/superorganizers?sort=newest</id>
     <title>Superorganizers</title>
-    <updated>2021-12-02T17:47:16.932Z</updated>
+    <updated>2021-12-03T05:41:20.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Event: $10k Work with Khe Hy]]></title>
+        <id>https://every.to/superorganizers/event-10k-work-with-khe-hy</id>
+        <link href="https://every.to/superorganizers/event-10k-work-with-khe-hy"/>
+        <updated>2021-12-03T05:36:12.906Z</updated>
+        <content type="html"><![CDATA[When it comes to productivity systems, you've<br data-owner="balance-text">tried them all, yet nothing really sticks. Why?<br data-owner="balance-text">Because the popular methods don't prioritize i]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Write Philosophywith Dr. Pamela Hieronymi]]></title>
         <id>https://every.to/superorganizers/how-to-write-philosophy-with-dr-pamela-hieronymi</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/superorganizers/validating-a-side-hustle"/>
         <updated>2021-08-30T17:32:34.476Z</updated>
         <content type="html"><![CDATA[How Justin Mares validated the idea<br data-owner="balance-text">that became a successful D2C company]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding the Truth]]></title>
-        <id>https://every.to/superorganizers/finding-the-truth</id>
-        <link href="https://every.to/superorganizers/finding-the-truth"/>
-        <updated>2021-08-30T17:32:34.476Z</updated>
-        <content type="html"><![CDATA[What to do when it feels like you're<br data-owner="balance-text">spinning your wheels intellectually]]></content>
     </entry>
 </feed>
