@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/divinations?sort=newest</id>
     <title>Divinations</title>
-    <updated>2021-12-06T17:37:21.270Z</updated>
+    <updated>2021-12-07T17:53:23.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Three Systems Beneath Network Effects]]></title>
+        <id>https://every.to/divinations/the-three-systems-beneath-network-effects</id>
+        <link href="https://every.to/divinations/the-three-systems-beneath-network-effects"/>
+        <updated>2021-12-07T17:46:42.050Z</updated>
+        <content type="html"><![CDATA[An exclusive excerpt from a16z general partner<br data-owner="balance-text">Andrew Chen’s new book, The Cold Start Problem]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notes on ConstitutionDAO]]></title>
         <id>https://every.to/divinations/notes-on-constitutiondao</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/divinations/why-salesforce-bought-slack-21480730"/>
         <updated>2021-08-30T17:32:49.297Z</updated>
         <content type="html"><![CDATA[Three shorts: the strategy behind the<br data-owner="balance-text">news, in as few bullet points as possible.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Shorts: Snap, Apple, Vox]]></title>
-        <id>https://every.to/divinations/three-shorts-snap-apple-vox-20019622</id>
-        <link href="https://every.to/divinations/three-shorts-snap-apple-vox-20019622"/>
-        <updated>2021-08-30T17:32:49.299Z</updated>
-        <content type="html"><![CDATA[On Snap's take on TikTok, Apple's developer<br data-owner="balance-text">fee reduction, and Vox's talent attrition.]]></content>
     </entry>
 </feed>
