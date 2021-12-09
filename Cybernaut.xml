@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/cybernaut?sort=newest</id>
     <title>Cybernaut</title>
-    <updated>2021-12-08T17:51:22.528Z</updated>
+    <updated>2021-12-09T05:44:10.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Our Pseudonymous Selves]]></title>
+        <id>https://every.to/cybernaut/our-pseudonymous-selves</id>
+        <link href="https://every.to/cybernaut/our-pseudonymous-selves"/>
+        <updated>2021-12-09T05:37:10.548Z</updated>
+        <content type="html"><![CDATA[The Past, Present, and Future of Online Identity]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Primer on the Parasocial Economy]]></title>
         <id>https://every.to/cybernaut/a-primer-on-the-parasocial-economy</id>
