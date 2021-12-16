@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/divinations?sort=newest</id>
     <title>Divinations</title>
-    <updated>2021-12-15T17:49:15.210Z</updated>
+    <updated>2021-12-16T05:41:06.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Athlete as Creator]]></title>
+        <id>https://every.to/divinations/the-athlete-as-creator</id>
+        <link href="https://every.to/divinations/the-athlete-as-creator"/>
+        <updated>2021-12-16T05:36:21.681Z</updated>
+        <content type="html"><![CDATA[How new regulations have brought college<br data-owner="balance-text">athletes into the creator economy, big time]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Three Systems Beneath Network Effects]]></title>
         <id>https://every.to/divinations/the-three-systems-beneath-network-effects</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/divinations/why-at-and-t-is-betting-the-farm-23988905"/>
         <updated>2021-08-30T17:32:49.297Z</updated>
         <content type="html"><![CDATA[Also in Three Shorts: Amazon buying<br data-owner="balance-text">Wondery, and Calm's $2b valuation]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Slack Was Willing to Sell]]></title>
-        <id>https://every.to/divinations/why-salesforce-bought-slack-21480730</id>
-        <link href="https://every.to/divinations/why-salesforce-bought-slack-21480730"/>
-        <updated>2021-08-30T17:32:49.297Z</updated>
-        <content type="html"><![CDATA[Three shorts: the strategy behind the<br data-owner="balance-text">news, in as few bullet points as possible.]]></content>
     </entry>
 </feed>
