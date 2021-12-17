@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2021-12-17T05:39:03.493Z</updated>
+    <updated>2021-12-17T17:46:00.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The primary trends I’m investing in next year]]></title>
+        <id>https://every.to/napkin-math/the-primary-trends-i-m-investing-on-next-year</id>
+        <link href="https://every.to/napkin-math/the-primary-trends-i-m-investing-on-next-year"/>
+        <updated>2021-12-17T17:43:17.580Z</updated>
+        <content type="html"><![CDATA[Inflation, web3, embedded fintech, investing in<br data-owner="balance-text">people, and the newsletter winter that is coming]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Investing on Instinct]]></title>
         <id>https://every.to/napkin-math/why-the-highest-returning-investments-are-done-with-no-data-at-all</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/in-defense-of-wework-s-community-adjusted-ebitda"/>
         <updated>2021-08-30T17:32:53.180Z</updated>
         <content type="html"><![CDATA[Clarifying the murky middle ground<br data-owner="balance-text">between Gross Profits and Net Income]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gross Margin: An Indicator of Market Power]]></title>
-        <id>https://every.to/napkin-math/gross-margin-an-indicator-of-market-power</id>
-        <link href="https://every.to/napkin-math/gross-margin-an-indicator-of-market-power"/>
-        <updated>2021-08-30T17:32:53.181Z</updated>
-        <content type="html"><![CDATA[What America's Oldest Jeweler Can<br data-owner="balance-text">Teach Us About the Value of Bling]]></content>
     </entry>
 </feed>
