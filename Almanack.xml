@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/almanack?sort=newest</id>
     <title>Almanack</title>
-    <updated>2021-12-17T17:46:00.684Z</updated>
+    <updated>2021-12-18T05:45:03.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tokenomics 101: The Basics of EvaluatingCryptocurrencies - DeFriday #19]]></title>
+        <id>https://every.to/almanack/tokenomics-101</id>
+        <link href="https://every.to/almanack/tokenomics-101"/>
+        <updated>2021-12-18T05:36:07.225Z</updated>
+        <content type="html"><![CDATA[Supply, Demand, and Memes. Lots of Memes.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Goodbye Gas Fees: HelloLayer 2 Living - DeFriday #18]]></title>
         <id>https://every.to/almanack/layer-2</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/almanack/the-problem-with-retirement-funds-24775574"/>
         <updated>2021-08-30T17:32:42.090Z</updated>
         <content type="html"><![CDATA[Why get rich slowly?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Spend 5 Minutes Per Day on Email]]></title>
-        <id>https://every.to/almanack/how-i-spend-5-minutes-per-day-on-15213699</id>
-        <link href="https://every.to/almanack/how-i-spend-5-minutes-per-day-on-15213699"/>
-        <updated>2021-08-30T17:32:42.091Z</updated>
-        <content type="html"><![CDATA[You, too, can be free]]></content>
     </entry>
 </feed>
