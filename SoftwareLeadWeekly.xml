@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://softwareleadweekly.com/issues/</id>
     <title>Software Lead Weekly</title>
-    <updated>2021-12-21T05:45:48.276Z</updated>
+    <updated>2021-12-21T17:52:43.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://softwareleadweekly.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Issue #473]]></title>
+        <id>https://softwareleadweekly.com/issues/473</id>
+        <link href="https://softwareleadweekly.com/issues/473"/>
+        <updated>2021-12-21T17:50:35.582Z</updated>
+        <content type="html"><![CDATA[<div class="head-table-issue" data-v-192ce8d8=""><p class="title-table-issue" data-v-192ce8d8=""><a href="/issues/473" data-v-192ce8d8="" class=""><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="newspaper" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="svg-inline--fa fa-newspaper fa-w-18" style="height:20px;margin-right:6px;margin-bottom:2px" data-v-192ce8d8=""><path fill="currentColor" d="M552 64H88c-13.255 0-24 10.745-24 24v8H24c-13.255 0-24 10.745-24 24v272c0 30.928 25.072 56 56 56h472c26.51 0 48-21.49 48-48V88c0-13.255-10.745-24-24-24zM56 400a8 8 0 0 1-8-8V144h16v248a8 8 0 0 1-8 8zm236-16H140c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h152c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12zm208 0H348c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h152c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12zm-208-96H140c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h152c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12zm208 0H348c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h152c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12zm0-96H140c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h360c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12z" data-v-192ce8d8="" class=""></path></svg>Issue #473</a></p></div> <div class="body-table-issue" data-v-192ce8d8=""><p class="text-table-issue" data-v-192ce8d8="">
+                  17th December 2021
+                </p></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Issue #472]]></title>
         <id>https://softwareleadweekly.com/issues/472</id>
