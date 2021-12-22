@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/means-of-creation?sort=newest</id>
     <title>Means of Creation</title>
-    <updated>2021-12-22T05:49:53.300Z</updated>
+    <updated>2021-12-22T17:50:30.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
     <entry>
@@ -20,7 +20,7 @@
         <content type="html"><![CDATA[Gabe Luna Ostaseski &amp; Adam Jackson on why<br data-owner="balance-text">the way we work is broken and how to fix it]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Should Creators Own Their Means of Creation?]]></title>
+        <title type="html"><![CDATA[Should Creators OwnTheir Means of Creation?]]></title>
         <id>https://every.to/means-of-creation/should-creators-own-their-means-of-creation</id>
         <link href="https://every.to/means-of-creation/should-creators-own-their-means-of-creation"/>
         <updated>2021-12-08T05:36:51.947Z</updated>
@@ -90,7 +90,7 @@
         <content type="html"><![CDATA[“As a player, you actually earn 2-3x more than an entry-<br data-owner="balance-text-hyphen">level job” - Gabby Dizon, co-founder of Yield Guild Games]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inside the Longform Content Game at Twitter]]></title>
+        <title type="html"><![CDATA[Inside the LongformContent Game at Twitter]]></title>
         <id>https://every.to/means-of-creation/inside-the-longform-content-game-at-twitter</id>
         <link href="https://every.to/means-of-creation/inside-the-longform-content-game-at-twitter"/>
         <updated>2021-08-30T17:32:58.057Z</updated>
@@ -115,7 +115,7 @@
         <id>https://every.to/means-of-creation/the-creator-mba</id>
         <link href="https://every.to/means-of-creation/the-creator-mba"/>
         <updated>2021-08-30T17:32:58.082Z</updated>
-        <content type="html"><![CDATA[Creators are businesses. Over time, they will start to act like it.]]></content>
+        <content type="html"><![CDATA[Creators are businesses. Over<br data-owner="balance-text">time, they will start to act like it.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Creator Economy JustWent Mainstream. Why?]]></title>
@@ -136,7 +136,7 @@
         <id>https://every.to/means-of-creation/apple-is-holding-back-the-creator-economy</id>
         <link href="https://every.to/means-of-creation/apple-is-holding-back-the-creator-economy"/>
         <updated>2021-08-30T17:32:58.090Z</updated>
-        <content type="html"><![CDATA[What happens when a product company tries to run a platform?]]></content>
+        <content type="html"><![CDATA[What happens when a product<br data-owner="balance-text">company tries to run a platform?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why Influencers Need a Watchdog]]></title>
@@ -164,7 +164,7 @@
         <id>https://every.to/means-of-creation/assessing-clubhouse-s-post-pandemic-future</id>
         <link href="https://every.to/means-of-creation/assessing-clubhouse-s-post-pandemic-future"/>
         <updated>2021-08-30T17:32:58.093Z</updated>
-        <content type="html"><![CDATA[Also: Getty Images acquires Unsplash, LinkedIn’s new creator<br data-owner="balance-text">mode, the math behind MrBeast’s businesses, and more]]></content>
+        <content type="html"><![CDATA[Also: Getty Images acquires Unsplash,<br data-owner="balance-text">LinkedIn’s new creator mode, the math<br data-owner="balance-text">behind MrBeast’s businesses, and more]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How can Creators becomesuccessful Angel Investors?]]></title>
