@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Barabazs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-30T05:43:25.557Z</updated>
+    <updated>2021-12-30T17:53:38.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[What Worked for Me in 2021 (Superorganizers)]]></title>
@@ -929,7 +929,7 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <id>https://every.to/napkin-math/nft-projects-are-just-mlms-for-tech-elites</id>
         <link href="https://every.to/napkin-math/nft-projects-are-just-mlms-for-tech-elites"/>
         <updated>2021-12-27T05:37:39.639Z</updated>
-        <content type="html"><![CDATA[A somewhat impartial review of<br data-owner="balance-text">current NFT business models]]></content>
+        <content type="html"><![CDATA[A somewhat impartial review of current NFT business models]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Toast—a Vision of Software’s Future (Napkin Math)]]></title>
