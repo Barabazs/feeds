@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Barabazs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-08T17:47:46.267Z</updated>
+    <updated>2022-01-09T05:44:11.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[What Worked for Me in 2021 (Superorganizers)]]></title>
@@ -194,13 +194,6 @@
         <content type="html"><![CDATA[What I Learned From Listening to<br data-owner="balance-text">100 Episodes of the SPI Podcast]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Paranoid Productivity (Praxis)]]></title>
-        <id>https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2</id>
-        <link href="https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2"/>
-        <updated>2021-12-27T05:37:24.434Z</updated>
-        <content type="html"><![CDATA[By Christina LuoProductivity is about managing<br data-owner="balance-text">emotions as much as projects. Yet we often focus<br data-owner="balance-text">on productivity as a toolset more than a min]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Introducing: Praxis Fellows Essays (Praxis)]]></title>
         <id>https://every.to/praxis/paranoid-productivity-dccd9d86-6ad0-4579-8329-2b2d5e3eef10</id>
         <link href="https://every.to/praxis/paranoid-productivity-dccd9d86-6ad0-4579-8329-2b2d5e3eef10"/>
@@ -213,6 +206,13 @@
         <link href="https://every.to/praxis/inner-limits"/>
         <updated>2021-12-27T05:37:24.434Z</updated>
         <content type="html"><![CDATA[Why You’re Not Getting More Out of Journaling]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paranoid Productivity (Praxis)]]></title>
+        <id>https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2</id>
+        <link href="https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2"/>
+        <updated>2021-12-27T05:37:24.434Z</updated>
+        <content type="html"><![CDATA[By Christina LuoProductivity is about managing<br data-owner="balance-text">emotions as much as projects. Yet we often focus<br data-owner="balance-text">on productivity as a toolset more than a min]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Modern Swipe File (Praxis)]]></title>
@@ -1730,14 +1730,14 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <content type="html"><![CDATA[Spring is here, vaccines are going into people’s arms<br data-owner="balance-text">and it’s raining points here at the Prediction Game.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to See The FutureLike a Superforecaster (The Prediction Game)]]></title>
+        <title type="html"><![CDATA[How to See The Future Like a Superforecaster (The Prediction Game)]]></title>
         <id>https://every.to/the-prediction-game/how-to-see-the-future-like-a-superforecaster-8313</id>
         <link href="https://every.to/the-prediction-game/how-to-see-the-future-like-a-superforecaster-8313"/>
         <updated>2021-12-27T05:40:05.889Z</updated>
         <content type="html"><![CDATA[Maybe, if we get really good at analyzing<br data-owner="balance-text">the past and present we can get really good<br data-owner="balance-text">at predicting the future in lots of situations.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Did We Create a Rip inthe Fabric of Spacetime? (The Prediction Game)]]></title>
+        <title type="html"><![CDATA[Did We Create a Rip in the Fabric of Spacetime? (The Prediction Game)]]></title>
         <id>https://every.to/the-prediction-game/did-we-create-a-rip-in-the-fabric-of-spacetime</id>
         <link href="https://every.to/the-prediction-game/did-we-create-a-rip-in-the-fabric-of-spacetime"/>
         <updated>2021-12-27T05:40:05.891Z</updated>
@@ -5852,84 +5852,84 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-08T05:41:50.155Z</updated>
+        <updated>2022-01-09T05:42:07.144Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title featured"><a href="/arbix-rekt/"> <!-- -->Arbix Finance - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, January 4, 2022</time><p><span><a href="/?tag=Arbix+Finance">Arbix Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>New year, old news. Rug pulls are common on Binance Smart Chain; we’re only mentioning this one because it was larger than most. ~$10 million taken, and Arbix Finance are nowhere to be seen.</p><p class="post-excerpt-more"><a href="/arbix-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-08T05:41:50.155Z</updated>
+        <updated>2022-01-09T05:42:07.146Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/visor-finance-rekt/"> <!-- -->Visor Finance - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, December 22, 2021</time><p><span><a href="/?tag=Visor+Finance">Visor Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>It is the season of giving, and Visor Finance is going all in. Visor allowed an anonymous actor to mint $8.2M in VISR.</p><p class="post-excerpt-more"><a href="/visor-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-08T05:41:50.155Z</updated>
+        <updated>2022-01-09T05:42:07.147Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/bent-finance/"> <!-- -->Bent Finance - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, December 21, 2021</time><p><span><a href="/?tag=Bent+Finance">Bent Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Who has been bending the rules at Bent Finance? ~$1.75M taken. Inspector rekt sets things straight.</p><p class="post-excerpt-more"><a href="/bent-finance/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-08T05:41:50.155Z</updated>
+        <updated>2022-01-09T05:42:07.148Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/grim-finance-rekt/"> <!-- -->Grim Finance - REKT</a></h5><hr><span class="post-meta"><time>Monday, December 20, 2021</time><p><span><a href="/?tag=Grim+Finance">Grim Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Don’t fear the reaper. Grim Finance is rekt. $30M gone, position 18 on the leaderboard.</p><p class="post-excerpt-more"><a href="/grim-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-08T05:41:50.156Z</updated>
+        <updated>2022-01-09T05:42:07.149Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/vulcan-forged-rekt/"> <!-- -->Vulcan Forged - REKT</a></h5><hr><span class="post-meta"><time>Monday, December 13, 2021</time><p><span><a href="/?tag=Vulcan+Forged">Vulcan Forged</a></span><span> - <a href="/?tag=CEX">CEX</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Four cases in ten days. $140M gone from Vulcan Forged. "Compromised keys" are so hot right now.</p><p class="post-excerpt-more"><a href="/vulcan-forged-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-08T05:41:50.157Z</updated>
+        <updated>2022-01-09T05:42:07.152Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/ascendex-rekt/"> <!-- -->Ascendex - REKT</a></h5><hr><span class="post-meta"><time>Sunday, December 12, 2021</time><p><span><a href="/?tag=Ascendex">Ascendex</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Two CEX rekt in one week. Why do we see more “compromised keys” in uncertain markets? $77.7M gone from Ascendex.</p><p class="post-excerpt-more"><a href="/ascendex-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-08T05:41:50.158Z</updated>
+        <updated>2022-01-09T05:42:07.154Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/8ight-finance-rekt/"> <!-- -->8ight Finance - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, December 8, 2021</time><p><span><a href="/?tag=8ight+Finance">8ight Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Although this is our first story taking place on the Harmony chain, there’s nothing new about the protocol. Another Olympus fork, another set of "compromised keys". $1.75M gone.</p><p class="post-excerpt-more"><a href="/8ight-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-08T05:41:50.159Z</updated>
+        <updated>2022-01-09T05:42:07.156Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/sushiswap-scandal/"> <!-- -->Sushiswap Scandal</a></h5><hr><span class="post-meta"><time>Monday, December 6, 2021</time><p><span><a href="/?tag=Sushiswap">Sushiswap</a></span><span> - <a href="/?tag=leak">leak</a></span></p></span><hr></header><section class="post-excerpt"><p>Internal arguments, fired whistleblowers, and dismissed developers have brought dark times upon the once popular “community-led” decentralised exchange. How did it go so wrong for Sushiswap?</p><p class="post-excerpt-more"><a href="/sushiswap-scandal/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-08T05:41:50.161Z</updated>
+        <updated>2022-01-09T05:42:07.157Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/bitmart-rekt/"> <!-- -->BitMart - REKT</a></h5><hr><span class="post-meta"><time>Sunday, December 5, 2021</time><p><span><a href="/?tag=CeFi">CeFi</a></span><span> - <a href="/?tag=BitMart">BitMart</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Is CeFi any safer than DeFi? If not, why use it? BitMart has lost $196M, placing it at number 2 on our leaderboard. Will they commit to refunding their users?</p><p class="post-excerpt-more"><a href="/bitmart-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-08T05:41:50.162Z</updated>
+        <updated>2022-01-09T05:42:07.159Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/ape-tax-vid/"> <!-- -->REKT:TV - Ape Tax</a></h5><hr><span class="post-meta"><time>Friday, December 3, 2021</time><p><span><a href="/?tag=ape+tax">ape tax</a></span><span> - <a href="/?tag=rektTV">rektTV</a></span></p></span><hr></header><section class="post-excerpt"><p>Ape Season is here, and Ape Tax must be paid. Just as relevant as when it was first published in December of 2020, our second major video release is an animated assessment of our online gambling culture.</p><p class="post-excerpt-more"><a href="/ape-tax-vid/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-08T05:41:50.163Z</updated>
+        <updated>2022-01-09T05:42:07.160Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/badger-rekt/"> <!-- -->Badger - REKT</a></h5><hr><span class="post-meta"><time>Thursday, December 2, 2021</time><p><span><a href="/?tag=Badger">Badger</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>rekt roadkill. $120M taken in a front-end attack, placing Badger at number four on the leaderboard. rekt repeats; "infinite approval means unlimited trust."</p><p class="post-excerpt-more"><a href="/badger-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-08T05:41:50.166Z</updated>
+        <updated>2022-01-09T05:42:07.162Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/monox-rekt/"> <!-- -->MonoX - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, November 30, 2021</time><p><span><a href="/?tag=MonoX">MonoX</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>rekt by their own token. Mono X lost $31M via a price manipulation of their recently launched $MONO. How did two audits not prevent this?</p><p class="post-excerpt-more"><a href="/monox-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
