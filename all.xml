@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Barabazs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-15T17:49:59.806Z</updated>
+    <updated>2022-01-16T05:41:56.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Beware of Pet Explanations (Superorganizers)]]></title>
@@ -51,14 +51,14 @@
         <id>https://every.to/superorganizers/misunderstanding-media</id>
         <link href="https://every.to/superorganizers/misunderstanding-media"/>
         <updated>2021-12-27T05:37:20.141Z</updated>
-        <content type="html"><![CDATA[The phrase “the medium is the message” predicted<br data-owner="balance-text">much of the internet era. But what does it actually mean?]]></content>
+        <content type="html"><![CDATA[The phrase “the medium is the message” predicted much<br data-owner="balance-text">of the internet era. But what does it actually mean?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How David Perell writes an essay (Superorganizers)]]></title>
         <id>https://every.to/superorganizers/how-david-perell-writes-an-essay</id>
         <link href="https://every.to/superorganizers/how-david-perell-writes-an-essay"/>
         <updated>2021-12-27T05:37:20.141Z</updated>
-        <content type="html"><![CDATA[Harnessing the power of surprise<br data-owner="balance-text">to build writing that spreads]]></content>
+        <content type="html"><![CDATA[Harnessing the power of surprise to build writing that spreads]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[What is underneath productivity? (Superorganizers)]]></title>
@@ -86,7 +86,7 @@
         <id>https://every.to/superorganizers/the-theology-of-productivity</id>
         <link href="https://every.to/superorganizers/the-theology-of-productivity"/>
         <updated>2021-12-27T05:37:20.143Z</updated>
-        <content type="html"><![CDATA[Exploring why productivity can feel<br data-owner="balance-text">empty, and how we can make it whole again]]></content>
+        <content type="html"><![CDATA[Exploring why productivity can feel empty,<br data-owner="balance-text">and how we can make it whole again]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How James Clear is Writing His Next Book (Superorganizers)]]></title>
@@ -100,7 +100,7 @@
         <id>https://every.to/superorganizers/walking-as-a-productivity-system</id>
         <link href="https://every.to/superorganizers/walking-as-a-productivity-system"/>
         <updated>2021-12-27T05:37:20.147Z</updated>
-        <content type="html"><![CDATA[How walks create the foundation<br data-owner="balance-text">of Craig Mod's creative work]]></content>
+        <content type="html"><![CDATA[How walks create the foundation of Craig Mod's creative work]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to get your creative work back on track (Superorganizers)]]></title>
@@ -194,11 +194,11 @@
         <content type="html"><![CDATA[What I Learned From Listening to<br data-owner="balance-text">100 Episodes of the SPI Podcast]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing: Praxis Fellows Essays (Praxis)]]></title>
-        <id>https://every.to/praxis/paranoid-productivity-dccd9d86-6ad0-4579-8329-2b2d5e3eef10</id>
-        <link href="https://every.to/praxis/paranoid-productivity-dccd9d86-6ad0-4579-8329-2b2d5e3eef10"/>
+        <title type="html"><![CDATA[Paranoid Productivity (Praxis)]]></title>
+        <id>https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2</id>
+        <link href="https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2"/>
         <updated>2021-12-27T05:37:24.434Z</updated>
-        <content type="html"><![CDATA[Hello Praxsters!I have something special to<br data-owner="balance-text">share with you&nbsp;today: the first contributions of<br data-owner="balance-text">our&nbsp;Praxis Writing Fellows!I recruited a few of]]></content>
+        <content type="html"><![CDATA[By Christina LuoProductivity is about managing<br data-owner="balance-text">emotions as much as projects. Yet we often focus<br data-owner="balance-text">on productivity as a toolset more than a min]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Inner Limits (Praxis)]]></title>
@@ -208,11 +208,11 @@
         <content type="html"><![CDATA[Why You’re Not Getting More Out of Journaling]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Paranoid Productivity (Praxis)]]></title>
-        <id>https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2</id>
-        <link href="https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2"/>
+        <title type="html"><![CDATA[Introducing: Praxis Fellows Essays (Praxis)]]></title>
+        <id>https://every.to/praxis/paranoid-productivity-dccd9d86-6ad0-4579-8329-2b2d5e3eef10</id>
+        <link href="https://every.to/praxis/paranoid-productivity-dccd9d86-6ad0-4579-8329-2b2d5e3eef10"/>
         <updated>2021-12-27T05:37:24.434Z</updated>
-        <content type="html"><![CDATA[By Christina LuoProductivity is about managing<br data-owner="balance-text">emotions as much as projects. Yet we often focus<br data-owner="balance-text">on productivity as a toolset more than a min]]></content>
+        <content type="html"><![CDATA[Hello Praxsters!I have something special to<br data-owner="balance-text">share with you&nbsp;today: the first contributions of<br data-owner="balance-text">our&nbsp;Praxis Writing Fellows!I recruited a few of]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Modern Swipe File (Praxis)]]></title>
@@ -995,11 +995,11 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <content type="html"><![CDATA[Twilio rode its API to a $66B valuation. Now it’s trying<br data-owner="balance-text">to become the Universal Switchboard for the internet.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snowflake: The Righteous Blood Sucker (Napkin Math)]]></title>
+        <title type="html"><![CDATA[Snowflake: How a RevenueRetention Behemoth was Built (Napkin Math)]]></title>
         <id>https://every.to/napkin-math/snowflake-the-righteous-blood-sucker</id>
         <link href="https://every.to/napkin-math/snowflake-the-righteous-blood-sucker"/>
         <updated>2021-12-27T05:37:39.649Z</updated>
-        <content type="html"><![CDATA[How a Revenue Retention Behemoth was Built]]></content>
+        <content type="html"><![CDATA[TL;DRThis is the second post on a deep dive in<br data-owner="balance-text">GTM metrics with a focus today on Revenue<br data-owner="balance-text">RetentionSnowflake is a software Dracula. It latche]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How Free to Play Video Gamesare Forced to Make Addicts (Napkin Math)]]></title>
@@ -1754,84 +1754,84 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T05:39:57.831Z</updated>
+        <updated>2022-01-16T05:37:46.304Z</updated>
         <content type="html"><![CDATA[<a href="/post/these-6-shipper-success-stories-will-blow-you-away" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61cd00718cdf72cbf44f6e56_Success%20Stories%20Banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">These 6 Shipper Success Stories Will Blow You Away</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T05:39:57.831Z</updated>
+        <updated>2022-01-16T05:37:46.317Z</updated>
         <content type="html"><![CDATA[<a href="/post/books" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/6106bdaf37075c1af0674166_books.jpg&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">8 Books That Will Teach You All You Need to Know About Writing</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T05:39:57.831Z</updated>
+        <updated>2022-01-16T05:37:46.318Z</updated>
         <content type="html"><![CDATA[<a href="/post/ferriss" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/6100677debb1cadb31fec139_6100672f824aaa643dfa00a3_20170105192134-tim-ferriss-chair.jpeg&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">8 Episodes of the Tim Ferriss Show Every Writer Should Listen To</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T05:39:57.845Z</updated>
+        <updated>2022-01-16T05:37:46.318Z</updated>
         <content type="html"><![CDATA[<a href="/post/focus" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/6106be5820c89f404e87116f_focus.jpg&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Sacred Hours: How to Make Time for Work That Matters</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T05:39:57.856Z</updated>
+        <updated>2022-01-16T05:37:46.321Z</updated>
         <content type="html"><![CDATA[<a href="/post/10-writing-tips-from-the-worlds-best-marketer-david-ogilvy" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/60b7f102c083f30372a1ea05_david.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">10 Writing Tips From the World's Best Marketer</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T05:39:57.856Z</updated>
+        <updated>2022-01-16T05:37:46.321Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-to-start-writing-online-the-ship-30-for-30-ultimate-guide" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61339a1bc140cbfe1edf1f20_How%20To%20Start%20Writing%20Online.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How To Start Writing Online: The Ship 30 for 30 Ultimate Guide</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T05:39:57.856Z</updated>
+        <updated>2022-01-16T05:37:46.321Z</updated>
         <content type="html"><![CDATA[<a href="/post/ghostwriting-101-5-proven-templates-to-help-you-write-for-business-leaders" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/60bfccc5b51190cccff2389e_Screen%20Shot%202021-06-08%20at%201.02.09%20PM.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Ghostwriting 101: 5 Proven Templates To Help You Write For Business Leaders</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T05:39:57.856Z</updated>
+        <updated>2022-01-16T05:37:46.324Z</updated>
         <content type="html"><![CDATA[<a href="/post/ship-30-made-me-a-writer" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61cb876df5c62e7376e2a268_jesse%20banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Ship 30 Made Me A Writer</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T05:39:57.856Z</updated>
+        <updated>2022-01-16T05:37:46.328Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-ship-30-for-30-solved-my-writing-problem-and-helped-me-become-a-successful-online-writer" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61ca28ba2a758029ee29eb22_mike%20banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How Ship 30 for 30 Solved My Writing Problem and Helped Me Become a Successful Online Writer</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T05:39:57.863Z</updated>
+        <updated>2022-01-16T05:37:46.334Z</updated>
         <content type="html"><![CDATA[<a href="/post/what-makes-ship-30-for-30-more-than-just-a-writing-class" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61ca2ac2d1ade5ac1bcda4fa_karl%20banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">What Makes Ship 30 for 30 More Than Just a Writing Class?</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T05:39:57.866Z</updated>
+        <updated>2022-01-16T05:37:46.335Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-ship-30-helped-me-become-extremely-prolific-launch-my-first-digital-products-and-make-my-first-1-online" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61cb853e50b8fe4ec2bbd59f_ev%20banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How Ship 30 Helped Me Become Extremely Prolific, Launch My First Digital Products and Make My First $1 Online</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T05:39:57.867Z</updated>
+        <updated>2022-01-16T05:37:46.335Z</updated>
         <content type="html"><![CDATA[<a href="/post/creativity-in-a-shipping-container-what-i-learned-about-digital-writing-and-myself-after-publishing-30-atomic-essays-in-30-days" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61ca3695f16cb02328aa2198_jessica%20banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Creativity in a Shipping Container: What I Learned About Digital Writing and Myself After Publishing 30 Atomic Essays in 30 Days</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
@@ -5861,84 +5861,84 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T17:47:56.082Z</updated>
-        <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title featured"><a href="/airdrop-hunters2/"> <!-- -->Aidrop Hunters II</a></h5><hr><span class="post-meta"><time>Saturday, January 15, 2022</time><p><span><a href="/?tag=Airdrop">Airdrop</a></span></p></span><hr></header><section class="post-excerpt"><p>There’s money to be made in giving money away. Recent airdrops have gained huge amounts of attention. But can the coin creators create a lasting community with no real product of their own?</p><p class="post-excerpt-more"><a href="/airdrop-hunters2/">MORE</a></p></section>]]></content>
+        <updated>2022-01-16T05:39:52.700Z</updated>
+        <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title featured"><a href="/airdrop-hunters2/"> <!-- -->Airdrop Hunters II</a></h5><hr><span class="post-meta"><time>Saturday, January 15, 2022</time><p><span><a href="/?tag=Airdrop">Airdrop</a></span></p></span><hr></header><section class="post-excerpt"><p>There’s money to be made in giving money away. Recent airdrops have gained huge amounts of attention. But can the coin creators create a lasting community with no real product of their own?</p><p class="post-excerpt-more"><a href="/airdrop-hunters2/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T17:47:56.083Z</updated>
+        <updated>2022-01-16T05:39:52.705Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/lcx-rekt/"> <!-- -->LCX - REKT</a></h5><hr><span class="post-meta"><time>Monday, January 10, 2022</time><p><span><a href="/?tag=CEX">CEX</a></span><span> - <a href="/?tag=CeFi">CeFi</a></span><span> - <a href="/?tag=LCX">LCX</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Nothing to see here… Another CEX rekt, $7.94M stolen. The USP of centralised finance grows smaller by the day.</p><p class="post-excerpt-more"><a href="/lcx-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T17:47:56.084Z</updated>
+        <updated>2022-01-16T05:39:52.706Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/arbix-rekt/"> <!-- -->Arbix Finance - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, January 4, 2022</time><p><span><a href="/?tag=Arbix+Finance">Arbix Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>New year, old news. Rug pulls are common on Binance Smart Chain; we’re only mentioning this one because it was larger than most. ~$10 million taken, and Arbix Finance are nowhere to be seen.</p><p class="post-excerpt-more"><a href="/arbix-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T17:47:56.084Z</updated>
+        <updated>2022-01-16T05:39:52.715Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/visor-finance-rekt/"> <!-- -->Visor Finance - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, December 22, 2021</time><p><span><a href="/?tag=Visor+Finance">Visor Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>It is the season of giving, and Visor Finance is going all in. Visor allowed an anonymous actor to mint $8.2M in VISR.</p><p class="post-excerpt-more"><a href="/visor-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T17:47:56.086Z</updated>
+        <updated>2022-01-16T05:39:52.716Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/bent-finance/"> <!-- -->Bent Finance - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, December 21, 2021</time><p><span><a href="/?tag=Bent+Finance">Bent Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Who has been bending the rules at Bent Finance? ~$1.75M taken. Inspector rekt sets things straight.</p><p class="post-excerpt-more"><a href="/bent-finance/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T17:47:56.090Z</updated>
+        <updated>2022-01-16T05:39:52.718Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/grim-finance-rekt/"> <!-- -->Grim Finance - REKT</a></h5><hr><span class="post-meta"><time>Monday, December 20, 2021</time><p><span><a href="/?tag=Grim+Finance">Grim Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Don’t fear the reaper. Grim Finance is rekt. $30M gone, position 18 on the leaderboard.</p><p class="post-excerpt-more"><a href="/grim-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T17:47:56.092Z</updated>
+        <updated>2022-01-16T05:39:52.720Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/vulcan-forged-rekt/"> <!-- -->Vulcan Forged - REKT</a></h5><hr><span class="post-meta"><time>Monday, December 13, 2021</time><p><span><a href="/?tag=Vulcan+Forged">Vulcan Forged</a></span><span> - <a href="/?tag=CEX">CEX</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Four cases in ten days. $140M gone from Vulcan Forged. "Compromised keys" are so hot right now.</p><p class="post-excerpt-more"><a href="/vulcan-forged-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T17:47:56.094Z</updated>
+        <updated>2022-01-16T05:39:52.726Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/ascendex-rekt/"> <!-- -->Ascendex - REKT</a></h5><hr><span class="post-meta"><time>Sunday, December 12, 2021</time><p><span><a href="/?tag=Ascendex">Ascendex</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Two CEX rekt in one week. Why do we see more “compromised keys” in uncertain markets? $77.7M gone from Ascendex.</p><p class="post-excerpt-more"><a href="/ascendex-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T17:47:56.095Z</updated>
+        <updated>2022-01-16T05:39:52.728Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/8ight-finance-rekt/"> <!-- -->8ight Finance - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, December 8, 2021</time><p><span><a href="/?tag=8ight+Finance">8ight Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Although this is our first story taking place on the Harmony chain, there’s nothing new about the protocol. Another Olympus fork, another set of "compromised keys". $1.75M gone.</p><p class="post-excerpt-more"><a href="/8ight-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T17:47:56.097Z</updated>
+        <updated>2022-01-16T05:39:52.731Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/sushiswap-scandal/"> <!-- -->Sushiswap Scandal</a></h5><hr><span class="post-meta"><time>Monday, December 6, 2021</time><p><span><a href="/?tag=Sushiswap">Sushiswap</a></span><span> - <a href="/?tag=leak">leak</a></span></p></span><hr></header><section class="post-excerpt"><p>Internal arguments, fired whistleblowers, and dismissed developers have brought dark times upon the once popular “community-led” decentralised exchange. How did it go so wrong for Sushiswap?</p><p class="post-excerpt-more"><a href="/sushiswap-scandal/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T17:47:56.098Z</updated>
+        <updated>2022-01-16T05:39:52.732Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/bitmart-rekt/"> <!-- -->BitMart - REKT</a></h5><hr><span class="post-meta"><time>Sunday, December 5, 2021</time><p><span><a href="/?tag=CeFi">CeFi</a></span><span> - <a href="/?tag=BitMart">BitMart</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Is CeFi any safer than DeFi? If not, why use it? BitMart has lost $196M, placing it at number 2 on our leaderboard. Will they commit to refunding their users?</p><p class="post-excerpt-more"><a href="/bitmart-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-01-15T17:47:56.100Z</updated>
+        <updated>2022-01-16T05:39:52.733Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/ape-tax-vid/"> <!-- -->REKT:TV - Ape Tax</a></h5><hr><span class="post-meta"><time>Friday, December 3, 2021</time><p><span><a href="/?tag=ape+tax">ape tax</a></span><span> - <a href="/?tag=rektTV">rektTV</a></span></p></span><hr></header><section class="post-excerpt"><p>Ape Season is here, and Ape Tax must be paid. Just as relevant as when it was first published in December of 2020, our second major video release is an animated assessment of our online gambling culture.</p><p class="post-excerpt-more"><a href="/ape-tax-vid/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
