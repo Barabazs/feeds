@@ -168,3 +168,15 @@ linkSelector = ".blog-timeline .blog-timeline--body h3 a"
 contentSelector = ".blog-timeline .blog-timeline--body h4"
 onFail = "stale"
 timeout = 120
+
+[Dedaub]
+title = "Dedaub"
+url = "https://www.dedaub.com/blog"
+entrySelector = ".blog-list-item"
+titleSelector = ".blog-list-item .blog-post-inner h3"
+linkSelector = "a.blog-list-item"
+contentSelector = ".blog-list-item .blog-post-inner p"
+dateSelector = ".blog-list-item .blog-post-inner .date"
+dateFormat = "dd.MM.yyyy"
+onFail = "stale"
+timeout = 120
