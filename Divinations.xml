@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/divinations?sort=newest</id>
     <title>Divinations</title>
-    <updated>2022-01-16T17:53:46.477Z</updated>
+    <updated>2022-01-17T05:42:55.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Eric Newcomer on 2022 Startup Trends]]></title>
+        <id>https://every.to/divinations/eric-newcomer-on-2022-startup-trends</id>
+        <link href="https://every.to/divinations/eric-newcomer-on-2022-startup-trends"/>
+        <updated>2022-01-17T05:38:07.658Z</updated>
+        <content type="html"><![CDATA[Eric Newcomer is one of the smartest and most<br data-owner="balance-text">plugged in newsletter writers in tech. This week<br data-owner="balance-text">he'll be joining Nathan, Dan, and Evan in the]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Axie Infinity a Ponzi Scheme?]]></title>
         <id>https://every.to/divinations/is-axie-infinity-a-ponzi-scheme</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/divinations/why-content-is-king-26199975"/>
         <updated>2021-08-30T17:32:49.297Z</updated>
         <content type="html"><![CDATA[How media creates power]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Shorts: Axios, Crunchyroll, Periscope]]></title>
-        <id>https://every.to/divinations/three-shorts-axios-crunchyroll-periscope-25858987</id>
-        <link href="https://every.to/divinations/three-shorts-axios-crunchyroll-periscope-25858987"/>
-        <updated>2021-08-30T17:32:49.297Z</updated>
-        <content type="html"><![CDATA[The strategy behind the news, in<br data-owner="balance-text">as few bullet points as possible]]></content>
     </entry>
 </feed>
