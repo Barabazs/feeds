@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/superorganizers?sort=newest</id>
     <title>Superorganizers</title>
-    <updated>2022-02-02T05:39:38.768Z</updated>
+    <updated>2022-02-02T17:41:39.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How to Win the Great British Bake Off]]></title>
+        <id>https://every.to/superorganizers/peter-sawkins</id>
+        <link href="https://every.to/superorganizers/peter-sawkins"/>
+        <updated>2022-02-02T17:38:19.894Z</updated>
+        <content type="html"><![CDATA[Peter Sawkins Sits Down to Discuss<br data-owner="balance-text">Framing, Faith, and Finding His Path]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Andrew Huberman’s MorningRoutine, Backed by Neuroscience]]></title>
         <id>https://every.to/superorganizers/andrew-huberman-s-morning-routine-backed-by-neuroscience</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/superorganizers/the-freelancer-s-pricing-model"/>
         <updated>2021-08-30T17:32:34.475Z</updated>
         <content type="html"><![CDATA[An excerpt from the new book Art for Money]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Content Becomes Your King]]></title>
-        <id>https://every.to/superorganizers/when-content-becomes-your-king</id>
-        <link href="https://every.to/superorganizers/when-content-becomes-your-king"/>
-        <updated>2021-08-30T17:32:34.475Z</updated>
-        <content type="html"><![CDATA[Matt D’Avella on creator burnout and<br data-owner="balance-text">building an audience for the long run]]></content>
     </entry>
 </feed>
