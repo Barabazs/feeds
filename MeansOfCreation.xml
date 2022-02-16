@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/means-of-creation?sort=newest</id>
     <title>Means of Creation</title>
-    <updated>2022-02-16T05:39:40.118Z</updated>
+    <updated>2022-02-16T17:43:41.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Is Crypto *Actually* Destroying the Planet?]]></title>
+        <id>https://every.to/means-of-creation/is-crypto-destroying-the-planet</id>
+        <link href="https://every.to/means-of-creation/is-crypto-destroying-the-planet"/>
+        <updated>2022-02-16T17:37:02.407Z</updated>
+        <content type="html"><![CDATA[“Quantify the impact, reduce it as much as possible,<br data-owner="balance-text">and offset the rest” says Joseph Pallant - founder<br data-owner="balance-text">of the Blockchain for Climate Foundation]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeFi Explained]]></title>
         <id>https://every.to/means-of-creation/defi-explained-with-nat-eliason</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/means-of-creation/a-new-funnel-for-music"/>
         <updated>2021-08-30T17:32:58.092Z</updated>
         <content type="html"><![CDATA[Recent news from TikTok, ConvertKit, and Ditto<br data-owner="balance-text">reveal an emerging new funnel for music creators<br data-owner="balance-text">to directly acquire, engage, and monetize fans.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assessing Clubhouse’s Post-Pandemic Future]]></title>
-        <id>https://every.to/means-of-creation/assessing-clubhouse-s-post-pandemic-future</id>
-        <link href="https://every.to/means-of-creation/assessing-clubhouse-s-post-pandemic-future"/>
-        <updated>2021-08-30T17:32:58.093Z</updated>
-        <content type="html"><![CDATA[Also: Getty Images acquires Unsplash,<br data-owner="balance-text">LinkedIn’s new creator mode, the math<br data-owner="balance-text">behind MrBeast’s businesses, and more]]></content>
     </entry>
 </feed>
