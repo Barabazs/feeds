@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/praxis?sort=newest</id>
     <title>Praxis</title>
-    <updated>2022-03-08T17:41:07.475Z</updated>
+    <updated>2022-03-09T05:42:05.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
     <entry>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[What I Learned From Listening to<br data-owner="balance-text">100 Episodes of the SPI Podcast]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inner Limits]]></title>
-        <id>https://every.to/praxis/inner-limits</id>
-        <link href="https://every.to/praxis/inner-limits"/>
-        <updated>2021-08-30T17:32:38.660Z</updated>
-        <content type="html"><![CDATA[Why You’re Not Getting More Out of Journaling]]></content>
+        <title type="html"><![CDATA[Paranoid Productivity]]></title>
+        <id>https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2</id>
+        <link href="https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2"/>
+        <updated>2021-08-30T17:32:38.661Z</updated>
+        <content type="html"><![CDATA[By Christina LuoProductivity is about managing<br data-owner="balance-text">emotions as much as projects. Yet we often focus<br data-owner="balance-text">on productivity as a toolset more than a min]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Introducing: Praxis Fellows Essays]]></title>
@@ -41,11 +41,11 @@
         <content type="html"><![CDATA[Hello Praxsters!I have something special to<br data-owner="balance-text">share with you&nbsp;today: the first contributions of<br data-owner="balance-text">our&nbsp;Praxis Writing Fellows!I recruited a few of]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Paranoid Productivity]]></title>
-        <id>https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2</id>
-        <link href="https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2"/>
-        <updated>2021-08-30T17:32:38.661Z</updated>
-        <content type="html"><![CDATA[By Christina LuoProductivity is about managing<br data-owner="balance-text">emotions as much as projects. Yet we often focus<br data-owner="balance-text">on productivity as a toolset more than a min]]></content>
+        <title type="html"><![CDATA[Inner Limits]]></title>
+        <id>https://every.to/praxis/inner-limits</id>
+        <link href="https://every.to/praxis/inner-limits"/>
+        <updated>2021-08-30T17:32:38.660Z</updated>
+        <content type="html"><![CDATA[Why You’re Not Getting More Out of Journaling]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Modern Swipe File]]></title>
