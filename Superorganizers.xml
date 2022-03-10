@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/superorganizers?sort=newest</id>
     <title>Superorganizers</title>
-    <updated>2022-03-09T17:46:57.346Z</updated>
+    <updated>2022-03-10T05:37:42.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Managing Your Manager]]></title>
+        <id>https://every.to/superorganizers/managing-your-manager</id>
+        <link href="https://every.to/superorganizers/managing-your-manager"/>
+        <updated>2022-03-10T05:34:33.381Z</updated>
+        <content type="html"><![CDATA[How Helping Your Manager<br data-owner="balance-text">Succeed Will Help You Succeed]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why You’re Not Doing Creative Work]]></title>
         <id>https://every.to/superorganizers/why-you-re-not-doing-creative-work</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/superorganizers/action-item-how-to-become-a-machine-29308398-9e14-4e2f-800d-2709d209ace4"/>
         <updated>2021-08-30T17:32:34.475Z</updated>
         <content type="html"><![CDATA[Nate Berkopec tunes himself like a<br data-owner="balance-text">server—in a surprisingly human way]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dan Shipper: The Sultan of Superorganizers]]></title>
-        <id>https://every.to/superorganizers/dan-shipper-the-sultan-of-superorganizers-4345</id>
-        <link href="https://every.to/superorganizers/dan-shipper-the-sultan-of-superorganizers-4345"/>
-        <updated>2021-08-30T17:32:34.475Z</updated>
-        <content type="html"><![CDATA[We turn the tables to reveal the systems<br data-owner="balance-text">and processes he uses to run his life]]></content>
     </entry>
 </feed>
