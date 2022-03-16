@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/divinations?sort=newest</id>
     <title>Divinations</title>
-    <updated>2022-03-16T05:41:50.463Z</updated>
+    <updated>2022-03-16T17:39:04.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Substack’s Ideology]]></title>
+        <id>https://every.to/divinations/substack-s-ideology</id>
+        <link href="https://every.to/divinations/substack-s-ideology"/>
+        <updated>2022-03-16T17:38:10.470Z</updated>
+        <content type="html"><![CDATA[The point isn’t just to make money—it’s to change the<br data-owner="balance-text">systems that human attention flows through. You can’t<br data-owner="balance-text">understand Substack without understanding this.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Buy The Dip]]></title>
         <id>https://every.to/divinations/how-to-buy-the-dip</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/divinations/spotify-s-upcoming-open-access-platform-is-as-suprising-as-it-is-awesome"/>
         <updated>2021-08-30T17:32:49.272Z</updated>
         <content type="html"><![CDATA[I hope it becomes a new paradigm for the creator economy]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Human Speculation]]></title>
-        <id>https://every.to/divinations/human-speculation-4606</id>
-        <link href="https://every.to/divinations/human-speculation-4606"/>
-        <updated>2021-08-30T17:32:49.272Z</updated>
-        <content type="html"><![CDATA[BitClout is a new service that allows<br data-owner="balance-text">anyone to create a publicly-tradable token.<br data-owner="balance-text">Will it work? What effect could it have?]]></content>
     </entry>
 </feed>
