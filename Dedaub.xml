@@ -2,14 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dedaub.com/blog</id>
     <title>Dedaub</title>
-    <updated>2022-03-21T05:40:03.156Z</updated>
+    <updated>2022-03-21T17:45:07.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dedaub.com/assets/favicon/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://www.dedaub.com/blog</id>
         <link href="https://www.dedaub.com/blog"/>
-        <updated>2022-03-20T17:43:25.088Z</updated>
+        <updated>2022-03-21T17:45:06.441Z</updated>
+        <content type="html"><![CDATA[<div class="line-full-height"></div>            <div class="blog-post-inner">
+                <div class="hover-effect-container">                    
+                    <div class="date">
+                        20.01.2022
+                    </div>
+                    <h3>
+                        Phantom Functions and the Billion-Dollar No-Op
+                    </h3>
+                </div>
+                <div class="hover-effect-container">
+                                <p>Largest crypto hack prevented?</p>
+                                </div>
+                <span class="link">Start Reading</span>
+                <div class="crosshair-double crosshair-double-light">
+    <hr>
+    <hr>
+</div>            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://www.dedaub.com/blog</id>
+        <link href="https://www.dedaub.com/blog"/>
+        <updated>2022-03-21T17:45:06.443Z</updated>
         <content type="html"><![CDATA[<div class="line-full-height"></div>            <div class="blog-post-inner">
                 <div class="hover-effect-container">                    
                     <div class="date">
@@ -29,10 +52,10 @@
 </div>            </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1]]></title>
+        <title type="html"><![CDATA[2]]></title>
         <id>https://www.dedaub.com/blog</id>
         <link href="https://www.dedaub.com/blog"/>
-        <updated>2022-03-20T17:43:25.091Z</updated>
+        <updated>2022-03-21T17:45:06.445Z</updated>
         <content type="html"><![CDATA[<div class="line-full-height"></div>            <div class="blog-post-inner">
                 <div class="hover-effect-container">                    
                     <div class="date">
@@ -52,10 +75,10 @@
 </div>            </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2]]></title>
+        <title type="html"><![CDATA[3]]></title>
         <id>https://www.dedaub.com/blog</id>
         <link href="https://www.dedaub.com/blog"/>
-        <updated>2022-03-20T17:43:25.091Z</updated>
+        <updated>2022-03-21T17:45:06.451Z</updated>
         <content type="html"><![CDATA[<div class="line-full-height"></div>            <div class="blog-post-inner">
                 <div class="hover-effect-container">                    
                     <div class="date">
@@ -75,10 +98,10 @@
 </div>            </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3]]></title>
+        <title type="html"><![CDATA[4]]></title>
         <id>https://www.dedaub.com/blog</id>
         <link href="https://www.dedaub.com/blog"/>
-        <updated>2022-03-20T17:43:25.092Z</updated>
+        <updated>2022-03-21T17:45:06.451Z</updated>
         <content type="html"><![CDATA[<div class="line-full-height"></div>            <div class="blog-post-inner">
                 <div class="hover-effect-container">                    
                     <div class="date">
@@ -98,10 +121,10 @@
 </div>            </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4]]></title>
+        <title type="html"><![CDATA[5]]></title>
         <id>https://www.dedaub.com/blog</id>
         <link href="https://www.dedaub.com/blog"/>
-        <updated>2022-03-20T17:43:25.094Z</updated>
+        <updated>2022-03-21T17:45:06.452Z</updated>
         <content type="html"><![CDATA[<div class="line-full-height"></div>            <div class="blog-post-inner">
                 <div class="hover-effect-container">                    
                     <div class="date">
@@ -121,10 +144,10 @@
 </div>            </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5]]></title>
+        <title type="html"><![CDATA[6]]></title>
         <id>https://www.dedaub.com/blog</id>
         <link href="https://www.dedaub.com/blog"/>
-        <updated>2022-03-20T17:43:25.096Z</updated>
+        <updated>2022-03-21T17:45:06.454Z</updated>
         <content type="html"><![CDATA[<div class="line-full-height"></div>            <div class="blog-post-inner">
                 <div class="hover-effect-container">                    
                     <div class="date">
@@ -144,10 +167,10 @@
 </div>            </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6]]></title>
+        <title type="html"><![CDATA[7]]></title>
         <id>https://www.dedaub.com/blog</id>
         <link href="https://www.dedaub.com/blog"/>
-        <updated>2022-03-20T17:43:25.098Z</updated>
+        <updated>2022-03-21T17:45:06.456Z</updated>
         <content type="html"><![CDATA[<div class="line-full-height"></div>            <div class="blog-post-inner">
                 <div class="hover-effect-container">                    
                     <div class="date">
@@ -167,10 +190,10 @@
 </div>            </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7]]></title>
+        <title type="html"><![CDATA[8]]></title>
         <id>https://www.dedaub.com/blog</id>
         <link href="https://www.dedaub.com/blog"/>
-        <updated>2022-03-20T17:43:25.099Z</updated>
+        <updated>2022-03-21T17:45:06.460Z</updated>
         <content type="html"><![CDATA[<div class="line-full-height"></div>            <div class="blog-post-inner">
                 <div class="hover-effect-container">                    
                     <div class="date">
@@ -183,29 +206,6 @@
                 </div>
                 <div class="hover-effect-container">
                                 <p>A vulnerable bot was controlling some $80K. We killed it, saving the funds of its owner(s).</p>
-                                </div>
-                <span class="link">Start Reading</span>
-                <div class="crosshair-double crosshair-double-light">
-    <hr>
-    <hr>
-</div>            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8]]></title>
-        <id>https://www.dedaub.com/blog</id>
-        <link href="https://www.dedaub.com/blog"/>
-        <updated>2022-03-20T17:43:25.100Z</updated>
-        <content type="html"><![CDATA[<div class="line-full-height"></div>            <div class="blog-post-inner">
-                <div class="hover-effect-container">                    
-                    <div class="date">
-                        10.02.2021
-                    </div>
-                    <h3>
-                        “Look ma’, no source!” Hacking a DeFi Service with No Source Code Available
-                    </h3>
-                </div>
-                <div class="hover-effect-container">
-                                <p>Reported critical vulnerability to Dinngo/DeFlast team leading to their rescue of all threatened funds. The vulnerable contract had no public source.</p>
                                 </div>
                 <span class="link">Start Reading</span>
                 <div class="crosshair-double crosshair-double-light">
