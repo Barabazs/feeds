@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2022-03-23T05:40:30.894Z</updated>
+    <updated>2022-03-23T17:41:48.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BIG announcement incoming]]></title>
+        <id>https://every.to/napkin-math/big-announcement-incoming</id>
+        <link href="https://every.to/napkin-math/big-announcement-incoming"/>
+        <updated>2022-03-23T17:39:01.703Z</updated>
+        <content type="html"><![CDATA[I'm going full time on Napkin Math]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Get Leverage On Your Ideas]]></title>
         <id>https://every.to/napkin-math/how-to-get-leverage-on-your-idea</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/twilio-s-second-act"/>
         <updated>2021-08-30T17:32:53.172Z</updated>
         <content type="html"><![CDATA[Twilio rode its API to a $66B valuation. Now it’s trying<br data-owner="balance-text">to become the Universal Switchboard for the internet.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snowflake: How a RevenueRetention Behemoth was Built]]></title>
-        <id>https://every.to/napkin-math/snowflake-the-righteous-blood-sucker</id>
-        <link href="https://every.to/napkin-math/snowflake-the-righteous-blood-sucker"/>
-        <updated>2021-08-30T17:32:53.174Z</updated>
-        <content type="html"><![CDATA[TL;DRThis is the second post on a deep dive in<br data-owner="balance-text">GTM metrics with a focus today on Revenue<br data-owner="balance-text">RetentionSnowflake is a software Dracula. It latche]]></content>
     </entry>
 </feed>
