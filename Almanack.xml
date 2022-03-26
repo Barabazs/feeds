@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/almanack?sort=newest</id>
     <title>Almanack</title>
-    <updated>2022-03-25T17:42:28.526Z</updated>
+    <updated>2022-03-26T05:42:07.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How I’m Earning Yield on My ETH]]></title>
+        <id>https://every.to/almanack/how-i-m-earning-yield-on-my-eth</id>
+        <link href="https://every.to/almanack/how-i-m-earning-yield-on-my-eth"/>
+        <updated>2022-03-26T05:35:08.477Z</updated>
+        <content type="html"><![CDATA[My current ETH farming strategies as of March 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Ways to Earn Yield on Your ETH]]></title>
+        <id>https://every.to/almanack/the-best-ways-to-earn-yield-on-your-eth</id>
+        <link href="https://every.to/almanack/the-best-ways-to-earn-yield-on-your-eth"/>
+        <updated>2022-03-26T05:35:08.477Z</updated>
+        <content type="html"><![CDATA[Staking, farming, LPs, understanding<br data-owner="balance-text">risk, and what I'm doing]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From PFPs to VIDs]]></title>
         <id>https://every.to/almanack/from-pfps-to-vid</id>
@@ -165,19 +179,5 @@
         <link href="https://every.to/almanack/defriday-3-how-arbitrum-solves-ethereum-s-scaling-challenges"/>
         <updated>2021-08-30T17:32:42.082Z</updated>
         <content type="html"><![CDATA[Plus: Convex's insane growth, Elon's<br data-owner="balance-text">long game, DOGE, and Esports]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFriday 2: Polygon’sSurge & Ethereum’s Future]]></title>
-        <id>https://every.to/almanack/defriday-2-polygon-s-surge-ethereum-s-future</id>
-        <link href="https://every.to/almanack/defriday-2-polygon-s-surge-ethereum-s-future"/>
-        <updated>2021-08-30T17:32:42.083Z</updated>
-        <content type="html"><![CDATA[Plus: Interest-Earning Lottery Tickets and Crypto Sharks]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFriday #1: May Market Meltdown Madness]]></title>
-        <id>https://every.to/almanack/defriday-1-may-market-meltdown-winners-losers</id>
-        <link href="https://every.to/almanack/defriday-1-may-market-meltdown-winners-losers"/>
-        <updated>2021-08-30T17:32:42.083Z</updated>
-        <content type="html"><![CDATA[DeFi just saw its first huge market crash. How'd it hold up?]]></content>
     </entry>
 </feed>
