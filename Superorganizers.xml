@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/superorganizers?sort=newest</id>
     <title>Superorganizers</title>
-    <updated>2022-03-29T05:44:52.590Z</updated>
+    <updated>2022-03-29T17:39:50.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pile Avoidance]]></title>
+        <id>https://every.to/superorganizers/pile-avoidance</id>
+        <link href="https://every.to/superorganizers/pile-avoidance"/>
+        <updated>2022-03-29T17:38:39.850Z</updated>
+        <content type="html"><![CDATA[If you look closely at anything that you try to<br data-owner="balance-text">keep clean—like an email inbox, a product<br data-owner="balance-text">backlog, or a dishwasher—you’ll notice that they t]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Feedback Decision Tree]]></title>
         <id>https://every.to/superorganizers/the-feedback-decision-tree-5eb36f38-335e-4682-8f1c-36acc2a8aeb1</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/superorganizers/for-members-gtd-workshop"/>
         <updated>2021-08-30T17:32:34.455Z</updated>
         <content type="html"><![CDATA[We've been doing a bunch of events on our Every<br data-owner="balance-text">community Discord for paid members, and we<br data-owner="balance-text">have one coming up that I thought you might be in]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Truth About MentalModels with Shane Parrish]]></title>
-        <id>https://every.to/superorganizers/the-truth-about-mental-models-with-shane-parrish</id>
-        <link href="https://every.to/superorganizers/the-truth-about-mental-models-with-shane-parrish"/>
-        <updated>2021-08-30T17:32:34.455Z</updated>
-        <content type="html"><![CDATA[Farnam Street’s founder talks about learning<br data-owner="balance-text">loops, how to read, and how to avoid bullshit]]></content>
     </entry>
 </feed>
