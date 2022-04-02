@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Barabazs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-01T17:46:25.829Z</updated>
+    <updated>2022-04-02T05:42:47.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Pile Avoidance (Superorganizers)]]></title>
@@ -201,6 +201,13 @@
         <content type="html"><![CDATA[What I Learned From Listening to<br data-owner="balance-text">100 Episodes of the SPI Podcast]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Inner Limits (Praxis)]]></title>
+        <id>https://every.to/praxis/inner-limits</id>
+        <link href="https://every.to/praxis/inner-limits"/>
+        <updated>2021-12-27T05:37:24.434Z</updated>
+        <content type="html"><![CDATA[Why You’re Not Getting More Out of Journaling]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Paranoid Productivity (Praxis)]]></title>
         <id>https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2</id>
         <link href="https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2"/>
@@ -213,13 +220,6 @@
         <link href="https://every.to/praxis/paranoid-productivity-dccd9d86-6ad0-4579-8329-2b2d5e3eef10"/>
         <updated>2021-12-27T05:37:24.434Z</updated>
         <content type="html"><![CDATA[Hello Praxsters!I have something special to<br data-owner="balance-text">share with you&nbsp;today: the first contributions of<br data-owner="balance-text">our&nbsp;Praxis Writing Fellows!I recruited a few of]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inner Limits (Praxis)]]></title>
-        <id>https://every.to/praxis/inner-limits</id>
-        <link href="https://every.to/praxis/inner-limits"/>
-        <updated>2021-12-27T05:37:24.434Z</updated>
-        <content type="html"><![CDATA[Why You’re Not Getting More Out of Journaling]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Modern Swipe File (Praxis)]]></title>
@@ -365,11 +365,11 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <content type="html"><![CDATA[It is NOT easy OR cheap to “hire a VA.” But if<br data-owner="balance-text">done right, it is&nbsp;profoundly transformational<br data-owner="balance-text">not just for your daily workload&nbsp;but for your q]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Best Ways to Earn Yield on Your ETH (Almanack)]]></title>
-        <id>https://every.to/almanack/the-best-ways-to-earn-yield-on-your-eth</id>
-        <link href="https://every.to/almanack/the-best-ways-to-earn-yield-on-your-eth"/>
-        <updated>2022-03-27T05:34:43.914Z</updated>
-        <content type="html"><![CDATA[Staking, farming, LPs, understanding<br data-owner="balance-text">risk, and what I'm doing]]></content>
+        <title type="html"><![CDATA[When To Sell: CreatingRules for Taking Profits (Almanack)]]></title>
+        <id>https://every.to/almanack/when-to-sell-creating-rules-for-taking-profits</id>
+        <link href="https://every.to/almanack/when-to-sell-creating-rules-for-taking-profits"/>
+        <updated>2022-04-02T05:35:30.935Z</updated>
+        <content type="html"><![CDATA[Crypto holdings are back on the rise! ...which<br data-owner="balance-text">means it’s time to think about selling.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How I’m Earning Yield on My ETH (Almanack)]]></title>
@@ -377,6 +377,13 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <link href="https://every.to/almanack/how-i-m-earning-yield-on-my-eth"/>
         <updated>2022-03-27T05:34:43.912Z</updated>
         <content type="html"><![CDATA[My current ETH farming strategies as of March 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Ways to Earn Yield on Your ETH (Almanack)]]></title>
+        <id>https://every.to/almanack/the-best-ways-to-earn-yield-on-your-eth</id>
+        <link href="https://every.to/almanack/the-best-ways-to-earn-yield-on-your-eth"/>
+        <updated>2022-03-27T05:34:43.914Z</updated>
+        <content type="html"><![CDATA[Staking, farming, LPs, understanding<br data-owner="balance-text">risk, and what I'm doing]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[From PFPs to VIDs (Almanack)]]></title>
@@ -531,13 +538,6 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <link href="https://every.to/almanack/alchemix-self-paying-loans"/>
         <updated>2021-12-27T05:37:28.292Z</updated>
         <content type="html"><![CDATA[How Alchemix changes the wealth building game]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeFriday #3: How Arbitrum SolvesEthereum’s Scaling Challenges (Almanack)]]></title>
-        <id>https://every.to/almanack/defriday-3-how-arbitrum-solves-ethereum-s-scaling-challenges</id>
-        <link href="https://every.to/almanack/defriday-3-how-arbitrum-solves-ethereum-s-scaling-challenges"/>
-        <updated>2021-12-27T05:37:28.293Z</updated>
-        <content type="html"><![CDATA[Plus: Convex's insane growth, Elon's<br data-owner="balance-text">long game, DOGE, and Esports]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Rise of YouTube Drama Channels (Cybernaut)]]></title>
@@ -6196,84 +6196,84 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T05:38:34.300Z</updated>
+        <updated>2022-04-02T05:40:38.284Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title featured"><a href="/voltage-finance-rekt/"> <!-- -->Voltage Finance - REKT</a></h5><hr><span class="post-meta"><time>Thursday, March 31, 2022</time><p><span><a href="/?tag=Voltage+Finance">Voltage Finance</a></span><span> - <a href="/?tag=Ola+Finance">Ola Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Voltage Finance has been exploited for ~$4M via its partner Ola Finance. Earlier this month, a similar incident on the xDAI chain gave the teams using Compound’s code plenty of warning. But somehow, neither Voltage nor Ola got the news.</p><p class="post-excerpt-more"><a href="/voltage-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T05:38:34.300Z</updated>
+        <updated>2022-04-02T05:40:38.284Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/ronin-rekt/"> <!-- -->Ronin Network - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, March 29, 2022</time><p><span><a href="/?tag=Ronin">Ronin</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>A new number one on the leaderboard. ~$624M stolen from Ronin Network, but nobody even noticed for 6 days. Will the attacker try to launder the loot?</p><p class="post-excerpt-more"><a href="/ronin-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T05:38:34.300Z</updated>
+        <updated>2022-04-02T05:40:38.285Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/revest-finance-rekt/"> <!-- -->Revest Finance - REKT</a></h5><hr><span class="post-meta"><time>Monday, March 28, 2022</time><p><span><a href="/?tag=Revest+Finance">Revest Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>~$2M taken from Revest Finance. “One audit is never enough” says Revest, as they found that a reentrancy vulnerability was not picked up in their security checks.</p><p class="post-excerpt-more"><a href="/revest-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T05:38:34.300Z</updated>
+        <updated>2022-04-02T05:40:38.287Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/cashio-rekt/"> <!-- -->Cashio - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, March 23, 2022</time><p><span><a href="/?tag=Cashio">Cashio</a></span><span> - <a href="/?tag=REKT">REKT</a></span><span> - <a href="/?tag=Solana">Solana</a></span></p></span><hr></header><section class="post-excerpt"><p>$48M CASHed out. The latest leaderboard entry comes from the Solana network, where an anonymous attacker used an infinite mint to make Cashio print faster than the Fed.</p><p class="post-excerpt-more"><a href="/cashio-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T05:38:34.301Z</updated>
+        <updated>2022-04-02T05:40:38.291Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/agave-hundred-rekt/"> <!-- -->Agave DAO, Hundred Finance - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, March 15, 2022</time><p><span><a href="/?tag=Agave">Agave</a></span><span> - <a href="/?tag=Hundred">Hundred</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Two forks met the same fate. Agave DAO and Hundred Finance both fell victim to the same reentrancy attack. A combined total of $11.7M stolen. Considering the structure of DeFi today, the double damage is not surprising.</p><p class="post-excerpt-more"><a href="/agave-hundred-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T05:38:34.303Z</updated>
+        <updated>2022-04-02T05:40:38.294Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/deus-dao-rekt/"> <!-- -->Deus DAO - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, March 15, 2022</time><p><span><a href="/?tag=Deus">Deus</a></span><span> - <a href="/?tag=Fantom">Fantom</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Deus rekt machina. An unexpected plot twist saw Deus DAO users liquidated, with the attacker making ~$3M profit. Flash loan attacks are not as common they once were. Is DeFi growing stronger?</p><p class="post-excerpt-more"><a href="/deus-dao-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T05:38:34.304Z</updated>
+        <updated>2022-04-02T05:40:38.294Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/treasure-dao-rekt/"> <!-- -->Treasure DAO - REKT</a></h5><hr><span class="post-meta"><time>Thursday, March 3, 2022</time><p><span><a href="/?tag=Treasure+DAO">Treasure DAO</a></span><span> - <a href="/?tag=NFT">NFT</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Swiggity swooty, somebody plundered the Treasure DAO booty. ~$1.4M worth of NFTs has been stolen from the largest NFT marketplace on Arbritrum, leaving the OpenSea competitor stranded in deep water.</p><p class="post-excerpt-more"><a href="/treasure-dao-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T05:38:34.307Z</updated>
+        <updated>2022-04-02T05:40:38.296Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/airdrop-siren/"> <!-- -->Airdrop Siren</a></h5><hr><span class="post-meta"><time>Wednesday, March 2, 2022</time><p><span><a href="/?tag=Ukraine">Ukraine</a></span><span> - <a href="/?tag=Airdrop">Airdrop</a></span></p></span><hr></header><section class="post-excerpt"><p>When the Ukrainian government announced that they would be accepting crypto donations, Twitter was quick to begin making jokes about potential airdrops. Then it really happened.</p><p class="post-excerpt-more"><a href="/airdrop-siren/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T05:38:34.308Z</updated>
+        <updated>2022-04-02T05:40:38.297Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/cy-ops/"> <!-- -->Cy-Ops</a></h5><hr><span class="post-meta"><time>Saturday, February 26, 2022</time><p><span><a href="/?tag=Propaganda">Propaganda</a></span><span> - <a href="/?tag=Russia">Russia</a></span><span> - <a href="/?tag=Ukraine">Ukraine</a></span></p></span><hr></header><section class="post-excerpt"><p>As Ukrainian forces fight to defend Kyiv against Russian aggression, a parallel digital battle is underway. If cryptocurrencies allow nation states to sidestep economic sanctions, how will we apply diplomatic pressure in the future?</p><p class="post-excerpt-more"><a href="/cy-ops/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T05:38:34.310Z</updated>
+        <updated>2022-04-02T05:40:38.298Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/dego-finance-rekt/"> <!-- -->Dego Finance - REKT</a></h5><hr><span class="post-meta"><time>Thursday, February 10, 2022</time><p><span><a href="/?tag=Dego+Finance">Dego Finance</a></span><span> - <a href="/?tag=Cocos-BSX">Cocos-BSX</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>$10M taken from Dego Finance and their partner Cocos-BCX. Dego have claimed this to be a case of compromised keys, leaving us wondering, why didn't they use a multi-sig?</p><p class="post-excerpt-more"><a href="/dego-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T05:38:34.311Z</updated>
+        <updated>2022-04-02T05:40:38.301Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/superfluid-rekt/"> <!-- -->Superfluid - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, February 9, 2022</time><p><span><a href="/?tag=Superfluid">Superfluid</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>$8.7M drained from Superfluid. The crypto streaming protocol was exploited by an anonymous attacker, causing collateral damage to several other DAO's.</p><p class="post-excerpt-more"><a href="/superfluid-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T05:38:34.312Z</updated>
+        <updated>2022-04-02T05:40:38.303Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/meter-rekt/"> <!-- -->Meter - REKT</a></h5><hr><span class="post-meta"><time>Monday, February 7, 2022</time><p><span><a href="/?tag=Meter">Meter</a></span><span> - <a href="/?tag=Hundred">Hundred</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Building bridges is a dangerous business. Another attack sees $4.4M taken from Meter.io on BSC, making Hundred Finance lose $3.3M in collateral damage.</p><p class="post-excerpt-more"><a href="/meter-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
@@ -6826,7 +6826,7 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <title type="html"><![CDATA[undefined (Dedaub)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T17:46:24.937Z</updated>
+        <updated>2022-04-02T05:42:46.306Z</updated>
         <content type="html"><![CDATA[<div class="line-full-height"></div>            <div class="blog-post-inner">
                 <div class="hover-effect-container">                    
                     <div class="date">
@@ -6849,7 +6849,7 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <title type="html"><![CDATA[undefined (Dedaub)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T17:46:24.948Z</updated>
+        <updated>2022-04-02T05:42:46.308Z</updated>
         <content type="html"><![CDATA[<div class="line-full-height"></div>            <div class="blog-post-inner">
                 <div class="hover-effect-container">                    
                     <div class="date">
@@ -6872,7 +6872,7 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <title type="html"><![CDATA[undefined (Dedaub)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T17:46:24.948Z</updated>
+        <updated>2022-04-02T05:42:46.310Z</updated>
         <content type="html"><![CDATA[<div class="line-full-height"></div>            <div class="blog-post-inner">
                 <div class="hover-effect-container">                    
                     <div class="date">
@@ -6895,7 +6895,7 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <title type="html"><![CDATA[undefined (Dedaub)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T17:46:24.951Z</updated>
+        <updated>2022-04-02T05:42:46.312Z</updated>
         <content type="html"><![CDATA[<div class="line-full-height"></div>            <div class="blog-post-inner">
                 <div class="hover-effect-container">                    
                     <div class="date">
@@ -6918,7 +6918,7 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <title type="html"><![CDATA[undefined (Dedaub)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T17:46:24.953Z</updated>
+        <updated>2022-04-02T05:42:46.314Z</updated>
         <content type="html"><![CDATA[<div class="line-full-height"></div>            <div class="blog-post-inner">
                 <div class="hover-effect-container">                    
                     <div class="date">
@@ -6941,7 +6941,7 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <title type="html"><![CDATA[undefined (Dedaub)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T17:46:24.956Z</updated>
+        <updated>2022-04-02T05:42:46.317Z</updated>
         <content type="html"><![CDATA[<div class="line-full-height"></div>            <div class="blog-post-inner">
                 <div class="hover-effect-container">                    
                     <div class="date">
@@ -6964,7 +6964,7 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <title type="html"><![CDATA[undefined (Dedaub)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T17:46:24.963Z</updated>
+        <updated>2022-04-02T05:42:46.319Z</updated>
         <content type="html"><![CDATA[<div class="line-full-height"></div>            <div class="blog-post-inner">
                 <div class="hover-effect-container">                    
                     <div class="date">
@@ -6987,7 +6987,7 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <title type="html"><![CDATA[undefined (Dedaub)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T17:46:24.964Z</updated>
+        <updated>2022-04-02T05:42:46.320Z</updated>
         <content type="html"><![CDATA[<div class="line-full-height"></div>            <div class="blog-post-inner">
                 <div class="hover-effect-container">                    
                     <div class="date">
@@ -7010,7 +7010,7 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <title type="html"><![CDATA[undefined (Dedaub)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-04-01T17:46:24.966Z</updated>
+        <updated>2022-04-02T05:42:46.322Z</updated>
         <content type="html"><![CDATA[<div class="line-full-height"></div>            <div class="blog-post-inner">
                 <div class="hover-effect-container">                    
                     <div class="date">
