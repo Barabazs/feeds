@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/superorganizers?sort=newest</id>
     <title>Superorganizers</title>
-    <updated>2022-04-07T17:48:38.135Z</updated>
+    <updated>2022-04-08T05:41:18.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Against Ikigai]]></title>
+        <id>https://every.to/superorganizers/against-ikigai</id>
+        <link href="https://every.to/superorganizers/against-ikigai"/>
+        <updated>2022-04-08T05:36:14.787Z</updated>
+        <content type="html"><![CDATA[And How to Move Toward a<br data-owner="balance-text">Diversified Portfolio of Meaning]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pile Avoidance]]></title>
         <id>https://every.to/superorganizers/pile-avoidance</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/superorganizers/how-to-go-pro-as-a-creator"/>
         <updated>2021-08-30T17:32:34.417Z</updated>
         <content type="html"><![CDATA[John Gannon from GoingVC shares how<br data-owner="balance-text">he made $1mm in revenue as a creator]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For Members: GTD Workshop]]></title>
-        <id>https://every.to/superorganizers/for-members-gtd-workshop</id>
-        <link href="https://every.to/superorganizers/for-members-gtd-workshop"/>
-        <updated>2021-08-30T17:32:34.455Z</updated>
-        <content type="html"><![CDATA[We've been doing a bunch of events on our Every<br data-owner="balance-text">community Discord for paid members, and we<br data-owner="balance-text">have one coming up that I thought you might be in]]></content>
     </entry>
 </feed>
