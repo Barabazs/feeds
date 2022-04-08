@@ -180,3 +180,12 @@ dateSelector = ".blog-list-item .blog-post-inner .date"
 dateFormat = "dd.MM.yyyy"
 onFail = "stale"
 timeout = 120
+
+[NFX]
+title = "NFX"
+url = "https://www.nfx.com/"
+entrySelector = "ul.essays-listing > li"
+titleSelector = "ul.essays-listing > li h5"
+linkSelector = "ul.essays-listing > li h5 a"
+onFail = "stale"
+timeout = 120
