@@ -2,91 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rekt.news/</id>
     <title>Rekt.news</title>
-    <updated>2022-04-23T17:48:01.472Z</updated>
+    <updated>2022-04-24T05:39:40.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://raw.githubusercontent.com/RektHQ/Assets/main/images/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-04-23T17:41:52.437Z</updated>
+        <updated>2022-04-24T05:37:27.013Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title featured"><a href="/big-phish/"> <!-- -->Big Phish</a></h5><hr><span class="post-meta"><time>Tuesday, April 19, 2022</time><p><span><a href="/?tag=North+Korea">North Korea</a></span><span> - <a href="/?tag=Ronin">Ronin</a></span></p></span><hr></header><section class="post-excerpt"><p>The DeFi class of 2022 has introduced some unexpected players. The FBI have announced that a collective of North Korean state-sponsored hackers (The Lazarus Group) are responsible for multiple DeFi hacks, including the largest - the Ronin Network.</p><p class="post-excerpt-more"><a href="/big-phish/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-04-23T17:41:52.437Z</updated>
+        <updated>2022-04-24T05:37:27.014Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/beanstalk-rekt/"> <!-- -->Beanstalk - REKT</a></h5><hr><span class="post-meta"><time>Monday, April 18, 2022</time><p><span><a href="/?tag=Beanstalk">Beanstalk</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>$181M jacked from Beanstalk, but the attacker only kept $76M. A malicious governance proposal was pushed through by a flash loan, and the attacker then voted to transfer all the assets to themself, but not before donating $250K to the Ukraine war fund.</p><p class="post-excerpt-more"><a href="/beanstalk-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-04-23T17:41:52.437Z</updated>
+        <updated>2022-04-24T05:37:27.014Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/elephant-money-rekt/"> <!-- -->Elephant Money - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, April 13, 2022</time><p><span><a href="/?tag=Elephant+Money">Elephant Money</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>An audit couldn’t protect Elephant Money from the on-chain poachers. Solidity Finance failed to notify Elephant about a vulnerability which was later exploited for $22.2M.</p><p class="post-excerpt-more"><a href="/elephant-money-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-04-23T17:41:52.438Z</updated>
+        <updated>2022-04-24T05:37:27.015Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/inverse-finance-rekt/"> <!-- -->Inverse Finance - REKT</a></h5><hr><span class="post-meta"><time>Saturday, April 2, 2022</time><p><span><a href="/?tag=Inverse+Finance">Inverse Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Inverse Finance got flipped for ~$15M. A professionally executed hack allowed an anonymous actor to manipulate the price of INV and help themself to an exclusive deal from the ETH based lending protocol.</p><p class="post-excerpt-more"><a href="/inverse-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-04-23T17:41:52.438Z</updated>
+        <updated>2022-04-24T05:37:27.016Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/voltage-finance-rekt/"> <!-- -->Voltage Finance - REKT</a></h5><hr><span class="post-meta"><time>Thursday, March 31, 2022</time><p><span><a href="/?tag=Voltage+Finance">Voltage Finance</a></span><span> - <a href="/?tag=Ola+Finance">Ola Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Voltage Finance has been exploited for ~$4M via its partner Ola Finance. Earlier this month, a similar incident on the xDAI chain gave the teams using Compound’s code plenty of warning. But somehow, neither Voltage nor Ola got the news.</p><p class="post-excerpt-more"><a href="/voltage-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-04-23T17:41:52.440Z</updated>
+        <updated>2022-04-24T05:37:27.023Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/ronin-rekt/"> <!-- -->Ronin Network - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, March 29, 2022</time><p><span><a href="/?tag=Ronin">Ronin</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>A new number one on the leaderboard. ~$624M stolen from Ronin Network, but nobody even noticed for 6 days. Will the attacker try to launder the loot?</p><p class="post-excerpt-more"><a href="/ronin-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-04-23T17:41:52.442Z</updated>
+        <updated>2022-04-24T05:37:27.024Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/revest-finance-rekt/"> <!-- -->Revest Finance - REKT</a></h5><hr><span class="post-meta"><time>Monday, March 28, 2022</time><p><span><a href="/?tag=Revest+Finance">Revest Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>~$2M taken from Revest Finance. “One audit is never enough” says Revest, as they found that a reentrancy vulnerability was not picked up in their security checks.</p><p class="post-excerpt-more"><a href="/revest-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-04-23T17:41:52.444Z</updated>
+        <updated>2022-04-24T05:37:27.024Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/cashio-rekt/"> <!-- -->Cashio - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, March 23, 2022</time><p><span><a href="/?tag=Cashio">Cashio</a></span><span> - <a href="/?tag=REKT">REKT</a></span><span> - <a href="/?tag=Solana">Solana</a></span></p></span><hr></header><section class="post-excerpt"><p>$48M CASHed out. The latest leaderboard entry comes from the Solana network, where an anonymous attacker used an infinite mint to make Cashio print faster than the Fed.</p><p class="post-excerpt-more"><a href="/cashio-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-04-23T17:41:52.445Z</updated>
+        <updated>2022-04-24T05:37:27.024Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/agave-hundred-rekt/"> <!-- -->Agave DAO, Hundred Finance - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, March 15, 2022</time><p><span><a href="/?tag=Agave">Agave</a></span><span> - <a href="/?tag=Hundred">Hundred</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Two forks met the same fate. Agave DAO and Hundred Finance both fell victim to the same reentrancy attack. A combined total of $11.7M stolen. Considering the structure of DeFi today, the double damage is not surprising.</p><p class="post-excerpt-more"><a href="/agave-hundred-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[9]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-04-23T17:41:52.448Z</updated>
+        <updated>2022-04-24T05:37:27.025Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/deus-dao-rekt/"> <!-- -->Deus DAO - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, March 15, 2022</time><p><span><a href="/?tag=Deus">Deus</a></span><span> - <a href="/?tag=Fantom">Fantom</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Deus rekt machina. An unexpected plot twist saw Deus DAO users liquidated, with the attacker making ~$3M profit. Flash loan attacks are not as common they once were. Is DeFi growing stronger?</p><p class="post-excerpt-more"><a href="/deus-dao-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-04-23T17:41:52.450Z</updated>
+        <updated>2022-04-24T05:37:27.025Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/treasure-dao-rekt/"> <!-- -->Treasure DAO - REKT</a></h5><hr><span class="post-meta"><time>Thursday, March 3, 2022</time><p><span><a href="/?tag=Treasure+DAO">Treasure DAO</a></span><span> - <a href="/?tag=NFT">NFT</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Swiggity swooty, somebody plundered the Treasure DAO booty. ~$1.4M worth of NFTs has been stolen from the largest NFT marketplace on Arbritrum, leaving the OpenSea competitor stranded in deep water.</p><p class="post-excerpt-more"><a href="/treasure-dao-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[11]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-04-23T17:41:52.451Z</updated>
+        <updated>2022-04-24T05:37:27.026Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/airdrop-siren/"> <!-- -->Airdrop Siren</a></h5><hr><span class="post-meta"><time>Wednesday, March 2, 2022</time><p><span><a href="/?tag=Ukraine">Ukraine</a></span><span> - <a href="/?tag=Airdrop">Airdrop</a></span></p></span><hr></header><section class="post-excerpt"><p>When the Ukrainian government announced that they would be accepting crypto donations, Twitter was quick to begin making jokes about potential airdrops. Then it really happened.</p><p class="post-excerpt-more"><a href="/airdrop-siren/">MORE</a></p></section>]]></content>
     </entry>
 </feed>
