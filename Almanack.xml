@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/almanack?sort=newest</id>
     <title>Almanack</title>
-    <updated>2022-04-30T17:40:14.773Z</updated>
+    <updated>2022-05-01T05:48:04.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Can Sunflower Land Build Crypto FarmVille?]]></title>
+        <id>https://every.to/almanack/can-sunflower-land-build-crypto-farmville</id>
+        <link href="https://every.to/almanack/can-sunflower-land-build-crypto-farmville"/>
+        <updated>2022-05-01T05:41:03.284Z</updated>
+        <content type="html"><![CDATA[Old MacDonald Had a Private Key]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tokenomics 104]]></title>
         <id>https://every.to/almanack/tokenomics-104-how-to-launch-a-token-tactics-questions-wen-etc</id>
@@ -34,18 +41,18 @@
         <content type="html"><![CDATA[Crypto holdings are back on the rise! ...which<br data-owner="balance-text">means it’s time to think about selling.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Best Ways to Earn Yield on Your ETH]]></title>
-        <id>https://every.to/almanack/the-best-ways-to-earn-yield-on-your-eth</id>
-        <link href="https://every.to/almanack/the-best-ways-to-earn-yield-on-your-eth"/>
-        <updated>2022-03-27T05:34:43.914Z</updated>
-        <content type="html"><![CDATA[Staking, farming, LPs, understanding<br data-owner="balance-text">risk, and what I'm doing]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How I’m Earning Yield on My ETH]]></title>
         <id>https://every.to/almanack/how-i-m-earning-yield-on-my-eth</id>
         <link href="https://every.to/almanack/how-i-m-earning-yield-on-my-eth"/>
         <updated>2022-03-27T05:34:43.912Z</updated>
         <content type="html"><![CDATA[My current ETH farming strategies as of March 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Ways to Earn Yield on Your ETH]]></title>
+        <id>https://every.to/almanack/the-best-ways-to-earn-yield-on-your-eth</id>
+        <link href="https://every.to/almanack/the-best-ways-to-earn-yield-on-your-eth"/>
+        <updated>2022-03-27T05:34:43.914Z</updated>
+        <content type="html"><![CDATA[Staking, farming, LPs, understanding<br data-owner="balance-text">risk, and what I'm doing]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[From PFPs to VIDs]]></title>
@@ -172,12 +179,5 @@
         <link href="https://every.to/almanack/proof-of-stake-ethereum"/>
         <updated>2021-08-30T17:32:42.078Z</updated>
         <content type="html"><![CDATA[Stake? I thought you said Steak!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EIP-1559: Can Ethereum ReplaceBitcoin as Digital Gold? - DeFriday #7]]></title>
-        <id>https://every.to/almanack/eip-1559-ethereum-bitcoin</id>
-        <link href="https://every.to/almanack/eip-1559-ethereum-bitcoin"/>
-        <updated>2021-08-30T17:32:42.079Z</updated>
-        <content type="html"><![CDATA[Is 1559 all hype? Or will it send Ethereum to the moon?]]></content>
     </entry>
 </feed>
