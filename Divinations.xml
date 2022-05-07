@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/divinations?sort=newest</id>
     <title>Divinations</title>
-    <updated>2022-05-07T05:40:00.585Z</updated>
+    <updated>2022-05-07T17:44:43.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Map of a Downturn]]></title>
+        <id>https://every.to/divinations/map-of-a-downturn</id>
+        <link href="https://every.to/divinations/map-of-a-downturn"/>
+        <updated>2022-05-07T17:39:48.873Z</updated>
+        <content type="html"><![CDATA[Untangling the complex causal<br data-owner="balance-text">chain that makes good times go bad]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter as a City-State]]></title>
         <id>https://every.to/divinations/twitter-as-a-city-state</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/divinations/how-power-works-in-venture-capital"/>
         <updated>2021-09-07T17:43:27.415Z</updated>
         <content type="html"><![CDATA[Is being Sequoia actually pretty easy?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify Bets on Apple Antitrust]]></title>
-        <id>https://every.to/divinations/spotify-bets-on-apple-antitrust-e28c493f-0689-4f0c-bd36-06ac86801f6f</id>
-        <link href="https://every.to/divinations/spotify-bets-on-apple-antitrust-e28c493f-0689-4f0c-bd36-06ac86801f6f"/>
-        <updated>2021-08-30T17:32:49.264Z</updated>
-        <content type="html"><![CDATA[Their new paid podcast feature only makes sense<br data-owner="balance-text">in a world where in-app purchase rules are relaxed.]]></content>
     </entry>
 </feed>
