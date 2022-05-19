@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2022-05-19T05:49:05.270Z</updated>
+    <updated>2022-05-19T18:06:11.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How Startups Can Survivethe Creator Economy Winter]]></title>
+        <id>https://every.to/napkin-math/a-guide-to-survive-the-oncoming-creator-economy-winter</id>
+        <link href="https://every.to/napkin-math/a-guide-to-survive-the-oncoming-creator-economy-winter"/>
+        <updated>2022-05-19T18:03:06.663Z</updated>
+        <content type="html"><![CDATA[The Race for Revenue Share]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto’s Failed Promise]]></title>
         <id>https://every.to/napkin-math/why-has-crypto-been-so-so-disappointing</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/the-creator-power-scale-a-formula-to-determine-if-platforms-are-ripping-you-off"/>
         <updated>2021-10-29T05:35:46.959Z</updated>
         <content type="html"><![CDATA[An examination of the Twitch Hack data]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who is Making Money in Space?]]></title>
-        <id>https://every.to/napkin-math/who-is-making-money-in-space</id>
-        <link href="https://every.to/napkin-math/who-is-making-money-in-space"/>
-        <updated>2021-10-14T17:42:47.427Z</updated>
-        <content type="html"><![CDATA[Exploring the SPAC Frontier]]></content>
     </entry>
 </feed>
