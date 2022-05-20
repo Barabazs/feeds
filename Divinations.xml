@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/divinations?sort=newest</id>
     <title>Divinations</title>
-    <updated>2022-05-20T05:42:35.029Z</updated>
+    <updated>2022-05-20T17:53:15.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How To Time The Market (Or Not)]]></title>
+        <id>https://every.to/divinations/how-to-time-the-market-or-not</id>
+        <link href="https://every.to/divinations/how-to-time-the-market-or-not"/>
+        <updated>2022-05-20T17:48:09.428Z</updated>
+        <content type="html"><![CDATA[A Book Review of “Mastering the Market Cycle”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering the MarketCycle, by Howard Marks]]></title>
+        <id>https://every.to/divinations/mastering-the-market-cycle-by-howard-marks</id>
+        <link href="https://every.to/divinations/mastering-the-market-cycle-by-howard-marks"/>
+        <updated>2022-05-20T17:48:09.429Z</updated>
+        <content type="html"><![CDATA[My chapter-by-chapter summary, with notes and reactions]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Sh*t is Hitting the Fan]]></title>
         <id>https://every.to/divinations/why-sh-t-is-hitting-the-fan</id>
@@ -165,19 +179,5 @@
         <link href="https://every.to/divinations/the-market-wedge-how-to-pick-your-initial-market"/>
         <updated>2021-09-30T17:40:38.690Z</updated>
         <content type="html"><![CDATA[How and why early-stage startups<br data-owner="balance-text">sacrifice growth for power]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will DAOs replace Corporations?]]></title>
-        <id>https://every.to/divinations/will-daos-replace-corporations</id>
-        <link href="https://every.to/divinations/will-daos-replace-corporations"/>
-        <updated>2021-09-21T17:43:49.485Z</updated>
-        <content type="html"><![CDATA[Or, how NounsDAO plans to take over the world]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overcoming Web3 Bias]]></title>
-        <id>https://every.to/divinations/overcoming-web3-bias</id>
-        <link href="https://every.to/divinations/overcoming-web3-bias"/>
-        <updated>2021-09-14T05:34:53.510Z</updated>
-        <content type="html"><![CDATA[How to navigate strange new paradigms that<br data-owner="balance-text">could change everything—unless they don’t.]]></content>
     </entry>
 </feed>
