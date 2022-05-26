@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/almanack?sort=newest</id>
     <title>Almanack</title>
-    <updated>2022-05-25T17:49:43.320Z</updated>
+    <updated>2022-05-26T05:46:18.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Crypto Unicorns: How toPlay & Crypto Analysis]]></title>
+        <id>https://every.to/almanack/crypto-unicorns-how-to-play-crypto-analysis</id>
+        <link href="https://every.to/almanack/crypto-unicorns-how-to-play-crypto-analysis"/>
+        <updated>2022-05-26T05:41:22.342Z</updated>
+        <content type="html"><![CDATA[Farming, Crafting, Gathering,<br data-owner="balance-text">Breeding... and Even Pooping]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Gaming is Broken. How Do We Fix It?]]></title>
         <id>https://every.to/almanack/crypto-gaming-is-broken</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/almanack/ultra-sound-money"/>
         <updated>2021-08-30T17:32:42.078Z</updated>
         <content type="html"><![CDATA[Or is it all ultra-hopium?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antifragile Finance: How HacksMake DeFi Stronger - DeFriday #9]]></title>
-        <id>https://every.to/almanack/antifragile-finance-hacks</id>
-        <link href="https://every.to/almanack/antifragile-finance-hacks"/>
-        <updated>2021-08-30T17:32:42.078Z</updated>
-        <content type="html"><![CDATA[We're all in this together.]]></content>
     </entry>
 </feed>
