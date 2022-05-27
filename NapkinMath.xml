@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2022-05-26T17:47:15.345Z</updated>
+    <updated>2022-05-27T05:44:56.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Addiction Economy]]></title>
+        <id>https://every.to/napkin-math/the-addiction-economy</id>
+        <link href="https://every.to/napkin-math/the-addiction-economy"/>
+        <updated>2022-05-27T05:44:01.598Z</updated>
+        <content type="html"><![CDATA[Addicted, Overwhelmed, Oversubscribed:<br data-owner="balance-text">How Technology Hooked the World]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Startups Can Survivethe Creator Economy Winter]]></title>
         <id>https://every.to/napkin-math/a-guide-to-survive-the-oncoming-creator-economy-winter</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/top-12-creator-platforms-ranked"/>
         <updated>2021-11-14T17:41:26.556Z</updated>
         <content type="html"><![CDATA[Who has the brawn to capture creator’s profit?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Creator Power Scale: A Formula toDetermine if Platforms are Ripping You Off]]></title>
-        <id>https://every.to/napkin-math/the-creator-power-scale-a-formula-to-determine-if-platforms-are-ripping-you-off</id>
-        <link href="https://every.to/napkin-math/the-creator-power-scale-a-formula-to-determine-if-platforms-are-ripping-you-off"/>
-        <updated>2021-10-29T05:35:46.959Z</updated>
-        <content type="html"><![CDATA[An examination of the Twitch Hack data]]></content>
     </entry>
 </feed>
