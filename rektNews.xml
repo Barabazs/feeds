@@ -2,91 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rekt.news/</id>
     <title>Rekt.news</title>
-    <updated>2022-06-06T05:41:15.425Z</updated>
+    <updated>2022-06-06T17:42:15.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://raw.githubusercontent.com/RektHQ/Assets/main/images/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-06-05T17:38:53.129Z</updated>
+        <updated>2022-06-06T17:42:02.784Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title featured"><a href="/mirror-rekt/"> <!-- -->Mirror Protocol - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, May 31, 2022</time><p><span><a href="/?tag=Mirror">Mirror</a></span><span> - <a href="/?tag=Terra">Terra</a></span><span> - <a href="/?tag=REKT+2">REKT 2</a></span></p></span><hr></header><section class="post-excerpt"><p>Mirror mirror on the wall… $90 million stolen, but that’s not all. Two exploits hit Mirror Protocol, and the larger of the two wasn’t even noticed at first.</p><p class="post-excerpt-more"><a href="/mirror-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-06-05T17:38:53.130Z</updated>
+        <updated>2022-06-06T17:42:02.784Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/venus-blizz-rekt/"> <!-- -->Blizz Finance, Venus Protocol - REKT</a></h5><hr><span class="post-meta"><time>Friday, May 13, 2022</time><p><span><a href="/?tag=Blizz+Finance">Blizz Finance</a></span><span> - <a href="/?tag=Venus+Protocol">Venus Protocol</a></span></p></span><hr></header><section class="post-excerpt"><p>The Luna fall-out continues. Venus Protocol on BSC and Blizz Finance on Avalanche have been drained of $13.5 and $8.3M, respectively. With shaky markets, and the first projects falling victim to the failure of LUNA and UST, how far will the damage spread?</p><p class="post-excerpt-more"><a href="/venus-blizz-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-06-05T17:38:53.131Z</updated>
+        <updated>2022-06-06T17:42:02.784Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/luna-rekt/"> <!-- -->Luna - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, May 11, 2022</time><p><span><a href="/?tag=Luna">Luna</a></span><span> - <a href="/?tag=UST">UST</a></span><span> - <a href="/?tag=Anchor">Anchor</a></span></p></span><hr></header><section class="post-excerpt"><p>Our house of cards is tumbling down. A multi-billion dollar protocol has fallen, crushing the hopes and dreams of thousands of users. The shockwaves have brought attention from far beyond our usual echo chamber. Now the whole world is watching. The death of Anchor Protocol has done an unprecedented amount of damage.</p><p class="post-excerpt-more"><a href="/luna-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-06-05T17:38:53.135Z</updated>
+        <updated>2022-06-06T17:42:02.785Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/fortress-rekt/"> <!-- -->Fortress Protocol - REKT</a></h5><hr><span class="post-meta"><time>Monday, May 9, 2022</time><p><span><a href="/?tag=Fortress">Fortress</a></span><span> - <a href="/?tag=REKT">REKT</a></span><span> - <a href="/?tag=BSC">BSC</a></span></p></span><hr></header><section class="post-excerpt"><p>Fortress is in ruins after $3M was stolen by an oracle manipulation and&nbsp;malicious governance act. The UI is paused, but the contracts remain live. Will Fortress's ecosystem bail out users for the lost funds?</p><p class="post-excerpt-more"><a href="/fortress-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-06-05T17:38:53.135Z</updated>
+        <updated>2022-06-06T17:42:02.785Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/madmeerkat-finance-rekt/"> <!-- -->MM Finance - REKT</a></h5><hr><span class="post-meta"><time>Friday, May 6, 2022</time><p><span><a href="/?tag=MM+Finance">MM Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Mad Meerkat Finance (not to be confused with normal Meerkat Finance) lost $2M to a DNS exploit. Back-end attacks, front-end attacks, when will we see the end of the attacks?</p><p class="post-excerpt-more"><a href="/madmeerkat-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-06-05T17:38:53.138Z</updated>
+        <updated>2022-06-06T17:42:02.785Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/monkey-business/"> <!-- -->Monkey Business</a></h5><hr><span class="post-meta"><time>Thursday, May 5, 2022</time><p><span><a href="/?tag=BAYC">BAYC</a></span><span> - <a href="/?tag=NFT">NFT</a></span></p></span><hr></header><section class="post-excerpt"><p>In just one year, Bored Ape Yacht Club has evolved from a niche NFT, into a whole ecosystem, and a mainstream means of flexing wealth. The rise of BAYC has been unstoppable, but the recent Otherdeeds mint was far from perfect. What's next for BAYC?</p><p class="post-excerpt-more"><a href="/monkey-business/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-06-05T17:38:53.140Z</updated>
+        <updated>2022-06-06T17:42:02.785Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/fei-rari-rekt/"> <!-- -->Fei Rari - REKT 2</a></h5><hr><span class="post-meta"><time>Sunday, May 1, 2022</time><p><span><a href="/?tag=Fei">Fei</a></span><span> - <a href="/?tag=Rari">Rari</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Fei Rari - rekt. Seven of Rari’s Fuse pools were drained for a total of ~$80M. This isn’t the first time that Rari's got rekt - lets hope the hackers don’t go for a hat trick.</p><p class="post-excerpt-more"><a href="/fei-rari-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-06-05T17:38:53.141Z</updated>
+        <updated>2022-06-06T17:42:02.786Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/saddle-finance-rekt2/"> <!-- -->Saddle Finance - REKT 2</a></h5><hr><span class="post-meta"><time>Sunday, May 1, 2022</time><p><span><a href="/?tag=Saddle+Finance">Saddle Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>$11M was stolen from Saddle Finance yesterday, with a further $3.8M taken in a rescue by BlockSec. Despite claiming that “user funds are safe”, Saddle later clarified they were only referring to the amount that was not stolen. rekt.news can clarify that the $11 million that was stolen, is not safe.</p><p class="post-excerpt-more"><a href="/saddle-finance-rekt2/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-06-05T17:38:53.146Z</updated>
+        <updated>2022-06-06T17:42:02.788Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/deus-dao-rekt-2/"> <!-- -->Deus DAO - REKT 2</a></h5><hr><span class="post-meta"><time>Thursday, April 28, 2022</time><p><span><a href="/?tag=Deus+DAO">Deus DAO</a></span><span> - <a href="/?tag=Fantom">Fantom</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Deus DAO double damage. In an unfortunate sequel to last month’s incident, the protocol has now lost a further $13.4M. How did the attacker bypass the new oracle?</p><p class="post-excerpt-more"><a href="/deus-dao-rekt-2/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[9]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-06-05T17:38:53.146Z</updated>
+        <updated>2022-06-06T17:42:02.790Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/big-phish/"> <!-- -->Big Phish</a></h5><hr><span class="post-meta"><time>Tuesday, April 19, 2022</time><p><span><a href="/?tag=North+Korea">North Korea</a></span><span> - <a href="/?tag=Ronin">Ronin</a></span></p></span><hr></header><section class="post-excerpt"><p>The DeFi class of 2022 has introduced some unexpected players. The FBI have announced that a collective of North Korean state-sponsored hackers (The Lazarus Group) are responsible for multiple DeFi hacks, including the largest - the Ronin Network.</p><p class="post-excerpt-more"><a href="/big-phish/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-06-05T17:38:53.148Z</updated>
+        <updated>2022-06-06T17:42:02.791Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/beanstalk-rekt/"> <!-- -->Beanstalk - REKT</a></h5><hr><span class="post-meta"><time>Monday, April 18, 2022</time><p><span><a href="/?tag=Beanstalk">Beanstalk</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>$181M jacked from Beanstalk, but the attacker only kept $76M. A malicious governance proposal was pushed through by a flash loan, and the attacker then voted to transfer all the assets to themself, but not before donating $250K to the Ukraine war fund.</p><p class="post-excerpt-more"><a href="/beanstalk-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[11]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-06-05T17:38:53.150Z</updated>
+        <updated>2022-06-06T17:42:02.797Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/elephant-money-rekt/"> <!-- -->Elephant Money - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, April 13, 2022</time><p><span><a href="/?tag=Elephant+Money">Elephant Money</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>An audit couldn’t protect Elephant Money from the on-chain poachers. Solidity Finance failed to notify Elephant about a vulnerability which was later exploited for $22.2M.</p><p class="post-excerpt-more"><a href="/elephant-money-rekt/">MORE</a></p></section>]]></content>
     </entry>
 </feed>
