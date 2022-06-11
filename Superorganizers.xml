@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/superorganizers?sort=newest</id>
     <title>Superorganizers</title>
-    <updated>2022-06-11T05:36:55.010Z</updated>
+    <updated>2022-06-11T17:37:58.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Complete Guide to Peer Coaching]]></title>
+        <id>https://every.to/superorganizers/peer-coaching-why-and-how</id>
+        <link href="https://every.to/superorganizers/peer-coaching-why-and-how"/>
+        <updated>2022-06-11T17:36:28.077Z</updated>
+        <content type="html"><![CDATA[Some of the most impactful therapy sessions<br data-owner="balance-text">of my life haven’t come from a therapy session]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Perfectionism: Why and How to Beat It]]></title>
         <id>https://every.to/superorganizers/perfectionism-why-and-how-to-beat-it</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/superorganizers/flowing-with-frank"/>
         <updated>2021-10-11T17:40:26.516Z</updated>
         <content type="html"><![CDATA[A Renowned New York Restaurateur on Using Flow to<br data-owner="balance-text">Run His Business, Make Decisions, and Guide His Life]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do “Stress Cancelling” Headsets Work?]]></title>
-        <id>https://every.to/superorganizers/cove-review-stress-cancelling-technology</id>
-        <link href="https://every.to/superorganizers/cove-review-stress-cancelling-technology"/>
-        <updated>2021-10-04T17:43:13.094Z</updated>
-        <content type="html"><![CDATA[Reviewing a wearable device that uses special<br data-owner="balance-text">vibrations to help you "stress less" and "sleep better"]]></content>
     </entry>
 </feed>
