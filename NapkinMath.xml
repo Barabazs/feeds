@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2022-06-22T18:00:41.910Z</updated>
+    <updated>2022-06-23T05:48:05.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Are We Really Addicted?]]></title>
+        <id>https://every.to/napkin-math/maybe-we-aren-t-doomed</id>
+        <link href="https://every.to/napkin-math/maybe-we-aren-t-doomed"/>
+        <updated>2022-06-23T05:43:04.929Z</updated>
+        <content type="html"><![CDATA[An interview with Nir Eyal]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Selective Optimism]]></title>
         <id>https://every.to/napkin-math/selective-optimism</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/the-primary-trends-i-m-investing-on-next-year"/>
         <updated>2021-12-17T17:43:17.580Z</updated>
         <content type="html"><![CDATA[Inflation, web3, embedded fintech, investing in<br data-owner="balance-text">people, and the newsletter winter that is coming]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investing on Instinct]]></title>
-        <id>https://every.to/napkin-math/why-the-highest-returning-investments-are-done-with-no-data-at-all</id>
-        <link href="https://every.to/napkin-math/why-the-highest-returning-investments-are-done-with-no-data-at-all"/>
-        <updated>2021-12-02T17:42:33.411Z</updated>
-        <content type="html"><![CDATA[Why the best deals are done with no data at all]]></content>
     </entry>
 </feed>
