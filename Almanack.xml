@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/almanack?sort=newest</id>
     <title>Almanack</title>
-    <updated>2022-06-25T17:48:12.043Z</updated>
+    <updated>2022-06-26T05:41:54.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[My Crypto Investing Mistakesand Lessons (‘20-‘22)]]></title>
+        <id>https://every.to/almanack/my-crypto-investing-mistakes-and-lessons-20-22</id>
+        <link href="https://every.to/almanack/my-crypto-investing-mistakes-and-lessons-20-22"/>
+        <updated>2022-06-26T05:36:50.615Z</updated>
+        <content type="html"><![CDATA[Surely my decision making will be perfect next time]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Earn Passive Income in DeFi]]></title>
         <id>https://every.to/almanack/how-to-earn-passive-income-in-defi-cd363a28-7452-47e4-a6fe-a4d5efe88958</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/almanack/magical-internet-money"/>
         <updated>2021-09-25T05:34:47.738Z</updated>
         <content type="html"><![CDATA[Swish and Flick]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana’s Fast & Cheap Answer toEthereum’s Gas Wars - DeFriday #13]]></title>
-        <id>https://every.to/almanack/solana-defi</id>
-        <link href="https://every.to/almanack/solana-defi"/>
-        <updated>2021-09-11T05:34:46.000Z</updated>
-        <content type="html"><![CDATA[What is this? A gas fee for ANTS?]]></content>
     </entry>
 </feed>
