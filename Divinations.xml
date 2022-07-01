@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/divinations?sort=newest</id>
     <title>Divinations</title>
-    <updated>2022-06-30T17:56:34.059Z</updated>
+    <updated>2022-07-01T17:43:49.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[Scale, speed, or freedom: choose two]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering the MarketCycle, by Howard Marks]]></title>
-        <id>https://every.to/divinations/mastering-the-market-cycle-by-howard-marks</id>
-        <link href="https://every.to/divinations/mastering-the-market-cycle-by-howard-marks"/>
-        <updated>2022-05-20T17:48:09.429Z</updated>
-        <content type="html"><![CDATA[My chapter-by-chapter summary, with notes and reactions]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Time The Market (Or Not)]]></title>
         <id>https://every.to/divinations/how-to-time-the-market-or-not</id>
         <link href="https://every.to/divinations/how-to-time-the-market-or-not"/>
         <updated>2022-05-20T17:48:09.428Z</updated>
         <content type="html"><![CDATA[A Book Review of “Mastering the Market Cycle”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering the MarketCycle, by Howard Marks]]></title>
+        <id>https://every.to/divinations/mastering-the-market-cycle-by-howard-marks</id>
+        <link href="https://every.to/divinations/mastering-the-market-cycle-by-howard-marks"/>
+        <updated>2022-05-20T17:48:09.429Z</updated>
+        <content type="html"><![CDATA[My chapter-by-chapter summary, with notes and reactions]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why Sh*t is Hitting the Fan]]></title>
