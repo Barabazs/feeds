@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/superorganizers?sort=newest</id>
     <title>Superorganizers</title>
-    <updated>2022-07-06T05:48:42.669Z</updated>
+    <updated>2022-07-06T17:50:00.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
     <entry>
@@ -73,7 +73,7 @@
         <id>https://every.to/superorganizers/against-ikigai</id>
         <link href="https://every.to/superorganizers/against-ikigai"/>
         <updated>2022-04-08T05:36:14.787Z</updated>
-        <content type="html"><![CDATA[And How to Move Toward a Diversified Portfolio of Meaning]]></content>
+        <content type="html"><![CDATA[And How to Move Toward a<br data-owner="balance-text">Diversified Portfolio of Meaning]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pile Avoidance]]></title>
@@ -101,7 +101,7 @@
         <id>https://every.to/superorganizers/managing-your-manager</id>
         <link href="https://every.to/superorganizers/managing-your-manager"/>
         <updated>2022-03-10T05:34:33.381Z</updated>
-        <content type="html"><![CDATA[How Helping Your Manager Succeed Will Help You Succeed]]></content>
+        <content type="html"><![CDATA[How Helping Your Manager<br data-owner="balance-text">Succeed Will Help You Succeed]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why You’re Not Doing Creative Work]]></title>
@@ -178,6 +178,6 @@
         <id>https://every.to/superorganizers/misunderstanding-media</id>
         <link href="https://every.to/superorganizers/misunderstanding-media"/>
         <updated>2021-11-07T05:35:12.151Z</updated>
-        <content type="html"><![CDATA[The phrase “the medium is the message” predicted much<br data-owner="balance-text">of the internet era. But what does it actually mean?]]></content>
+        <content type="html"><![CDATA[The phrase “the medium is the message” predicted<br data-owner="balance-text">much of the internet era. But what does it actually mean?]]></content>
     </entry>
 </feed>
