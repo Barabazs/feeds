@@ -1,8 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://every.to/Glassy?sort=newest</id>
+    <id>https://every.to/glassy?sort=newest</id>
     <title>Glassy</title>
-    <updated>2022-07-22T17:19:21.428Z</updated>
+    <updated>2022-07-22T17:46:10.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Dark Side of Noom]]></title>
+        <id>https://every.to/glassy/the-dark-side-of-noom</id>
+        <link href="https://every.to/glassy/the-dark-side-of-noom"/>
+        <updated>2022-07-22T17:39:39.424Z</updated>
+        <content type="html"><![CDATA[Untangling the weight-loss app’s many promises]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘These are the things nobody ever talks about’]]></title>
+        <id>https://every.to/glassy/these-are-the-things-nobody-ever-talks-about</id>
+        <link href="https://every.to/glassy/these-are-the-things-nobody-ever-talks-about"/>
+        <updated>2022-07-22T17:39:39.424Z</updated>
+        <content type="html"><![CDATA[Hana Mohan on isolation, trans identity<br data-owner="balance-text">as a founder, and making space for change]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should I Become an Herb Lady?]]></title>
+        <id>https://every.to/glassy/should-i-become-an-herb-lady</id>
+        <link href="https://every.to/glassy/should-i-become-an-herb-lady"/>
+        <updated>2022-07-22T17:39:39.425Z</updated>
+        <content type="html"><![CDATA[How did CBD grow into such a massive industry so<br data-owner="balance-text">quickly? This essay isn't about whether CBD works, but<br data-owner="balance-text">how its marketing works for it. Especially with women.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Unwritten Rules of SocialMedia (A Survival Guide)]]></title>
+        <id>https://every.to/glassy/the-unwritten-rules-of-social-media-a-survival-guide-5432</id>
+        <link href="https://every.to/glassy/the-unwritten-rules-of-social-media-a-survival-guide-5432"/>
+        <updated>2022-07-22T17:39:39.426Z</updated>
+        <content type="html"><![CDATA[What are the dance steps that help doctors, researchers,<br data-owner="balance-text">health companies, educators, sex workers and activists<br data-owner="balance-text">combat harmful policies on legacy social platforms?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Glassy]]></title>
+        <id>https://every.to/glassy/welcome</id>
+        <link href="https://every.to/glassy/welcome"/>
+        <updated>2022-07-22T17:39:39.428Z</updated>
+        <content type="html"><![CDATA[A lens—not a ceiling]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who Gets to Solve Death?]]></title>
+        <id>https://every.to/glassy/who-gets-to-solve-death-13554707-2066</id>
+        <link href="https://every.to/glassy/who-gets-to-solve-death-13554707-2066"/>
+        <updated>2022-07-22T17:39:39.429Z</updated>
+        <content type="html"><![CDATA[The two types of “death tech” companies]]></content>
+    </entry>
 </feed>
