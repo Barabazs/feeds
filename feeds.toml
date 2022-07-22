@@ -100,7 +100,7 @@ timeout = 120
 
 [Glassy]
 title = "Glassy"
-url = "https://every.to/Glassy?sort=newest"
+url = "https://every.to/glassy?sort=newest"
 entrySelector = ".post-preview"
 titleSelector = "h2.post-title"
 linkSelector = "a.post-cover"
@@ -184,8 +184,8 @@ timeout = 120
 [NFX]
 title = "NFX"
 url = "https://www.nfx.com/"
-entrySelector = "ul.essays-listing > li"
-titleSelector = "h5"
-linkSelector = "h5 a"
+entrySelector = ".flex.flex-col.gap-4 > div"
+titleSelector = "div:first-child a"
+linkSelector = "div:first-child a"
 onFail = "stale"
 timeout = 120
