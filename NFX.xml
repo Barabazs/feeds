@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nfx.com/</id>
     <title>NFX</title>
-    <updated>2022-07-22T17:47:40.067Z</updated>
+    <updated>2022-07-22T17:52:01.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nfx.com/favicon-32x32.png</icon>
     <entry>
@@ -30,7 +30,7 @@
         <title type="html"><![CDATA[Academia or Startup? A Decision Matrix for Future Scientist-Founders]]></title>
         <id>https://www.nfx.com/post/techbio-scientists-academia-or-startup</id>
         <link href="https://www.nfx.com/post/techbio-scientists-academia-or-startup"/>
-        <updated>2022-07-22T17:47:38.428Z</updated>
+        <updated>2022-07-22T17:47:38.425Z</updated>
         <content type="html"><![CDATA[<div class="hover:underline text-xl font-medium font-palatino relative"><a href="/post/techbio-scientists-academia-or-startup">Academia or Startup? A Decision Matrix for Future Scientist-Founders</a></div><div class="text-secondary text-xs font-sans uppercase"><a href="/library/bio">Bio</a><span>, </span><a href="/library/growth">Growth</a></div>]]></content>
     </entry>
     <entry>
