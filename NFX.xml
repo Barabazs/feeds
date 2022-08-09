@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nfx.com/</id>
     <title>NFX</title>
-    <updated>2022-08-09T05:50:26.229Z</updated>
+    <updated>2022-08-09T17:52:05.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nfx.com/favicon-32x32.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://www.nfx.com/</id>
         <link href="https://www.nfx.com/"/>
-        <updated>2022-08-09T05:50:23.600Z</updated>
+        <updated>2022-08-09T17:52:03.085Z</updated>
         <content type="html"><![CDATA[The Founder Library]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://www.nfx.com/</id>
         <link href="https://www.nfx.com/"/>
-        <updated>2022-08-09T05:50:23.601Z</updated>
+        <updated>2022-08-09T17:52:03.085Z</updated>
         <content type="html"><![CDATA[<a class="text-white rounded bg-secondary px-2 py-1 text-xs hover:text-black transition-colors duration-500" href="/library/bio">Bio</a><a class="text-white rounded bg-secondary px-2 py-1 text-xs hover:text-black transition-colors duration-500" href="/library/web3">Web3</a><a class="text-white rounded bg-secondary px-2 py-1 text-xs hover:text-black transition-colors duration-500" href="/library/gaming">Gaming</a><a class="text-white rounded bg-secondary px-2 py-1 text-xs hover:text-black transition-colors duration-500" href="/library/proptech">Proptech</a><a class="text-white rounded bg-secondary px-2 py-1 text-xs hover:text-black transition-colors duration-500" href="/library/latam">LatAm</a><a class="text-white rounded bg-secondary px-2 py-1 text-xs hover:text-black transition-colors duration-500" href="/library/israel">Israel</a><a class="text-white rounded bg-secondary px-2 py-1 text-xs hover:text-black transition-colors duration-500" href="/library/space">Space</a><a class="text-white rounded bg-secondary px-2 py-1 text-xs hover:text-black transition-colors duration-500" href="/library/fintech">Fintech</a><a class="text-white rounded bg-secondary px-2 py-1 text-xs hover:text-black transition-colors duration-500" href="/library/marketplaces">Marketplaces</a>]]></content>
     </entry>
     <entry>
@@ -30,7 +30,7 @@
         <title type="html"><![CDATA[Why NFX Invested in Theator: The Startup Using Network Effects to Improve Surgical Outcomes]]></title>
         <id>https://www.nfx.com/post/why-nfx-invested-in-theator</id>
         <link href="https://www.nfx.com/post/why-nfx-invested-in-theator"/>
-        <updated>2022-08-09T05:50:25.216Z</updated>
+        <updated>2022-08-09T05:50:25.215Z</updated>
         <content type="html"><![CDATA[<div class="hover:underline text-xl font-medium font-palatino relative"><a href="/post/why-nfx-invested-in-theator">Why NFX Invested in Theator: The Startup Using Network Effects to Improve Surgical Outcomes</a></div><div class="text-secondary text-xs font-sans uppercase"><a href="/library/investment-memos">Investment Memos</a></div>]]></content>
     </entry>
     <entry>
