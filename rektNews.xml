@@ -2,91 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rekt.news/</id>
     <title>Rekt.news</title>
-    <updated>2022-08-13T05:40:26.610Z</updated>
+    <updated>2022-08-13T17:43:05.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://raw.githubusercontent.com/RektHQ/Assets/main/images/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-08-13T05:38:16.124Z</updated>
+        <updated>2022-08-13T17:42:53.382Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title featured"><a href="/curve-finance-rekt/"> <!-- -->Curve Finance - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, August 10, 2022</time><p><span><a href="/?tag=Curve+Finance">Curve Finance</a></span><span> - <a href="/?tag=DNS+hijack">DNS hijack</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Curve fell victim to a DNS hijacking yesterday, with approximately $575k lost to malicious contract approvals. For users, DeFi protocols are only as secure as their centrally-hosted front end. How much longer will web3 rely on web2?</p><p class="post-excerpt-more"><a href="/curve-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-08-13T05:38:16.126Z</updated>
+        <updated>2022-08-13T17:42:53.387Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/eye-of-the-storm/"> <!-- -->The Eye of the Storm</a></h5><hr><span class="post-meta"><time>Tuesday, August 9, 2022</time><p><span><a href="/?tag=Tornado+Cash">Tornado Cash</a></span><span> - <a href="/?tag=Privacy">Privacy</a></span><span> - <a href="/?tag=Sanctions">Sanctions</a></span></p></span><hr></header><section class="post-excerpt"><p>If you have nothing to hide, you have nothing to fear. Tornado Cash has been living on borrowed time, and now the crackdown has begun. Choose privacy while it’s still an option. It’s time to go dark...</p><p class="post-excerpt-more"><a href="/eye-of-the-storm/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-08-13T05:38:16.128Z</updated>
+        <updated>2022-08-13T17:42:53.388Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/unsolved-mystery/"> <!-- -->An Un-SOL-ved Mystery</a></h5><hr><span class="post-meta"><time>Wednesday, August 3, 2022</time><p><span><a href="/?tag=Solana">Solana</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Approximately 8,000 addresses on the Solana network have been compromised, draining a total of ~$5.3M. Fear leads to rumours, and separating the signal from the noise is no easy task.</p><p class="post-excerpt-more"><a href="/unsolved-mystery/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-08-13T05:38:16.134Z</updated>
+        <updated>2022-08-13T17:42:53.389Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/nomad-rekt/"> <!-- -->Nomad Bridge - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, August 2, 2022</time><p><span><a href="/?tag=Nomad+Bridge">Nomad Bridge</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Nomad Bridge has been torn apart, with $190M drained in a savage attack. This is the 100th incident to make it onto the leaderboard, but DeFi still has plenty of easy prey, and scavengers continue to circle overhead.</p><p class="post-excerpt-more"><a href="/nomad-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-08-13T05:38:16.136Z</updated>
+        <updated>2022-08-13T17:42:53.389Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/nirvana-rekt/"> <!-- -->Nirvana Finance - REKT</a></h5><hr><span class="post-meta"><time>Friday, July 29, 2022</time><p><span><a href="/?tag=Nirvana+Finance">Nirvana Finance</a></span><span> - <a href="/?tag=Solana">Solana</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Nirvana Finance lost $3.5M yesterday to a flash loan attack. It seems Solana’s relevance is waning, but will Nirvana get a chance at reincarnation?</p><p class="post-excerpt-more"><a href="/nirvana-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-08-13T05:38:16.139Z</updated>
+        <updated>2022-08-13T17:42:53.389Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/audius-rekt/"> <!-- -->Audius - REKT</a></h5><hr><span class="post-meta"><time>Monday, July 25, 2022</time><p><span><a href="/?tag=Audius">Audius</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Audius has fallen victim to a governance attack, losing $6M of its native token, AUDIO. Let’s hope their debut is a one-hit wonder.</p><p class="post-excerpt-more"><a href="/audius-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-08-13T05:38:16.141Z</updated>
+        <updated>2022-08-13T17:42:53.390Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/crema-finance-rekt/"> <!-- -->Crema Finance - REKT</a></h5><hr><span class="post-meta"><time>Monday, July 4, 2022</time><p><span><a href="/?tag=Crema+Finance">Crema Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>~$8.8M skimmed off the top. Crema Finance, a concentrated liquidity AMM on Solana, was exploited into issuing millions in excess LP fees.</p><p class="post-excerpt-more"><a href="/crema-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-08-13T05:38:16.143Z</updated>
+        <updated>2022-08-13T17:42:53.391Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/harmony-rekt/"> <!-- -->Harmony Bridge - REKT</a></h5><hr><span class="post-meta"><time>Friday, June 24, 2022</time><p><span><a href="/?tag=Harmony+Bridge">Harmony Bridge</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Harmony has hit a bum note. To the tune of $100M. Were nine figures really secured by just two signatures? And is this the final encore for Harmony Network?</p><p class="post-excerpt-more"><a href="/harmony-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-08-13T05:38:16.145Z</updated>
+        <updated>2022-08-13T17:42:53.393Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/three-arrows/"> <!-- -->3AC Contagion</a></h5><hr><span class="post-meta"><time>Friday, June 24, 2022</time><p><span><a href="/?tag=Three+Arrows">Three Arrows</a></span><span> - <a href="/?tag=CeFi">CeFi</a></span><span> - <a href="/?tag=SBF">SBF</a></span></p></span><hr></header><section class="post-excerpt"><p>Shockwaves from the Three Arrows implosion are still shaking the industry. Organisations such as Voyager and BlockFi are desperately looking for a lifeline. Can these CeFi casualties survive solely on the effective altruism of others?</p><p class="post-excerpt-more"><a href="/three-arrows/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[9]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-08-13T05:38:16.147Z</updated>
+        <updated>2022-08-13T17:42:53.394Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/ethcc-detychey-vs-touts/"> <!-- -->EthCC - De Tychey vs Touts</a></h5><hr><span class="post-meta"><time>Thursday, June 23, 2022</time><p><span><a href="/?tag=EthCC">EthCC</a></span></p></span><hr></header><section class="post-excerpt"><p>Ticket Tout Tied up in Conference Crime Drama. A self-proclaimed group of “crypto enthusiasts” managed to trick the system for EthCC, purchasing 200 tickets with a plan to sell them on. But EthCC fought back, and now it's the scalpers who are out of pocket.</p><p class="post-excerpt-more"><a href="/ethcc-detychey-vs-touts/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-08-13T05:38:16.150Z</updated>
+        <updated>2022-08-13T17:42:53.396Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/bancor-lp-rekt/"> <!-- -->Bancor LP - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, June 22, 2022</time><p><span><a href="/?tag=Bancor">Bancor</a></span></p></span><hr></header><section class="post-excerpt"><p>The flagship feature of Bancor v3, which protects LPs from the effects of volatility, has been suspended, due to… v o l a t i l i t y. If it sounds too good to be true, it probably is.</p><p class="post-excerpt-more"><a href="/bancor-lp-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[11]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2022-08-13T05:38:16.153Z</updated>
+        <updated>2022-08-13T17:42:53.397Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/everyone-rekt/"> <!-- -->Everyone - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, June 22, 2022</time><p><span><a href="/?tag=Everyone">Everyone</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>So many sad stories. All corners of the industry are reporting major losses, after being punished relentlessly by the unforgiving market conditions. And it’s not just those who were leveraged who are feeling the pain.</p><p class="post-excerpt-more"><a href="/everyone-rekt/">MORE</a></p></section>]]></content>
     </entry>
 </feed>
