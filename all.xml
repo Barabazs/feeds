@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Barabazs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-01T06:08:30.853Z</updated>
+    <updated>2022-09-01T17:53:25.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Why You Keep Doing ProductivitySystems That Don’t Work (Superorganizers)]]></title>
@@ -201,13 +201,6 @@
         <content type="html"><![CDATA[What I Learned From Listening to<br data-owner="balance-text">100 Episodes of the SPI Podcast]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Paranoid Productivity (Praxis)]]></title>
-        <id>https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2</id>
-        <link href="https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2"/>
-        <updated>2021-12-27T05:37:24.434Z</updated>
-        <content type="html"><![CDATA[By Christina LuoProductivity is about managing<br data-owner="balance-text">emotions as much as projects. Yet we often focus<br data-owner="balance-text">on productivity as a toolset more than a min]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Inner Limits (Praxis)]]></title>
         <id>https://every.to/praxis/inner-limits</id>
         <link href="https://every.to/praxis/inner-limits"/>
@@ -220,6 +213,13 @@
         <link href="https://every.to/praxis/paranoid-productivity-dccd9d86-6ad0-4579-8329-2b2d5e3eef10"/>
         <updated>2021-12-27T05:37:24.434Z</updated>
         <content type="html"><![CDATA[Hello Praxsters!I have something special to<br data-owner="balance-text">share with you&nbsp;today: the first contributions of<br data-owner="balance-text">our&nbsp;Praxis Writing Fellows!I recruited a few of]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paranoid Productivity (Praxis)]]></title>
+        <id>https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2</id>
+        <link href="https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2"/>
+        <updated>2021-12-27T05:37:24.434Z</updated>
+        <content type="html"><![CDATA[By Christina LuoProductivity is about managing<br data-owner="balance-text">emotions as much as projects. Yet we often focus<br data-owner="balance-text">on productivity as a toolset more than a min]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Modern Swipe File (Praxis)]]></title>
@@ -236,22 +236,6 @@
         <content type="html"><![CDATA[Over the last year I filmed a short documentary<br data-owner="balance-text">on the life and artistic career of my father<br data-owner="balance-text">Wayne Forte. He has been one of the strongest]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Ins and Outs of Offers (Praxis)]]></title>
-        <id>https://every.to/praxis/the-ins-and-outs-of-offers-11294416</id>
-        <link href="https://every.to/praxis/the-ins-and-outs-of-offers-11294416"/>
-        <updated>2021-12-27T05:37:24.438Z</updated>
-        <content type="html"><![CDATA[After you’ve written your proposal and sent<br data-owner="balance-text">it to publishers, the future of your book is in<br data-owner="balance-text">their hands.&nbsp;
-If you’ve done your job effectivel]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Negotiating Your Contract (Praxis)]]></title>
-        <id>https://every.to/praxis/negotiating-your-contract-11294421</id>
-        <link href="https://every.to/praxis/negotiating-your-contract-11294421"/>
-        <updated>2021-12-27T05:37:24.449Z</updated>
-        <content type="html"><![CDATA[Once you’ve accepted an offer for the publishing<br data-owner="balance-text">rights to your book, it’s time to draw up and<br data-owner="balance-text">sign a binding contract.
-Many of these contra]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Own Your Writing Platform (Praxis)]]></title>
         <id>https://every.to/praxis/own-your-writing-platform-11294360</id>
         <link href="https://every.to/praxis/own-your-writing-platform-11294360"/>
@@ -260,12 +244,12 @@ Many of these contra]]></content>
 There are a lot of people out there who<br data-owner="balance-text">you want to take a certain action, at a cert]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Launching Your Book (Praxis)]]></title>
-        <id>https://every.to/praxis/launching-your-book-11294430</id>
-        <link href="https://every.to/praxis/launching-your-book-11294430"/>
+        <title type="html"><![CDATA[Writing Your Book (Praxis)]]></title>
+        <id>https://every.to/praxis/writing-your-book-11294426</id>
+        <link href="https://every.to/praxis/writing-your-book-11294426"/>
         <updated>2021-12-27T05:37:24.435Z</updated>
-        <content type="html"><![CDATA[Everything you’ve done up to this point has been<br data-owner="balance-text">preparation for this singular moment: the launch<br data-owner="balance-text">of your book.
-An incredible amount of time]]></content>
+        <content type="html"><![CDATA[After all this work and finally signing a deal…it’s<br data-owner="balance-text">time to do the thing you’ve been asking for,<br data-owner="balance-text">and write the book.
+Leave plenty of time to]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Finding an Agent and Publisher (Praxis)]]></title>
@@ -284,13 +268,6 @@ Each one contributes som]]></content>
 It needs to justify why your book is<br data-owner="balance-text">worth not just years of&nbsp;your&nbsp;time and effort, but]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing: How to Land a Book Deal (Praxis)]]></title>
-        <id>https://every.to/praxis/introducing-how-to-land-a-book-deal-11295091</id>
-        <link href="https://every.to/praxis/introducing-how-to-land-a-book-deal-11295091"/>
-        <updated>2021-12-27T05:37:24.434Z</updated>
-        <content type="html"><![CDATA[A Nine-Part Series, from Concept to Launch]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Evaluating Your Book Idea (Praxis)]]></title>
         <id>https://every.to/praxis/evaluating-your-book-idea-11294355</id>
         <link href="https://every.to/praxis/evaluating-your-book-idea-11294355"/>
@@ -299,12 +276,35 @@ It needs to justify why your book is<br data-owner="balance-text">worth not just
 You have<br data-owner="balance-text">something to say. A message that wants to get out<br data-owner="balance-text">of you. That&nbsp;needs&nbsp;to get out of you or else it w]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Writing Your Book (Praxis)]]></title>
-        <id>https://every.to/praxis/writing-your-book-11294426</id>
-        <link href="https://every.to/praxis/writing-your-book-11294426"/>
+        <title type="html"><![CDATA[Negotiating Your Contract (Praxis)]]></title>
+        <id>https://every.to/praxis/negotiating-your-contract-11294421</id>
+        <link href="https://every.to/praxis/negotiating-your-contract-11294421"/>
+        <updated>2021-12-27T05:37:24.449Z</updated>
+        <content type="html"><![CDATA[Once you’ve accepted an offer for the publishing<br data-owner="balance-text">rights to your book, it’s time to draw up and<br data-owner="balance-text">sign a binding contract.
+Many of these contra]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing: How to Land a Book Deal (Praxis)]]></title>
+        <id>https://every.to/praxis/introducing-how-to-land-a-book-deal-11295091</id>
+        <link href="https://every.to/praxis/introducing-how-to-land-a-book-deal-11295091"/>
+        <updated>2021-12-27T05:37:24.434Z</updated>
+        <content type="html"><![CDATA[A Nine-Part Series, from Concept to Launch]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launching Your Book (Praxis)]]></title>
+        <id>https://every.to/praxis/launching-your-book-11294430</id>
+        <link href="https://every.to/praxis/launching-your-book-11294430"/>
         <updated>2021-12-27T05:37:24.435Z</updated>
-        <content type="html"><![CDATA[After all this work and finally signing a deal…it’s<br data-owner="balance-text">time to do the thing you’ve been asking for,<br data-owner="balance-text">and write the book.
-Leave plenty of time to]]></content>
+        <content type="html"><![CDATA[Everything you’ve done up to this point has been<br data-owner="balance-text">preparation for this singular moment: the launch<br data-owner="balance-text">of your book.
+An incredible amount of time]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ins and Outs of Offers (Praxis)]]></title>
+        <id>https://every.to/praxis/the-ins-and-outs-of-offers-11294416</id>
+        <link href="https://every.to/praxis/the-ins-and-outs-of-offers-11294416"/>
+        <updated>2021-12-27T05:37:24.438Z</updated>
+        <content type="html"><![CDATA[After you’ve written your proposal and sent<br data-owner="balance-text">it to publishers, the future of your book is in<br data-owner="balance-text">their hands.&nbsp;
+If you’ve done your job effectivel]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Complete Guide to Landing a Book Deal (Praxis)]]></title>
@@ -715,6 +715,13 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <content type="html"><![CDATA[How Spoonbill reveals our obsession with identity]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Intelligent Tools (Divinations)]]></title>
+        <id>https://every.to/divinations/intelligent-tools</id>
+        <link href="https://every.to/divinations/intelligent-tools"/>
+        <updated>2022-09-01T17:44:34.083Z</updated>
+        <content type="html"><![CDATA[A third revolution in software is happening,<br data-owner="balance-text">and we’re just beginning to understand it.]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[⚠️ Time to BeWorried ⚠️ (Divinations)]]></title>
         <id>https://every.to/divinations/bereal-should-beworried</id>
         <link href="https://every.to/divinations/bereal-should-beworried"/>
@@ -771,18 +778,18 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <content type="html"><![CDATA[Scale, speed, or freedom: choose two]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Time The Market (Or Not) (Divinations)]]></title>
-        <id>https://every.to/divinations/how-to-time-the-market-or-not</id>
-        <link href="https://every.to/divinations/how-to-time-the-market-or-not"/>
-        <updated>2022-05-20T17:48:09.428Z</updated>
-        <content type="html"><![CDATA[A Book Review of “Mastering the Market Cycle”]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mastering the MarketCycle, by Howard Marks (Divinations)]]></title>
         <id>https://every.to/divinations/mastering-the-market-cycle-by-howard-marks</id>
         <link href="https://every.to/divinations/mastering-the-market-cycle-by-howard-marks"/>
         <updated>2022-05-20T17:48:09.429Z</updated>
         <content type="html"><![CDATA[My chapter-by-chapter summary, with notes and reactions]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Time The Market (Or Not) (Divinations)]]></title>
+        <id>https://every.to/divinations/how-to-time-the-market-or-not</id>
+        <link href="https://every.to/divinations/how-to-time-the-market-or-not"/>
+        <updated>2022-05-20T17:48:09.428Z</updated>
+        <content type="html"><![CDATA[A Book Review of “Mastering the Market Cycle”]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why Sh*t is Hitting the Fan (Divinations)]]></title>
@@ -881,13 +888,6 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <link href="https://every.to/divinations/eric-newcomer-on-2022-startup-trends"/>
         <updated>2022-01-17T05:38:07.658Z</updated>
         <content type="html"><![CDATA[Eric Newcomer is one of the smartest and most<br data-owner="balance-text">plugged in newsletter writers in tech. This week<br data-owner="balance-text">he'll be joining Nathan, Dan, and Evan in the]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Axie Infinity a Ponzi Scheme? (Divinations)]]></title>
-        <id>https://every.to/divinations/is-axie-infinity-a-ponzi-scheme</id>
-        <link href="https://every.to/divinations/is-axie-infinity-a-ponzi-scheme"/>
-        <updated>2021-12-27T05:37:36.044Z</updated>
-        <content type="html"><![CDATA[To Axie Infinity And Beyond!]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Finance is Narrative Not Numbers (Napkin Math)]]></title>
@@ -6632,84 +6632,84 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-09-01T06:08:17.097Z</updated>
+        <updated>2022-09-01T17:49:19.647Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title featured"><a href="/compound-errors/"> <!-- -->Compound Errors</a></h5><hr><span class="post-meta"><time>Wednesday, August 31, 2022</time><p><span><a href="/?tag=Compound">Compound</a></span><span> - <a href="/?tag=Governance">Governance</a></span></p></span><hr></header><section class="post-excerpt"><p>Compound’s governance has backfired, and not for the first time. An oracle update has bricked the cEther market for a week. Compound say that “Funds are not immediately at risk, but this is a developing situation…”</p><p class="post-excerpt-more"><a href="/compound-errors/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-09-01T06:08:17.098Z</updated>
+        <updated>2022-09-01T17:49:19.647Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/winds-of-change/"> <!-- -->Winds of Change</a></h5><hr><span class="post-meta"><time>Friday, August 26, 2022</time><p><span><a href="/?tag=Tornado+Cash">Tornado Cash</a></span><span> - <a href="/?tag=Sanctions">Sanctions</a></span><span> - <a href="/?tag=Regulation">Regulation</a></span></p></span><hr></header><section class="post-excerpt"><p>It’s been a stormy summer for DeFi. The sanctioning of Tornado Cash has forced us to face certain questions about Ethereum’s future. Will the censorship-resistant, permissionless dream survive, or is OFAC’s influence an existential threat?</p><p class="post-excerpt-more"><a href="/winds-of-change/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-09-01T06:08:17.098Z</updated>
+        <updated>2022-09-01T17:49:19.649Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/acala-network-rekt/"> <!-- -->Acala Network - REKT</a></h5><hr><span class="post-meta"><time>Monday, August 15, 2022</time><p><span><a href="/?tag=Acala+Network">Acala Network</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>The billion that wasn't. Tornado sanctions didn’t deter these Polkadot thieves, who tried to steal ~$1.3B in aUSD from Acala Network.</p><p class="post-excerpt-more"><a href="/acala-network-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-09-01T06:08:17.102Z</updated>
+        <updated>2022-09-01T17:49:19.653Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/curve-finance-rekt/"> <!-- -->Curve Finance - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, August 10, 2022</time><p><span><a href="/?tag=Curve+Finance">Curve Finance</a></span><span> - <a href="/?tag=DNS+hijack">DNS hijack</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Curve fell victim to a DNS hijacking yesterday, with approximately $575k lost to malicious contract approvals. For users, DeFi protocols are only as secure as their centrally-hosted front end. How much longer will web3 rely on web2?</p><p class="post-excerpt-more"><a href="/curve-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-09-01T06:08:17.103Z</updated>
+        <updated>2022-09-01T17:49:19.653Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/eye-of-the-storm/"> <!-- -->The Eye of the Storm</a></h5><hr><span class="post-meta"><time>Tuesday, August 9, 2022</time><p><span><a href="/?tag=Tornado+Cash">Tornado Cash</a></span><span> - <a href="/?tag=Privacy">Privacy</a></span><span> - <a href="/?tag=Sanctions">Sanctions</a></span></p></span><hr></header><section class="post-excerpt"><p>If you have nothing to hide, you have nothing to fear. Tornado Cash has been living on borrowed time, and now the crackdown has begun. Choose privacy while it’s still an option. It’s time to go dark...</p><p class="post-excerpt-more"><a href="/eye-of-the-storm/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-09-01T06:08:17.106Z</updated>
+        <updated>2022-09-01T17:49:19.655Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/unsolved-mystery/"> <!-- -->An Un-SOL-ved Mystery</a></h5><hr><span class="post-meta"><time>Wednesday, August 3, 2022</time><p><span><a href="/?tag=Solana">Solana</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Approximately 8,000 addresses on the Solana network have been compromised, draining a total of ~$5.3M. Fear leads to rumours, and separating the signal from the noise is no easy task.</p><p class="post-excerpt-more"><a href="/unsolved-mystery/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-09-01T06:08:17.107Z</updated>
+        <updated>2022-09-01T17:49:19.656Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/nomad-rekt/"> <!-- -->Nomad Bridge - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, August 2, 2022</time><p><span><a href="/?tag=Nomad+Bridge">Nomad Bridge</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Nomad Bridge has been torn apart, with $190M drained in a savage attack. This is the 100th incident to make it onto the leaderboard, but DeFi still has plenty of easy prey, and scavengers continue to circle overhead.</p><p class="post-excerpt-more"><a href="/nomad-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-09-01T06:08:17.108Z</updated>
+        <updated>2022-09-01T17:49:19.659Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/nirvana-rekt/"> <!-- -->Nirvana Finance - REKT</a></h5><hr><span class="post-meta"><time>Friday, July 29, 2022</time><p><span><a href="/?tag=Nirvana+Finance">Nirvana Finance</a></span><span> - <a href="/?tag=Solana">Solana</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Nirvana Finance lost $3.5M yesterday to a flash loan attack. It seems Solana’s relevance is waning, but will Nirvana get a chance at reincarnation?</p><p class="post-excerpt-more"><a href="/nirvana-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-09-01T06:08:17.114Z</updated>
+        <updated>2022-09-01T17:49:19.661Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/audius-rekt/"> <!-- -->Audius - REKT</a></h5><hr><span class="post-meta"><time>Monday, July 25, 2022</time><p><span><a href="/?tag=Audius">Audius</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Audius has fallen victim to a governance attack, losing $6M of its native token, AUDIO. Let’s hope their debut is a one-hit wonder.</p><p class="post-excerpt-more"><a href="/audius-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-09-01T06:08:17.114Z</updated>
+        <updated>2022-09-01T17:49:19.662Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/crema-finance-rekt/"> <!-- -->Crema Finance - REKT</a></h5><hr><span class="post-meta"><time>Monday, July 4, 2022</time><p><span><a href="/?tag=Crema+Finance">Crema Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>~$8.8M skimmed off the top. Crema Finance, a concentrated liquidity AMM on Solana, was exploited into issuing millions in excess LP fees.</p><p class="post-excerpt-more"><a href="/crema-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-09-01T06:08:17.116Z</updated>
+        <updated>2022-09-01T17:49:19.663Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/harmony-rekt/"> <!-- -->Harmony Bridge - REKT</a></h5><hr><span class="post-meta"><time>Friday, June 24, 2022</time><p><span><a href="/?tag=Harmony+Bridge">Harmony Bridge</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Harmony has hit a bum note. To the tune of $100M. Were nine figures really secured by just two signatures? And is this the final encore for Harmony Network?</p><p class="post-excerpt-more"><a href="/harmony-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-09-01T06:08:17.118Z</updated>
+        <updated>2022-09-01T17:49:19.667Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/three-arrows/"> <!-- -->3AC Contagion</a></h5><hr><span class="post-meta"><time>Friday, June 24, 2022</time><p><span><a href="/?tag=Three+Arrows">Three Arrows</a></span><span> - <a href="/?tag=CeFi">CeFi</a></span><span> - <a href="/?tag=SBF">SBF</a></span></p></span><hr></header><section class="post-excerpt"><p>Shockwaves from the Three Arrows implosion are still shaking the industry. Organisations such as Voyager and BlockFi are desperately looking for a lifeline. Can these CeFi casualties survive solely on the effective altruism of others?</p><p class="post-excerpt-more"><a href="/three-arrows/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
@@ -7332,7 +7332,7 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <title type="html"><![CDATA[Why NFX Invested in Landa: The Startup Democratizing Access to the $43 Trillion Residential Real Estate Market (NFX)]]></title>
         <id>https://www.nfx.com/post/why-nfx-invested-in-landa</id>
         <link href="https://www.nfx.com/post/why-nfx-invested-in-landa"/>
-        <updated>2022-09-01T06:08:29.484Z</updated>
+        <updated>2022-09-01T06:08:29.483Z</updated>
         <content type="html"><![CDATA[<div class="hover:underline text-xl font-medium font-palatino relative"><a href="/post/why-nfx-invested-in-landa">Why NFX Invested in Landa: The Startup Democratizing Access to the $43 Trillion Residential Real Estate Market</a></div><div class="text-secondary text-xs font-sans uppercase"><a href="/library/investment-memos">Investment Memos</a></div>]]></content>
     </entry>
     <entry>
