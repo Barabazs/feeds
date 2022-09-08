@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/divinations?sort=newest</id>
     <title>Divinations</title>
-    <updated>2022-09-07T18:01:57.839Z</updated>
+    <updated>2022-09-08T06:36:03.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Book Review: Slouching Towards Utopia]]></title>
+        <id>https://every.to/divinations/book-review-slouching-towards-utopia</id>
+        <link href="https://every.to/divinations/book-review-slouching-towards-utopia"/>
+        <updated>2022-09-08T06:27:04.634Z</updated>
+        <content type="html"><![CDATA[The origins of economic progress, and what comes next]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intelligent Tools]]></title>
         <id>https://every.to/divinations/intelligent-tools</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/divinations/year-two"/>
         <updated>2022-01-22T05:34:59.905Z</updated>
         <content type="html"><![CDATA[A messy slog that changed everything for me]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eric Newcomer on 2022 Startup Trends]]></title>
-        <id>https://every.to/divinations/eric-newcomer-on-2022-startup-trends</id>
-        <link href="https://every.to/divinations/eric-newcomer-on-2022-startup-trends"/>
-        <updated>2022-01-17T05:38:07.658Z</updated>
-        <content type="html"><![CDATA[Eric Newcomer is one of the smartest and most<br data-owner="balance-text">plugged in newsletter writers in tech. This week<br data-owner="balance-text">he'll be joining Nathan, Dan, and Evan in the]]></content>
     </entry>
 </feed>
