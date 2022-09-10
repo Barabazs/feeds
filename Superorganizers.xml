@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/superorganizers?sort=newest</id>
     <title>Superorganizers</title>
-    <updated>2022-09-09T17:54:29.554Z</updated>
+    <updated>2022-09-10T06:03:27.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Creative Extravagance]]></title>
+        <id>https://every.to/superorganizers/creative-extravagance</id>
+        <link href="https://every.to/superorganizers/creative-extravagance"/>
+        <updated>2022-09-10T06:00:05.852Z</updated>
+        <content type="html"><![CDATA[Throw some stuff against the wall and see what sticks]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When Productivity ToolsMake the Problem Worse]]></title>
         <id>https://every.to/superorganizers/when-productivity-tools-make-the-problem-worse</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/superorganizers/what-worked-for-me-in-2021"/>
         <updated>2021-12-23T05:36:58.517Z</updated>
         <content type="html"><![CDATA[I’m constantly experimenting with tools, systems,<br data-owner="balance-text">routines, books, and supplements to try to<br data-owner="balance-text">live a better life. Experimentation is the esse]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event: $10k Work with Khe Hy]]></title>
-        <id>https://every.to/superorganizers/event-10k-work-with-khe-hy</id>
-        <link href="https://every.to/superorganizers/event-10k-work-with-khe-hy"/>
-        <updated>2021-12-03T05:36:12.906Z</updated>
-        <content type="html"><![CDATA[When it comes to productivity systems, you've<br data-owner="balance-text">tried them all, yet nothing really sticks. Why?<br data-owner="balance-text">Because the popular methods don't prioritize i]]></content>
     </entry>
 </feed>
