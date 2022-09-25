@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/superorganizers?sort=newest</id>
     <title>Superorganizers</title>
-    <updated>2022-09-24T17:50:49.342Z</updated>
+    <updated>2022-09-25T06:06:59.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Fear, Courage, and Willingness]]></title>
+        <id>https://every.to/superorganizers/fear-courage-and-willingness</id>
+        <link href="https://every.to/superorganizers/fear-courage-and-willingness"/>
+        <updated>2022-09-25T05:55:44.800Z</updated>
+        <content type="html"><![CDATA[How to walk the path to fearlessness]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creative Extravagance]]></title>
         <id>https://every.to/superorganizers/creative-extravagance</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/superorganizers/beware-of-pet-explanations"/>
         <updated>2022-01-15T05:37:01.835Z</updated>
         <content type="html"><![CDATA[A few weeks ago, I was out shopping in SoHo<br data-owner="balance-text">when I was gripped by the sensation that everything<br data-owner="balance-text">was about to go horribly wrong. I am not a s]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Worked for Me in 2021]]></title>
-        <id>https://every.to/superorganizers/what-worked-for-me-in-2021</id>
-        <link href="https://every.to/superorganizers/what-worked-for-me-in-2021"/>
-        <updated>2021-12-23T05:36:58.517Z</updated>
-        <content type="html"><![CDATA[I’m constantly experimenting with tools, systems,<br data-owner="balance-text">routines, books, and supplements to try to<br data-owner="balance-text">live a better life. Experimentation is the esse]]></content>
     </entry>
 </feed>
