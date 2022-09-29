@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/almanack?sort=newest</id>
     <title>Almanack</title>
-    <updated>2022-09-29T06:48:26.576Z</updated>
+    <updated>2022-09-29T18:08:14.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
     <entry>
@@ -87,7 +87,7 @@
         <id>https://every.to/almanack/crypto-unicorns-how-to-play-crypto-analysis</id>
         <link href="https://every.to/almanack/crypto-unicorns-how-to-play-crypto-analysis"/>
         <updated>2022-05-26T05:41:22.342Z</updated>
-        <content type="html"><![CDATA[Farming, Crafting, Gathering,<br data-owner="balance-text">Breeding... and Even Pooping]]></content>
+        <content type="html"><![CDATA[Farming, Crafting, Gathering, Breeding... and Even Pooping]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Gaming is Broken. How Do We Fix It?]]></title>
@@ -122,14 +122,21 @@
         <id>https://every.to/almanack/tokenomics-103-utility</id>
         <link href="https://every.to/almanack/tokenomics-103-utility"/>
         <updated>2022-04-12T05:36:19.406Z</updated>
-        <content type="html"><![CDATA[Even if a token has a great supply model, it still needs<br data-owner="balance-text">a good reason to exist and for people to hold it.]]></content>
+        <content type="html"><![CDATA[Even if a token has a great supply model, it still<br data-owner="balance-text">needs a good reason to exist and for people to hold it.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When To Sell: CreatingRules for Taking Profits]]></title>
+        <title type="html"><![CDATA[When To Sell: Creating Rules for Taking Profits]]></title>
         <id>https://every.to/almanack/when-to-sell-creating-rules-for-taking-profits</id>
         <link href="https://every.to/almanack/when-to-sell-creating-rules-for-taking-profits"/>
         <updated>2022-04-03T05:35:38.875Z</updated>
         <content type="html"><![CDATA[Crypto holdings are back on the rise! ...which<br data-owner="balance-text">means it’s time to think about selling.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Ways to Earn Yield on Your ETH]]></title>
+        <id>https://every.to/almanack/the-best-ways-to-earn-yield-on-your-eth</id>
+        <link href="https://every.to/almanack/the-best-ways-to-earn-yield-on-your-eth"/>
+        <updated>2022-03-27T05:34:43.914Z</updated>
+        <content type="html"><![CDATA[Staking, farming, LPs, understanding risk, and what I'm doing]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How I’m Earning Yield on My ETH]]></title>
@@ -137,13 +144,6 @@
         <link href="https://every.to/almanack/how-i-m-earning-yield-on-my-eth"/>
         <updated>2022-03-27T05:34:43.912Z</updated>
         <content type="html"><![CDATA[My current ETH farming strategies as of March 2022]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Ways to Earn Yield on Your ETH]]></title>
-        <id>https://every.to/almanack/the-best-ways-to-earn-yield-on-your-eth</id>
-        <link href="https://every.to/almanack/the-best-ways-to-earn-yield-on-your-eth"/>
-        <updated>2022-03-27T05:34:43.914Z</updated>
-        <content type="html"><![CDATA[Staking, farming, LPs, understanding<br data-owner="balance-text">risk, and what I'm doing]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[From PFPs to VIDs]]></title>
@@ -160,7 +160,7 @@
         <content type="html"><![CDATA[Emissions, Vesting, Market Cap,<br data-owner="balance-text">Fully Diluted Value, and More]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How JonesDAO Puts OptionsTrading on Autopilot]]></title>
+        <title type="html"><![CDATA[How JonesDAO PutsOptions Trading on Autopilot]]></title>
         <id>https://every.to/almanack/how-jonesdao-puts-options-trading-on-autopilot</id>
         <link href="https://every.to/almanack/how-jonesdao-puts-options-trading-on-autopilot"/>
         <updated>2022-02-26T05:34:45.743Z</updated>
