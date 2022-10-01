@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Barabazs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-01T06:19:54.110Z</updated>
+    <updated>2022-10-01T17:55:47.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Fear, Courage, and Willingness (Superorganizers)]]></title>
@@ -208,18 +208,18 @@
         <content type="html"><![CDATA[Why You’re Not Getting More Out of Journaling]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing: Praxis Fellows Essays (Praxis)]]></title>
-        <id>https://every.to/praxis/paranoid-productivity-dccd9d86-6ad0-4579-8329-2b2d5e3eef10</id>
-        <link href="https://every.to/praxis/paranoid-productivity-dccd9d86-6ad0-4579-8329-2b2d5e3eef10"/>
-        <updated>2021-12-27T05:37:24.434Z</updated>
-        <content type="html"><![CDATA[Hello Praxsters!I have something special to<br data-owner="balance-text">share with you&nbsp;today: the first contributions of<br data-owner="balance-text">our&nbsp;Praxis Writing Fellows!I recruited a few of]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Paranoid Productivity (Praxis)]]></title>
         <id>https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2</id>
         <link href="https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2"/>
         <updated>2021-12-27T05:37:24.434Z</updated>
         <content type="html"><![CDATA[By Christina LuoProductivity is about managing<br data-owner="balance-text">emotions as much as projects. Yet we often focus<br data-owner="balance-text">on productivity as a toolset more than a min]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing: Praxis Fellows Essays (Praxis)]]></title>
+        <id>https://every.to/praxis/paranoid-productivity-dccd9d86-6ad0-4579-8329-2b2d5e3eef10</id>
+        <link href="https://every.to/praxis/paranoid-productivity-dccd9d86-6ad0-4579-8329-2b2d5e3eef10"/>
+        <updated>2021-12-27T05:37:24.434Z</updated>
+        <content type="html"><![CDATA[Hello Praxsters!I have something special to<br data-owner="balance-text">share with you&nbsp;today: the first contributions of<br data-owner="balance-text">our&nbsp;Praxis Writing Fellows!I recruited a few of]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Modern Swipe File (Praxis)]]></title>
@@ -236,43 +236,12 @@
         <content type="html"><![CDATA[Over the last year I filmed a short documentary<br data-owner="balance-text">on the life and artistic career of my father<br data-owner="balance-text">Wayne Forte. He has been one of the strongest]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Writing Your Book (Praxis)]]></title>
-        <id>https://every.to/praxis/writing-your-book-11294426</id>
-        <link href="https://every.to/praxis/writing-your-book-11294426"/>
-        <updated>2021-12-27T05:37:24.435Z</updated>
-        <content type="html"><![CDATA[After all this work and finally signing a deal…it’s<br data-owner="balance-text">time to do the thing you’ve been asking for,<br data-owner="balance-text">and write the book.
-Leave plenty of time to]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing: How to Land a Book Deal (Praxis)]]></title>
-        <id>https://every.to/praxis/introducing-how-to-land-a-book-deal-11295091</id>
-        <link href="https://every.to/praxis/introducing-how-to-land-a-book-deal-11295091"/>
-        <updated>2021-12-27T05:37:24.434Z</updated>
-        <content type="html"><![CDATA[A Nine-Part Series, from Concept to Launch]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Negotiating Your Contract (Praxis)]]></title>
-        <id>https://every.to/praxis/negotiating-your-contract-11294421</id>
-        <link href="https://every.to/praxis/negotiating-your-contract-11294421"/>
-        <updated>2021-12-27T05:37:24.449Z</updated>
-        <content type="html"><![CDATA[Once you’ve accepted an offer for the publishing<br data-owner="balance-text">rights to your book, it’s time to draw up and<br data-owner="balance-text">sign a binding contract.
-Many of these contra]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launching Your Book (Praxis)]]></title>
-        <id>https://every.to/praxis/launching-your-book-11294430</id>
-        <link href="https://every.to/praxis/launching-your-book-11294430"/>
-        <updated>2021-12-27T05:37:24.435Z</updated>
-        <content type="html"><![CDATA[Everything you’ve done up to this point has been<br data-owner="balance-text">preparation for this singular moment: the launch<br data-owner="balance-text">of your book.
-An incredible amount of time]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Own Your Writing Platform (Praxis)]]></title>
-        <id>https://every.to/praxis/own-your-writing-platform-11294360</id>
-        <link href="https://every.to/praxis/own-your-writing-platform-11294360"/>
-        <updated>2021-12-27T05:37:24.453Z</updated>
-        <content type="html"><![CDATA[Publishing a book is like running for political<br data-owner="balance-text">office.
-There are a lot of people out there who<br data-owner="balance-text">you want to take a certain action, at a cert]]></content>
+        <title type="html"><![CDATA[Evaluating Your Book Idea (Praxis)]]></title>
+        <id>https://every.to/praxis/evaluating-your-book-idea-11294355</id>
+        <link href="https://every.to/praxis/evaluating-your-book-idea-11294355"/>
+        <updated>2021-12-27T05:37:24.464Z</updated>
+        <content type="html"><![CDATA[In the beginning, is a message.
+You have<br data-owner="balance-text">something to say. A message that wants to get out<br data-owner="balance-text">of you. That&nbsp;needs&nbsp;to get out of you or else it w]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Complete Guide to Landing a Book Deal (Praxis)]]></title>
@@ -283,12 +252,11 @@ There are a lot of people out there who<br data-owner="balance-text">you want to
 As a first-time author, and in the]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Evaluating Your Book Idea (Praxis)]]></title>
-        <id>https://every.to/praxis/evaluating-your-book-idea-11294355</id>
-        <link href="https://every.to/praxis/evaluating-your-book-idea-11294355"/>
-        <updated>2021-12-27T05:37:24.464Z</updated>
-        <content type="html"><![CDATA[In the beginning, is a message.
-You have<br data-owner="balance-text">something to say. A message that wants to get out<br data-owner="balance-text">of you. That&nbsp;needs&nbsp;to get out of you or else it w]]></content>
+        <title type="html"><![CDATA[Introducing: How to Land a Book Deal (Praxis)]]></title>
+        <id>https://every.to/praxis/introducing-how-to-land-a-book-deal-11295091</id>
+        <link href="https://every.to/praxis/introducing-how-to-land-a-book-deal-11295091"/>
+        <updated>2021-12-27T05:37:24.434Z</updated>
+        <content type="html"><![CDATA[A Nine-Part Series, from Concept to Launch]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Crafting a Book Proposal (Praxis)]]></title>
@@ -299,12 +267,28 @@ You have<br data-owner="balance-text">something to say. A message that wants to 
 It needs to justify why your book is<br data-owner="balance-text">worth not just years of&nbsp;your&nbsp;time and effort, but]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Finding an Agent and Publisher (Praxis)]]></title>
-        <id>https://every.to/praxis/finding-an-agent-and-publisher-11294406</id>
-        <link href="https://every.to/praxis/finding-an-agent-and-publisher-11294406"/>
-        <updated>2021-12-27T05:37:24.441Z</updated>
-        <content type="html"><![CDATA[You should think of the people you’re working<br data-owner="balance-text">with at each stage of the publishing process as<br data-owner="balance-text">your publishing team.
-Each one contributes som]]></content>
+        <title type="html"><![CDATA[Writing Your Book (Praxis)]]></title>
+        <id>https://every.to/praxis/writing-your-book-11294426</id>
+        <link href="https://every.to/praxis/writing-your-book-11294426"/>
+        <updated>2021-12-27T05:37:24.435Z</updated>
+        <content type="html"><![CDATA[After all this work and finally signing a deal…it’s<br data-owner="balance-text">time to do the thing you’ve been asking for,<br data-owner="balance-text">and write the book.
+Leave plenty of time to]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launching Your Book (Praxis)]]></title>
+        <id>https://every.to/praxis/launching-your-book-11294430</id>
+        <link href="https://every.to/praxis/launching-your-book-11294430"/>
+        <updated>2021-12-27T05:37:24.435Z</updated>
+        <content type="html"><![CDATA[Everything you’ve done up to this point has been<br data-owner="balance-text">preparation for this singular moment: the launch<br data-owner="balance-text">of your book.
+An incredible amount of time]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Negotiating Your Contract (Praxis)]]></title>
+        <id>https://every.to/praxis/negotiating-your-contract-11294421</id>
+        <link href="https://every.to/praxis/negotiating-your-contract-11294421"/>
+        <updated>2021-12-27T05:37:24.449Z</updated>
+        <content type="html"><![CDATA[Once you’ve accepted an offer for the publishing<br data-owner="balance-text">rights to your book, it’s time to draw up and<br data-owner="balance-text">sign a binding contract.
+Many of these contra]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Ins and Outs of Offers (Praxis)]]></title>
@@ -313,6 +297,22 @@ Each one contributes som]]></content>
         <updated>2021-12-27T05:37:24.438Z</updated>
         <content type="html"><![CDATA[After you’ve written your proposal and sent<br data-owner="balance-text">it to publishers, the future of your book is in<br data-owner="balance-text">their hands.&nbsp;
 If you’ve done your job effectivel]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding an Agent and Publisher (Praxis)]]></title>
+        <id>https://every.to/praxis/finding-an-agent-and-publisher-11294406</id>
+        <link href="https://every.to/praxis/finding-an-agent-and-publisher-11294406"/>
+        <updated>2021-12-27T05:37:24.441Z</updated>
+        <content type="html"><![CDATA[You should think of the people you’re working<br data-owner="balance-text">with at each stage of the publishing process as<br data-owner="balance-text">your publishing team.
+Each one contributes som]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Own Your Writing Platform (Praxis)]]></title>
+        <id>https://every.to/praxis/own-your-writing-platform-11294360</id>
+        <link href="https://every.to/praxis/own-your-writing-platform-11294360"/>
+        <updated>2021-12-27T05:37:24.453Z</updated>
+        <content type="html"><![CDATA[Publishing a book is like running for political<br data-owner="balance-text">office.
+There are a lot of people out there who<br data-owner="balance-text">you want to take a certain action, at a cert]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[P.A.R.A. Part 4 — A full setup guide (Praxis)]]></title>
@@ -491,18 +491,18 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <content type="html"><![CDATA[Crypto holdings are back on the rise! ...which<br data-owner="balance-text">means it’s time to think about selling.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Best Ways to Earn Yield on Your ETH (Almanack)]]></title>
-        <id>https://every.to/almanack/the-best-ways-to-earn-yield-on-your-eth</id>
-        <link href="https://every.to/almanack/the-best-ways-to-earn-yield-on-your-eth"/>
-        <updated>2022-03-27T05:34:43.914Z</updated>
-        <content type="html"><![CDATA[Staking, farming, LPs, understanding<br data-owner="balance-text">risk, and what I'm doing]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How I’m Earning Yield on My ETH (Almanack)]]></title>
         <id>https://every.to/almanack/how-i-m-earning-yield-on-my-eth</id>
         <link href="https://every.to/almanack/how-i-m-earning-yield-on-my-eth"/>
         <updated>2022-03-27T05:34:43.912Z</updated>
         <content type="html"><![CDATA[My current ETH farming strategies as of March 2022]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Ways to Earn Yield on Your ETH (Almanack)]]></title>
+        <id>https://every.to/almanack/the-best-ways-to-earn-yield-on-your-eth</id>
+        <link href="https://every.to/almanack/the-best-ways-to-earn-yield-on-your-eth"/>
+        <updated>2022-03-27T05:34:43.914Z</updated>
+        <content type="html"><![CDATA[Staking, farming, LPs, understanding<br data-owner="balance-text">risk, and what I'm doing]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[From PFPs to VIDs (Almanack)]]></title>
@@ -806,18 +806,18 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <content type="html"><![CDATA[Scale, speed, or freedom: choose two]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering the MarketCycle, by Howard Marks (Divinations)]]></title>
-        <id>https://every.to/divinations/mastering-the-market-cycle-by-howard-marks</id>
-        <link href="https://every.to/divinations/mastering-the-market-cycle-by-howard-marks"/>
-        <updated>2022-05-20T17:48:09.429Z</updated>
-        <content type="html"><![CDATA[My chapter-by-chapter summary, with notes and reactions]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Time The Market (Or Not) (Divinations)]]></title>
         <id>https://every.to/divinations/how-to-time-the-market-or-not</id>
         <link href="https://every.to/divinations/how-to-time-the-market-or-not"/>
         <updated>2022-05-20T17:48:09.428Z</updated>
         <content type="html"><![CDATA[A Book Review of “Mastering the Market Cycle”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering the MarketCycle, by Howard Marks (Divinations)]]></title>
+        <id>https://every.to/divinations/mastering-the-market-cycle-by-howard-marks</id>
+        <link href="https://every.to/divinations/mastering-the-market-cycle-by-howard-marks"/>
+        <updated>2022-05-20T17:48:09.429Z</updated>
+        <content type="html"><![CDATA[My chapter-by-chapter summary, with notes and reactions]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why Sh*t is Hitting the Fan (Divinations)]]></title>
@@ -1824,525 +1824,525 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.268Z</updated>
+        <updated>2022-10-01T17:49:32.011Z</updated>
         <content type="html"><![CDATA[<a href="/post/books" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/6106bdaf37075c1af0674166_books.jpg&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">8 Books That Will Teach You All You Need to Know About Writing</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.270Z</updated>
+        <updated>2022-10-01T17:49:32.014Z</updated>
         <content type="html"><![CDATA[<a href="/post/ferriss" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/6100677debb1cadb31fec139_6100672f824aaa643dfa00a3_20170105192134-tim-ferriss-chair.jpeg&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">8 Episodes of the Tim Ferriss Show Every Writer Should Listen To</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.271Z</updated>
+        <updated>2022-10-01T17:49:32.015Z</updated>
         <content type="html"><![CDATA[<a href="/post/focus" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/6106be5820c89f404e87116f_focus.jpg&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Sacred Hours: How to Make Time for Work That Matters</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.274Z</updated>
+        <updated>2022-10-01T17:49:32.018Z</updated>
         <content type="html"><![CDATA[<a href="/post/10-writing-tips-from-the-worlds-best-marketer-david-ogilvy" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/60b7f102c083f30372a1ea05_david.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">10 Writing Tips From the World's Best Marketer</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.275Z</updated>
+        <updated>2022-10-01T17:49:32.019Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-to-write-an-atomic-essay-a-beginners-guide" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/612e44e3089dc958efdfbce3_stanley-dai-73OZYNjVoNI-unsplash.jpg&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How to Write An Atomic Essay: A Beginner's Guide</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.276Z</updated>
+        <updated>2022-10-01T17:49:32.021Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-to-start-writing-online-the-ship-30-for-30-ultimate-guide" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61ec4f6b4501446601dcfe0c_HTSWO%20banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How To Start Writing Online: The Ship 30 for 30 Ultimate Guide</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.277Z</updated>
+        <updated>2022-10-01T17:49:32.027Z</updated>
         <content type="html"><![CDATA[<a href="/post/these-6-shipper-success-stories-will-blow-you-away" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61cd00718cdf72cbf44f6e56_Success%20Stories%20Banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">These 6 Shipper Success Stories Will Blow You Away</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.278Z</updated>
+        <updated>2022-10-01T17:49:32.029Z</updated>
         <content type="html"><![CDATA[<a href="/post/the-ultimate-guide-to-repurposing-twitter-content-on-linkedin" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/626868837c9c4c4338138869_linkedi.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">The Ultimate Guide To Repurposing Twitter Content On LinkedIn</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.278Z</updated>
+        <updated>2022-10-01T17:49:32.030Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-to-write-viral-twitter-thread-hooks-with-6-clear-examples" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/62687032c162d5f4b3f2819f_twitter-threads.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How To Write Viral Twitter Thread Hooks (With 6 Clear Examples)</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.279Z</updated>
+        <updated>2022-10-01T17:49:32.032Z</updated>
         <content type="html"><![CDATA[<a href="/post/flawless-formatting-a-step-by-step-guide-to-make-anything-you-write-easy-to-read-and-skimmable" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/6269b84aed2f0831a1dda478_flawless%20formatting.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Flawless Formatting: A Step-By-Step Guide To Make Anything You Write Easy To Read (And Skimmable)</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.280Z</updated>
+        <updated>2022-10-01T17:49:32.034Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-to-craft-the-perfect-twitter-bio-with-5-compelling-credible-examples" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/6269bdc81ce9cf4060c25f75_perfect%20bio.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How To Craft The Perfect Twitter Bio (With 5 Compelling, Credible Examples)</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.281Z</updated>
+        <updated>2022-10-01T17:49:32.036Z</updated>
         <content type="html"><![CDATA[<a href="/post/9-dead-simple-steps-to-build-a-daily-writing-habit" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/626ff2fad90b783381631de2_9%20dead%20simple%20steps.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">9 Dead-Simple Steps To Build A Daily Writing Habit</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.282Z</updated>
+        <updated>2022-10-01T17:49:32.036Z</updated>
         <content type="html"><![CDATA[<a href="/post/the-ultimate-guide-to-using-twitter-as-a-creator" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/62c2f4be2dca57b2b17d7679_4016bd2c-296e-4beb-8c50-01465846af37.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">The Ultimate Guide To Using Twitter As A Creator</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.283Z</updated>
+        <updated>2022-10-01T17:49:32.037Z</updated>
         <content type="html"><![CDATA[<a href="/post/10-000-000-worth-of-sales-copy-advice-in-7-phrases" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/62e6b33f4512d6822cd7ed22_ac06f39d.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">$10,000,000 Worth Of Sales Copy Advice (In 7 Phrases)</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.284Z</updated>
+        <updated>2022-10-01T17:49:32.038Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-ship-30-for-30-solved-my-writing-problem-and-helped-me-become-a-successful-online-writer" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61ca28ba2a758029ee29eb22_mike%20banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How Ship 30 for 30 Solved My Writing Problem and Helped Me Become a Successful Online Writer</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.285Z</updated>
+        <updated>2022-10-01T17:49:32.039Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-ship-30-helped-me-become-extremely-prolific-launch-my-first-digital-products-and-make-my-first-1-online" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61cb853e50b8fe4ec2bbd59f_ev%20banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How Ship 30 Helped Me Become Extremely Prolific, Launch My First Digital Products and Make My First $1 Online</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.288Z</updated>
+        <updated>2022-10-01T17:49:32.040Z</updated>
         <content type="html"><![CDATA[<a href="/post/7-dead-simple-reasons-to-join-ship-30-for-30-a-lurkers-honest-thoughts" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61ca319a702a54ce99f95281_brian%20banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">7 Dead-Simple Reasons To Join Ship 30 For 30 (A Lurker’s Honest Thoughts)</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.289Z</updated>
+        <updated>2022-10-01T17:49:32.040Z</updated>
         <content type="html"><![CDATA[<a href="/post/i-felt-stuck-as-a-nurse-heres-how-ship-30-for-30-helped-me-carve-a-new-online-career-path" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61e4617b11644559228e65b7_jerine.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">I Felt Stuck as a Nurse. Here’s How Ship 30 for 30 Helped Me Carve a New Online Career Path</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.292Z</updated>
+        <updated>2022-10-01T17:49:32.045Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-to-monetize-quora" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/610d669c6d20df084d209af2_quora.jpg&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Quora Monetization 101: Answers, Paywalls, and Subscriptions</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.292Z</updated>
+        <updated>2022-10-01T17:49:32.045Z</updated>
         <content type="html"><![CDATA[<a href="/post/prep-the-page-1-simple-exercise-to-defeat-writers-block-forever" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/615c75911ba50a4d2c5e73da_prep.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Prep The Page: 1 Simple Exercise To Defeat Writer’s Block Forever</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.293Z</updated>
+        <updated>2022-10-01T17:49:32.046Z</updated>
         <content type="html"><![CDATA[<a href="/post/5-ways-writing-online-will-change-your-life" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/613f8478ddc6df389ce761ce_1%207tDpQXGGAUXXcxJjc1oFmQ.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">5 Ways Writing Online Will Change Your Life</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.293Z</updated>
+        <updated>2022-10-01T17:49:32.047Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-to-become-a-prolific-writer" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/613f83868a14d918aeae654f_eig.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How To Become A Prolific Writer</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.294Z</updated>
+        <updated>2022-10-01T17:49:32.048Z</updated>
         <content type="html"><![CDATA[<a href="/post/7-common-seo-misconceptions-keeping-you-from-getting-thousands-of-views-every-day" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/616df23c3f886e851e3beeec_nathana-reboucas-O5v8heKY4cI-unsplash.jpg&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin"> 7 Common SEO Misconceptions Keeping You From Getting Thousands of Views Every Day</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.294Z</updated>
+        <updated>2022-10-01T17:49:32.049Z</updated>
         <content type="html"><![CDATA[<a href="/post/what-is-social-blogging-the-future-of-online-writing" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/613f81065fb6a43775d2941e_0%20qguBz-XrlgZLha4E.jpg&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">What Is Social Blogging? The Future Of Online Writing</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.295Z</updated>
+        <updated>2022-10-01T17:49:32.050Z</updated>
         <content type="html"><![CDATA[<a href="/post/20-quotes-from-the-art-and-business-of-online-writing-by-nicolas-cole" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/612e48bbc2b4c16c84d8f160_1%208JUGFWXIGCT_2Uppa5vlYQ.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">20 Quotes From The Art And Business Of Online Writing By Nicolas Cole</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.295Z</updated>
+        <updated>2022-10-01T17:49:32.051Z</updated>
         <content type="html"><![CDATA[<a href="/post/writers-reflection-tool-how-to-find-out-what-your-audience-is-interested-in-reading" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61781ea4c477395cb910f909_parker-byrd-gxD8hCmi0IQ-unsplash.jpg&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Writer’s Reflection Tool: How To Find Out What Your Audience Is Interested In Reading</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.296Z</updated>
+        <updated>2022-10-01T17:49:32.052Z</updated>
         <content type="html"><![CDATA[<a href="/post/the-ultimate-online-writing-republishing-framework" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/613f74532e79454a7f46f01d_1%20MeIcorcEAHh8KLnU_U0zCw.jpeg&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">The Ultimate Online Writing Republishing Framework</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.296Z</updated>
+        <updated>2022-10-01T17:49:32.053Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-to-unbundle-reddit-as-a-digital-writer" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/6152551c0d194d32ac6a0e95_file.jpg&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How to Unbundle Reddit As a Digital Writer</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.297Z</updated>
+        <updated>2022-10-01T17:49:32.054Z</updated>
         <content type="html"><![CDATA[<a href="/post/ghostwriting-101-5-proven-templates-to-help-you-write-for-business-leaders" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/60bfccc5b51190cccff2389e_Screen%20Shot%202021-06-08%20at%201.02.09%20PM.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Ghostwriting 101: 5 Proven Templates To Help You Write For Business Leaders</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.298Z</updated>
+        <updated>2022-10-01T17:49:32.056Z</updated>
         <content type="html"><![CDATA[<a href="/post/online-writing-frameworks" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/611c2d97bf22520efaffa06c_burst-kUqqaRjJuw0-unsplash.jpg&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">3 Frameworks That Will Change Your Online Writing Trajectory</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.298Z</updated>
+        <updated>2022-10-01T17:49:32.056Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-to-build-an-audience" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61212d449515986dc5467075_davide-ragusa-gcDwzUGuUoI-unsplash.jpg&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Audience Building 101: The 3 Types of Audiences (And How to Grow Them From Scratch)</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.299Z</updated>
+        <updated>2022-10-01T17:49:32.059Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-to-find-the-right-balance-between-audience-reach-and-audience-density" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/6126de5c8b9e208ec7d731c6_tyler-callahan-e_RpjNyMgEM-unsplash.jpg&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How to Find The Right Balance Between Audience Reach And Audience Density</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.300Z</updated>
+        <updated>2022-10-01T17:49:32.061Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-to-write-viral-content" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/6123dbd11d77d21d3ff5c5c2_isaac-smith-AT77Q0Njnt0-unsplash.jpg&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Viral Writing 101: The Little-Known Secret to Rapid Audience Growth</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.300Z</updated>
+        <updated>2022-10-01T17:49:32.065Z</updated>
         <content type="html"><![CDATA[<a href="/post/build-a-daily-writing-habit" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/60fedf22a428d0be9475691b_photo-1499750310107-5fef28a66643.jpg&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">The Easiest Way To Build A Daily Writing&nbsp;Habit</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.301Z</updated>
+        <updated>2022-10-01T17:49:32.065Z</updated>
         <content type="html"><![CDATA[<a href="/post/all-beginner-writers-face-the-same-10-problems-heres-how-fix-them" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/613f83097e542deba43645a4_1%209I9XpMYOOY-SgUXtobSy8A.jpeg&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">All Beginner Writers Face The Same 10 Problems (Here’s How To Fix Them)</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.301Z</updated>
+        <updated>2022-10-01T17:49:32.070Z</updated>
         <content type="html"><![CDATA[<a href="/post/headline-mastery-examples-25-templates-anyone-can-use" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61538c51e62c1eecac5ff3b9_How%20To%20Start%20Writing%20Online(1).png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Headline Mastery Examples: 25 Templates Anyone Can Use</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.311Z</updated>
+        <updated>2022-10-01T17:49:32.082Z</updated>
         <content type="html"><![CDATA[<a href="/post/5-clear-steps-to-turn-1-breakout-data-point-into-dozens-of-proven-content-ideas" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/62b8cb250c4d681fe3cd460c_viral-5-easy-steps.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">5 Clear Steps To Turn 1 Breakout Data Point Into Dozens Of Proven Content Ideas</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.313Z</updated>
+        <updated>2022-10-01T17:49:32.087Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-to-generate-112-new-content-ideas-in-30-minutes" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/62685d986449abbfb61a915c_112%20content%20ideas.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How To Generate 112 New Content Ideas In 30 Minutes</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.313Z</updated>
+        <updated>2022-10-01T17:49:32.089Z</updated>
         <content type="html"><![CDATA[<a href="/post/clear-vs-clever-a-quick-guide-to-avoid-the-1-mistake-in-writing" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/62741ac2137cf624d04ab552_DWC%20Blog%20Post%20Banner%20Template.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Clear vs Clever: A Quick Guide To Avoid The #1 Mistake In Writing</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.314Z</updated>
+        <updated>2022-10-01T17:49:32.097Z</updated>
         <content type="html"><![CDATA[<a href="/post/the-lean-writing-method-how-to-expand-short-form-content-into-longer-form-assets" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/627ac6ac01bff3da04212f91_lean-writing.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">The Lean Writing Method: How To Expand Short-Form Content Into Longer-Form Assets</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.314Z</updated>
+        <updated>2022-10-01T17:49:32.101Z</updated>
         <content type="html"><![CDATA[<a href="/post/a-quick-guide-to-starting-a-newsletter" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/6282622bc5331250834dfb96_quick-guide-newsletter.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">A Quick Guide To Starting A Newsletter And Getting Your First 1,000 Subscribers (In 3 Simple Steps)</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.315Z</updated>
+        <updated>2022-10-01T17:49:32.103Z</updated>
         <content type="html"><![CDATA[<a href="/post/3-resources-to-help-you-make-10x-more-money-as-a-ghostwriter" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/6283bf80bc435cc0aa4156c3_ghostwriter-thumbnail.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">3 Resources To Help You Make 10x More Money As A Ghostwriter</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.316Z</updated>
+        <updated>2022-10-01T17:49:32.106Z</updated>
         <content type="html"><![CDATA[<a href="/post/7-copywriting-mistakes-hurting-your-course-sales-these-might-cost-you-6-figures" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/6283c4b4504edd0514653803_copywriting-thumbnail.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">7 Copywriting Mistakes Hurting Your Course Sales (These Might Cost You 6 Figures!)</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.316Z</updated>
+        <updated>2022-10-01T17:49:32.107Z</updated>
         <content type="html"><![CDATA[<a href="/post/our-content-strategy-to-grow-our-email-list-to-100k" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/629e446ff737e4930e1e3fb6_content-strategt.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Our Content Strategy To Grow Our Email List To 100k</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.317Z</updated>
+        <updated>2022-10-01T17:49:32.124Z</updated>
         <content type="html"><![CDATA[<a href="/post/the-2-year-test-a-framework-for-endless-content-ideas" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/62a75e15c24017282e8c14cb_DWC%20Blog%20Post%20Banner%20Template.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">The 2-Year Test: A Framework For Endless Content Ideas</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.317Z</updated>
+        <updated>2022-10-01T17:49:32.127Z</updated>
         <content type="html"><![CDATA[<a href="/post/the-relative-pricing-pyramid-how-to-charge-more-for-your-products-services-as-a-writer" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/62af4365d831076c50dc45f0_relative-pyramid.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">The Relative Pricing Pyramid: How To Charge More For Your Products &amp; Services As A Writer</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.318Z</updated>
+        <updated>2022-10-01T17:49:32.131Z</updated>
         <content type="html"><![CDATA[<a href="/post/6-tips-to-write-viral-twitter-threads-with-ease" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/62b8ce7e305c1539e59d55f5_6-tips-viral.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">6 Tips To Write Viral Twitter Threads With Ease</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.318Z</updated>
+        <updated>2022-10-01T17:49:32.131Z</updated>
         <content type="html"><![CDATA[<a href="/post/what-is-digital-writing-7-rules-to-live-by" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/62b99e1c3a5e583b54d29fb7_d7d85d64-eb16-4df6-8fdc-a4481caeac59.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">What Is Digital Writing: 7 Rules To Live By</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.319Z</updated>
+        <updated>2022-10-01T17:49:32.131Z</updated>
         <content type="html"><![CDATA[<a href="/post/expanding-short-form-into-long-form-content-5-easy-steps" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/62cb208965c52955aedfe11a_1130ceff-a508-480f-89eb-e74f2978c050.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Expanding Short-Form Into Long-Form Content: 5 Easy Steps</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.327Z</updated>
+        <updated>2022-10-01T17:49:32.132Z</updated>
         <content type="html"><![CDATA[<a href="/post/lean-writing-on-twitter-how-to-turn-a-tweet-into-a-thread-into-an-atomic-essay" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/62d471415d3ddb1dcb9527a0_98314b88.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Lean Writing On Twitter: How To Turn A Tweet Into A Thread Into An Atomic Essay </h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.327Z</updated>
+        <updated>2022-10-01T17:49:32.132Z</updated>
         <content type="html"><![CDATA[<a href="/post/the-ultimate-guide-to-starting-a-newsletter" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/62deb36b3ec61023b84a647a_c5837f91.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">The Ultimate Guide To Starting A Newsletter</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.328Z</updated>
+        <updated>2022-10-01T17:49:32.132Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-to-write-a-60-000-word-book-in-30-days" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/62f0fc15eafac56003432e51_1581673d-44fa-4d8f-a7dc-0cb5a7888022.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How To Write A 60,000 Word Book In 30 Days</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.328Z</updated>
+        <updated>2022-10-01T17:49:32.132Z</updated>
         <content type="html"><![CDATA[<a href="/post/7-ways-building-a-daily-writing-habit-improves-all-areas-of-your-life" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/62f99024749dae781081dd09_f071cb16-f445-4065-9ba3-eda12ce4c0af.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">7 Ways Building A Daily Writing Habit Improves All Areas Of Your Life </h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.332Z</updated>
+        <updated>2022-10-01T17:49:32.133Z</updated>
         <content type="html"><![CDATA[<a href="/post/5-unconventional-ways-to-monetize-your-writing" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/6303a05d0506dea629c6d793_c27b2e9d-5b72-4e13-a30f-16cb7ada4f24.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">5 Unconventional Ways To Monetize Your Writing</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.335Z</updated>
+        <updated>2022-10-01T17:49:32.133Z</updated>
         <content type="html"><![CDATA[<a href="/post/the-dead-simple-path-to-go-from-0-to-7-figure-writer" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/630bab18741fe7403f415566_yZXtkYzYqQ629wCIk5m7ihHMSuFm8bkgnbBbvRHrVQQ.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">The Dead-Simple Path To Go From $0 To 7-Figure Writer</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.341Z</updated>
+        <updated>2022-10-01T17:49:32.133Z</updated>
         <content type="html"><![CDATA[<a href="/post/stuck-earning-100-000-per-year-as-a-digital-writer-read-this" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/6315118fcf6f3b4a6245eb23_c57124db.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Stuck Earning $100,000 Per Year As A Digital Writer? Read This</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.341Z</updated>
+        <updated>2022-10-01T17:49:32.138Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-to-write-headlines-readers-cant-help-but-click" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/631f0d32984ed31e108da915_KL2lP6tr3wanTwQpHGOktPG0vrDWzYlT6ALW9CwTUuM.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How To Write Headlines Readers Can’t Help But Click</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.342Z</updated>
+        <updated>2022-10-01T17:49:32.140Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-to-start-writing-on-medium" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/63270aef3009593f54344a55_02d681bf.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How To Start Writing On Medium</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.342Z</updated>
+        <updated>2022-10-01T17:49:32.143Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-to-start-writing-on-substack" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/632f0666784cf91bb96033cc_8f9e5840.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How To Start Writing On Substack</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.345Z</updated>
+        <updated>2022-10-01T17:49:32.145Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-ship-30-helped-me-become-a-better-freelance-writer" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61f067a2e77f306ee3ee2976_alice%20banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How Ship 30 Helped Me Become a Better Freelance Writer</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.347Z</updated>
+        <updated>2022-10-01T17:49:32.148Z</updated>
         <content type="html"><![CDATA[<a href="/post/the-one-thing-ship-30-for-30-did-to-improve-my-digital-writing" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61ca240dbece6110fa87cea8_Joe%20banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">The One Thing Ship 30 for 30 Did To Improve My Digital Writing</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.349Z</updated>
+        <updated>2022-10-01T17:49:32.150Z</updated>
         <content type="html"><![CDATA[<a href="/post/what-makes-ship-30-for-30-more-than-just-a-writing-class" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61ca2ac2d1ade5ac1bcda4fa_karl%20banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">What Makes Ship 30 for 30 More Than Just a Writing Class?</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.351Z</updated>
+        <updated>2022-10-01T17:49:32.152Z</updated>
         <content type="html"><![CDATA[<a href="/post/5-reminders-you-learn-again-from-ship-30-for-30-so-you-stop-muting-your-words" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61ca3481d29fb3d162114a30_kari%20banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">5 Reminders You Learn Again from Ship 30 for 30 So You Stop Muting Your Words</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.352Z</updated>
+        <updated>2022-10-01T17:49:32.154Z</updated>
         <content type="html"><![CDATA[<a href="/post/creativity-in-a-shipping-container-what-i-learned-about-digital-writing-and-myself-after-publishing-30-atomic-essays-in-30-days" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61ca3695f16cb02328aa2198_jessica%20banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Creativity in a Shipping Container: What I Learned About Digital Writing and Myself After Publishing 30 Atomic Essays in 30 Days</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.354Z</updated>
+        <updated>2022-10-01T17:49:32.156Z</updated>
         <content type="html"><![CDATA[<a href="/post/writing-is-my-superpower-how-building-a-daily-writing-habit-led-to-finding-my-purpose-and-a-6-figure-raise" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61ca39aa6637242d77faaa2b_andrew%20banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Writing Is My Superpower: How Building a Daily Writing Habit Led to Finding My Purpose (And a 6-Figure Raise)</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.356Z</updated>
+        <updated>2022-10-01T17:49:32.160Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-ship-30-helped-me-find-a-community-stop-lurking-and-share-my-unique-message-with-the-world" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61ca3cb34909b2bbc7466530_Craig%20banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How Ship 30 Helped Me Find a Community, Stop Lurking and Share My Unique Message With the World</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.359Z</updated>
+        <updated>2022-10-01T17:49:32.161Z</updated>
         <content type="html"><![CDATA[<a href="/post/ship-30-for-30-changed-my-life-heres-how-it-could-change-yours-too" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61ca415b59b75b460ef750b1_sam%20demers%20banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Ship 30 for 30 Changed My Life. Here's How It Could Change Yours Too</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.363Z</updated>
+        <updated>2022-10-01T17:49:32.163Z</updated>
         <content type="html"><![CDATA[<a href="/post/ship-30-made-me-a-writer" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61cb876df5c62e7376e2a268_jesse%20banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Ship 30 Made Me A Writer</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.368Z</updated>
+        <updated>2022-10-01T17:49:32.165Z</updated>
         <content type="html"><![CDATA[<a href="/post/i-made-over-60k-because-of-ship-30-for-30" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61e4545ccc6a4d2bc48da116_michael%20greenberg.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">I Made Over $60,000 Because Of Ship 30 For 30</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.369Z</updated>
+        <updated>2022-10-01T17:49:32.167Z</updated>
         <content type="html"><![CDATA[<a href="/post/setting-sales-with-ship-30-for-30" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61e45e2652417c50261d1ca3_danny%20reeves.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Setting Sales with Ship 30 for 30</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.370Z</updated>
+        <updated>2022-10-01T17:49:32.169Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-ship-30-helped-me-get-my-writing-habit-back" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61e4636bf012c238f9c2c7b8_kristin.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How Ship 30 Helped Me Get My Writing Habit Back</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.371Z</updated>
+        <updated>2022-10-01T17:49:32.171Z</updated>
         <content type="html"><![CDATA[<a href="/post/how-ship-30-helped-me-clarify-my-thinking-find-an-audience-and-find-my-niche" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61e4658ecd79d757ac69ed53_tobi.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">How Ship 30 Helped Me Clarify My Thinking, Find an Audience and Find My Niche</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.374Z</updated>
+        <updated>2022-10-01T17:49:32.173Z</updated>
         <content type="html"><![CDATA[<a href="/post/ship-30-for-30-the-ultimate-podcast-listenership-growth-hack" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/61e46791d0f01bdfd07b96ba_espree.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Ship 30 for 30: The Ultimate Podcast Listenership Growth Hack</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.376Z</updated>
+        <updated>2022-10-01T17:49:32.177Z</updated>
         <content type="html"><![CDATA[<a href="/post/3-ways-ship-30-for-30-changed-my-mindset-about-writing-online" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/621a7f1f88e2b135bb7d462f_Michelle-Young-Banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">3 Ways Ship 30 for 30 Changed My Mindset About Writing Online</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Ship 30 for 30)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:15:40.378Z</updated>
+        <updated>2022-10-01T17:49:32.180Z</updated>
         <content type="html"><![CDATA[<a href="/post/why-ship-30-is-the-best-writing-course-online" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/621a843fbe8a989d07c9baf1_Radrad-Banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Why Ship 30 For 30 Is The Best Writing Course On The Internet Today</h3><div class="text-block-2">Read More →</div></a>]]></content>
     </entry>
     <entry>
@@ -6687,84 +6687,84 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:17:45.976Z</updated>
+        <updated>2022-10-01T17:51:39.953Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title featured"><a href="/ripmevbot/"> <!-- -->RIP MEV BOT</a></h5><hr><span class="post-meta"><time>Wednesday, September 28, 2022</time><p><span><a href="/?tag=MEV">MEV</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Zero pity. The notorious MEV bot known as 0xbad has fallen on hard times, just like the rest of us. After 75 days of exploiting value from unexpecting users, this mempool menace backfired on its owner, creating a beautiful display of on-chain karma.</p><p class="post-excerpt-more"><a href="/ripmevbot/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:17:45.977Z</updated>
+        <updated>2022-10-01T17:51:39.955Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/wintermute-rekt-2/"> <!-- -->Wintermute - REKT 2</a></h5><hr><span class="post-meta"><time>Tuesday, September 20, 2022</time><p><span><a href="/?tag=Wintermute">Wintermute</a></span><span> - <a href="/?tag=Profanity">Profanity</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Wintermute have lost over $160M to their second incident this summer. Using a vanity address for "gas savings" has cost them dearly. Last time, funds were returned, will Wintermute get lucky again?</p><p class="post-excerpt-more"><a href="/wintermute-rekt-2/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:17:45.984Z</updated>
+        <updated>2022-10-01T17:51:39.955Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/window-of-opportunity/"> <!-- -->Window of Opportunity</a></h5><hr><span class="post-meta"><time>Thursday, September 8, 2022</time><p><span><a href="/?tag=Regulation">Regulation</a></span><span> - <a href="/?tag=Sanctions">Sanctions</a></span><span> - <a href="/?tag=Maker+DAO">Maker DAO</a></span></p></span><hr></header><section class="post-excerpt"><p>Maker DAO is going through a governance crisis. The US crypto crackdown combined with the falling markets has placed pressure on the protocol to define their purpose. Will Maker strive to preserve the crypto ideals and reject the legacy system? Or embrace growth, whatever the cost?</p><p class="post-excerpt-more"><a href="/window-of-opportunity/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:17:45.991Z</updated>
+        <updated>2022-10-01T17:51:39.956Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/compound-errors/"> <!-- -->Compound Errors</a></h5><hr><span class="post-meta"><time>Wednesday, August 31, 2022</time><p><span><a href="/?tag=Compound">Compound</a></span><span> - <a href="/?tag=Governance">Governance</a></span></p></span><hr></header><section class="post-excerpt"><p>Compound’s governance has backfired, and not for the first time. An oracle update has bricked the cEther market for a week. Compound say that “Funds are not immediately at risk, but this is a developing situation…”</p><p class="post-excerpt-more"><a href="/compound-errors/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:17:45.991Z</updated>
+        <updated>2022-10-01T17:51:39.957Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/winds-of-change/"> <!-- -->Winds of Change</a></h5><hr><span class="post-meta"><time>Friday, August 26, 2022</time><p><span><a href="/?tag=Tornado+Cash">Tornado Cash</a></span><span> - <a href="/?tag=Sanctions">Sanctions</a></span><span> - <a href="/?tag=Regulation">Regulation</a></span></p></span><hr></header><section class="post-excerpt"><p>It’s been a stormy summer for DeFi. The sanctioning of Tornado Cash has forced us to face certain questions about Ethereum’s future. Will the censorship-resistant, permissionless dream survive, or is OFAC’s influence an existential threat?</p><p class="post-excerpt-more"><a href="/winds-of-change/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:17:45.991Z</updated>
+        <updated>2022-10-01T17:51:39.960Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/acala-network-rekt/"> <!-- -->Acala Network - REKT</a></h5><hr><span class="post-meta"><time>Monday, August 15, 2022</time><p><span><a href="/?tag=Acala+Network">Acala Network</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>The billion that wasn't. Tornado sanctions didn’t deter these Polkadot thieves, who tried to steal ~$1.3B in aUSD from Acala Network.</p><p class="post-excerpt-more"><a href="/acala-network-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:17:45.992Z</updated>
+        <updated>2022-10-01T17:51:39.963Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/curve-finance-rekt/"> <!-- -->Curve Finance - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, August 10, 2022</time><p><span><a href="/?tag=Curve+Finance">Curve Finance</a></span><span> - <a href="/?tag=DNS+hijack">DNS hijack</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Curve fell victim to a DNS hijacking yesterday, with approximately $575k lost to malicious contract approvals. For users, DeFi protocols are only as secure as their centrally-hosted front end. How much longer will web3 rely on web2?</p><p class="post-excerpt-more"><a href="/curve-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:17:45.993Z</updated>
+        <updated>2022-10-01T17:51:39.964Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/eye-of-the-storm/"> <!-- -->The Eye of the Storm</a></h5><hr><span class="post-meta"><time>Tuesday, August 9, 2022</time><p><span><a href="/?tag=Tornado+Cash">Tornado Cash</a></span><span> - <a href="/?tag=Privacy">Privacy</a></span><span> - <a href="/?tag=Sanctions">Sanctions</a></span></p></span><hr></header><section class="post-excerpt"><p>If you have nothing to hide, you have nothing to fear. Tornado Cash has been living on borrowed time, and now the crackdown has begun. Choose privacy while it’s still an option. It’s time to go dark...</p><p class="post-excerpt-more"><a href="/eye-of-the-storm/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:17:45.994Z</updated>
+        <updated>2022-10-01T17:51:39.966Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/unsolved-mystery/"> <!-- -->An Un-SOL-ved Mystery</a></h5><hr><span class="post-meta"><time>Wednesday, August 3, 2022</time><p><span><a href="/?tag=Solana">Solana</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Approximately 8,000 addresses on the Solana network have been compromised, draining a total of ~$5.3M. Fear leads to rumours, and separating the signal from the noise is no easy task.</p><p class="post-excerpt-more"><a href="/unsolved-mystery/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:17:45.996Z</updated>
+        <updated>2022-10-01T17:51:39.969Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/nomad-rekt/"> <!-- -->Nomad Bridge - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, August 2, 2022</time><p><span><a href="/?tag=Nomad+Bridge">Nomad Bridge</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Nomad Bridge has been torn apart, with $190M drained in a savage attack. This is the 100th incident to make it onto the leaderboard, but DeFi still has plenty of easy prey, and scavengers continue to circle overhead.</p><p class="post-excerpt-more"><a href="/nomad-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:17:45.997Z</updated>
+        <updated>2022-10-01T17:51:39.973Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/nirvana-rekt/"> <!-- -->Nirvana Finance - REKT</a></h5><hr><span class="post-meta"><time>Friday, July 29, 2022</time><p><span><a href="/?tag=Nirvana+Finance">Nirvana Finance</a></span><span> - <a href="/?tag=Solana">Solana</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Nirvana Finance lost $3.5M yesterday to a flash loan attack. It seems Solana’s relevance is waning, but will Nirvana get a chance at reincarnation?</p><p class="post-excerpt-more"><a href="/nirvana-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Rekt.news)]]></title>
         <id>https://Barabazs.github.io/feeds/all.xml</id>
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
-        <updated>2022-10-01T06:17:45.998Z</updated>
+        <updated>2022-10-01T17:51:39.975Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/audius-rekt/"> <!-- -->Audius - REKT</a></h5><hr><span class="post-meta"><time>Monday, July 25, 2022</time><p><span><a href="/?tag=Audius">Audius</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Audius has fallen victim to a governance attack, losing $6M of its native token, AUDIO. Let’s hope their debut is a one-hit wonder.</p><p class="post-excerpt-more"><a href="/audius-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
