@@ -1,92 +1,610 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://rekt.news/</id>
-    <title>Rekt.news</title>
-    <updated>2022-10-04T18:08:03.828Z</updated>
+    <id>https://soliditydeveloper.com/blog</id>
+    <title>Solidity Developer</title>
+    <updated>2022-10-05T06:17:20.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://raw.githubusercontent.com/RektHQ/Assets/main/images/favicon.png</icon>
+    <icon>https://soliditydeveloper.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[0]]></title>
-        <id>https://rekt.news/</id>
-        <link href="https://rekt.news/"/>
-        <updated>2022-10-01T17:51:39.953Z</updated>
-        <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title featured"><a href="/ripmevbot/"> <!-- -->RIP MEV BOT</a></h5><hr><span class="post-meta"><time>Wednesday, September 28, 2022</time><p><span><a href="/?tag=MEV">MEV</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Zero pity. The notorious MEV bot known as 0xbad has fallen on hard times, just like the rest of us. After 75 days of exploiting value from unexpecting users, this mempool menace backfired on its owner, creating a beautiful display of on-chain karma.</p><p class="post-excerpt-more"><a href="/ripmevbot/">MORE</a></p></section>]]></content>
+        <title type="html"><![CDATA[How Ethereum scales with Arbitrum Nitro and how to use it]]></title>
+        <id>https://soliditydeveloper.com/arbitrum-nitro</id>
+        <link href="https://soliditydeveloper.com/arbitrum-nitro"/>
+        <updated>2022-10-05T06:17:11.884Z</updated>
+        <content type="html"><![CDATA[A blockchain on a blockchain deep dive]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1]]></title>
-        <id>https://rekt.news/</id>
-        <link href="https://rekt.news/"/>
-        <updated>2022-10-01T17:51:39.955Z</updated>
-        <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/wintermute-rekt-2/"> <!-- -->Wintermute - REKT 2</a></h5><hr><span class="post-meta"><time>Tuesday, September 20, 2022</time><p><span><a href="/?tag=Wintermute">Wintermute</a></span><span> - <a href="/?tag=Profanity">Profanity</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Wintermute have lost over $160M to their second incident this summer. Using a vanity address for "gas savings" has cost them dearly. Last time, funds were returned, will Wintermute get lucky again?</p><p class="post-excerpt-more"><a href="/wintermute-rekt-2/">MORE</a></p></section>]]></content>
+        <title type="html"><![CDATA[The Ultimate Merkle Tree Guide in Solidity]]></title>
+        <id>https://soliditydeveloper.com/merkle-tree</id>
+        <link href="https://soliditydeveloper.com/merkle-tree"/>
+        <updated>2022-10-05T06:17:11.888Z</updated>
+        <content type="html"><![CDATA[Everything you need to know about Merkle trees and their future]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2]]></title>
-        <id>https://rekt.news/</id>
-        <link href="https://rekt.news/"/>
-        <updated>2022-10-01T17:51:39.955Z</updated>
-        <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/window-of-opportunity/"> <!-- -->Window of Opportunity</a></h5><hr><span class="post-meta"><time>Thursday, September 8, 2022</time><p><span><a href="/?tag=Regulation">Regulation</a></span><span> - <a href="/?tag=Sanctions">Sanctions</a></span><span> - <a href="/?tag=Maker+DAO">Maker DAO</a></span></p></span><hr></header><section class="post-excerpt"><p>Maker DAO is going through a governance crisis. The US crypto crackdown combined with the falling markets has placed pressure on the protocol to define their purpose. Will Maker strive to preserve the crypto ideals and reject the legacy system? Or embrace growth, whatever the cost?</p><p class="post-excerpt-more"><a href="/window-of-opportunity/">MORE</a></p></section>]]></content>
+        <title type="html"><![CDATA[The New Decentralized The Graph Network]]></title>
+        <id>https://soliditydeveloper.com/thedecentralizedgraph</id>
+        <link href="https://soliditydeveloper.com/thedecentralizedgraph"/>
+        <updated>2022-10-05T06:17:11.888Z</updated>
+        <content type="html"><![CDATA[What are the new features and how to use it]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3]]></title>
-        <id>https://rekt.news/</id>
-        <link href="https://rekt.news/"/>
-        <updated>2022-10-01T17:51:39.956Z</updated>
-        <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/compound-errors/"> <!-- -->Compound Errors</a></h5><hr><span class="post-meta"><time>Wednesday, August 31, 2022</time><p><span><a href="/?tag=Compound">Compound</a></span><span> - <a href="/?tag=Governance">Governance</a></span></p></span><hr></header><section class="post-excerpt"><p>Compound’s governance has backfired, and not for the first time. An oracle update has bricked the cEther market for a week. Compound say that “Funds are not immediately at risk, but this is a developing situation…”</p><p class="post-excerpt-more"><a href="/compound-errors/">MORE</a></p></section>]]></content>
+        <title type="html"><![CDATA[zkSync Guide - The future of Ethereum scaling]]></title>
+        <id>https://soliditydeveloper.com/zkSync</id>
+        <link href="https://soliditydeveloper.com/zkSync"/>
+        <updated>2022-10-05T06:17:11.889Z</updated>
+        <content type="html"><![CDATA[How the zero-knowledge tech works and how to use it]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4]]></title>
-        <id>https://rekt.news/</id>
-        <link href="https://rekt.news/"/>
-        <updated>2022-10-01T17:51:39.957Z</updated>
-        <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/winds-of-change/"> <!-- -->Winds of Change</a></h5><hr><span class="post-meta"><time>Friday, August 26, 2022</time><p><span><a href="/?tag=Tornado+Cash">Tornado Cash</a></span><span> - <a href="/?tag=Sanctions">Sanctions</a></span><span> - <a href="/?tag=Regulation">Regulation</a></span></p></span><hr></header><section class="post-excerpt"><p>It’s been a stormy summer for DeFi. The sanctioning of Tornado Cash has forced us to face certain questions about Ethereum’s future. Will the censorship-resistant, permissionless dream survive, or is OFAC’s influence an existential threat?</p><p class="post-excerpt-more"><a href="/winds-of-change/">MORE</a></p></section>]]></content>
+        <title type="html"><![CDATA[Exploring the Openzeppelin CrossChain Functionality]]></title>
+        <id>https://soliditydeveloper.com/openzeppelin-crosschain</id>
+        <link href="https://soliditydeveloper.com/openzeppelin-crosschain"/>
+        <updated>2022-10-05T06:17:11.897Z</updated>
+        <content type="html"><![CDATA[What is the new CrossChain support and how can you use it.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5]]></title>
-        <id>https://rekt.news/</id>
-        <link href="https://rekt.news/"/>
-        <updated>2022-10-01T17:51:39.960Z</updated>
-        <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/acala-network-rekt/"> <!-- -->Acala Network - REKT</a></h5><hr><span class="post-meta"><time>Monday, August 15, 2022</time><p><span><a href="/?tag=Acala+Network">Acala Network</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>The billion that wasn't. Tornado sanctions didn’t deter these Polkadot thieves, who tried to steal ~$1.3B in aUSD from Acala Network.</p><p class="post-excerpt-more"><a href="/acala-network-rekt/">MORE</a></p></section>]]></content>
+        <title type="html"><![CDATA[Deploying Solidity Contracts in Hedera]]></title>
+        <id>https://soliditydeveloper.com/hedera</id>
+        <link href="https://soliditydeveloper.com/hedera"/>
+        <updated>2022-10-05T06:17:11.925Z</updated>
+        <content type="html"><![CDATA[What is Hedera and how can you use it.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6]]></title>
-        <id>https://rekt.news/</id>
-        <link href="https://rekt.news/"/>
-        <updated>2022-10-01T17:51:39.963Z</updated>
-        <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/curve-finance-rekt/"> <!-- -->Curve Finance - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, August 10, 2022</time><p><span><a href="/?tag=Curve+Finance">Curve Finance</a></span><span> - <a href="/?tag=DNS+hijack">DNS hijack</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Curve fell victim to a DNS hijacking yesterday, with approximately $575k lost to malicious contract approvals. For users, DeFi protocols are only as secure as their centrally-hosted front end. How much longer will web3 rely on web2?</p><p class="post-excerpt-more"><a href="/curve-finance-rekt/">MORE</a></p></section>]]></content>
+        <title type="html"><![CDATA[Writing ERC-20 Tests in Solidity with Foundry]]></title>
+        <id>https://soliditydeveloper.com/foundry</id>
+        <link href="https://soliditydeveloper.com/foundry"/>
+        <updated>2022-10-05T06:17:11.925Z</updated>
+        <content type="html"><![CDATA[Blazing fast tests, no more&nbsp;BigNumber.js, only Solidity]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7]]></title>
-        <id>https://rekt.news/</id>
-        <link href="https://rekt.news/"/>
-        <updated>2022-10-01T17:51:39.964Z</updated>
-        <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/eye-of-the-storm/"> <!-- -->The Eye of the Storm</a></h5><hr><span class="post-meta"><time>Tuesday, August 9, 2022</time><p><span><a href="/?tag=Tornado+Cash">Tornado Cash</a></span><span> - <a href="/?tag=Privacy">Privacy</a></span><span> - <a href="/?tag=Sanctions">Sanctions</a></span></p></span><hr></header><section class="post-excerpt"><p>If you have nothing to hide, you have nothing to fear. Tornado Cash has been living on borrowed time, and now the crackdown has begun. Choose privacy while it’s still an option. It’s time to go dark...</p><p class="post-excerpt-more"><a href="/eye-of-the-storm/">MORE</a></p></section>]]></content>
+        <title type="html"><![CDATA[ERC-4626: Extending ERC-20 for Interest Management]]></title>
+        <id>https://soliditydeveloper.com/erc-4626</id>
+        <link href="https://soliditydeveloper.com/erc-4626"/>
+        <updated>2022-10-05T06:17:11.936Z</updated>
+        <content type="html"><![CDATA[How the newly finalized standard works and can help you with Defi]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8]]></title>
-        <id>https://rekt.news/</id>
-        <link href="https://rekt.news/"/>
-        <updated>2022-10-01T17:51:39.966Z</updated>
-        <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/unsolved-mystery/"> <!-- -->An Un-SOL-ved Mystery</a></h5><hr><span class="post-meta"><time>Wednesday, August 3, 2022</time><p><span><a href="/?tag=Solana">Solana</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Approximately 8,000 addresses on the Solana network have been compromised, draining a total of ~$5.3M. Fear leads to rumours, and separating the signal from the noise is no easy task.</p><p class="post-excerpt-more"><a href="/unsolved-mystery/">MORE</a></p></section>]]></content>
+        <title type="html"><![CDATA[Advancing the NFT standard: ERC721-Permit]]></title>
+        <id>https://soliditydeveloper.com/erc721-permit</id>
+        <link href="https://soliditydeveloper.com/erc721-permit"/>
+        <updated>2022-10-05T06:17:11.936Z</updated>
+        <content type="html"><![CDATA[And how to avoid the two step approve + transferFrom with ERC721-Permit (EIP-4494)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[9]]></title>
-        <id>https://rekt.news/</id>
-        <link href="https://rekt.news/"/>
-        <updated>2022-10-01T17:51:39.969Z</updated>
-        <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/nomad-rekt/"> <!-- -->Nomad Bridge - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, August 2, 2022</time><p><span><a href="/?tag=Nomad+Bridge">Nomad Bridge</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Nomad Bridge has been torn apart, with $190M drained in a savage attack. This is the 100th incident to make it onto the leaderboard, but DeFi still has plenty of easy prey, and scavengers continue to circle overhead.</p><p class="post-excerpt-more"><a href="/nomad-rekt/">MORE</a></p></section>]]></content>
+        <title type="html"><![CDATA[Moonbeam: The EVM of Polkadot]]></title>
+        <id>https://soliditydeveloper.com/moonbeam</id>
+        <link href="https://soliditydeveloper.com/moonbeam"/>
+        <updated>2022-10-05T06:17:11.936Z</updated>
+        <content type="html"><![CDATA[Deploying and onboarding users to Moonbeam or Moonriver]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10]]></title>
-        <id>https://rekt.news/</id>
-        <link href="https://rekt.news/"/>
-        <updated>2022-10-01T17:51:39.973Z</updated>
-        <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/nirvana-rekt/"> <!-- -->Nirvana Finance - REKT</a></h5><hr><span class="post-meta"><time>Friday, July 29, 2022</time><p><span><a href="/?tag=Nirvana+Finance">Nirvana Finance</a></span><span> - <a href="/?tag=Solana">Solana</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Nirvana Finance lost $3.5M yesterday to a flash loan attack. It seems Solana’s relevance is waning, but will Nirvana get a chance at reincarnation?</p><p class="post-excerpt-more"><a href="/nirvana-rekt/">MORE</a></p></section>]]></content>
+        <title type="html"><![CDATA[Advanced MultiSwap: How to better arbitrage with Solidity]]></title>
+        <id>https://soliditydeveloper.com/multiswap-advanced</id>
+        <link href="https://soliditydeveloper.com/multiswap-advanced"/>
+        <updated>2022-10-05T06:17:11.948Z</updated>
+        <content type="html"><![CDATA[Making multiple swaps across different decentralized exchanges in a single transaction]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[11]]></title>
-        <id>https://rekt.news/</id>
-        <link href="https://rekt.news/"/>
-        <updated>2022-10-01T17:51:39.975Z</updated>
-        <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/audius-rekt/"> <!-- -->Audius - REKT</a></h5><hr><span class="post-meta"><time>Monday, July 25, 2022</time><p><span><a href="/?tag=Audius">Audius</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Audius has fallen victim to a governance attack, losing $6M of its native token, AUDIO. Let’s hope their debut is a one-hit wonder.</p><p class="post-excerpt-more"><a href="/audius-rekt/">MORE</a></p></section>]]></content>
+        <title type="html"><![CDATA[Deploying Solidity Smart Contracts to Solana]]></title>
+        <id>https://soliditydeveloper.com/solana</id>
+        <link href="https://soliditydeveloper.com/solana"/>
+        <updated>2022-10-05T06:17:11.948Z</updated>
+        <content type="html"><![CDATA[What is Solana and how can you deploy Solidity smart contracts to it?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smock 2: The powerful mocking tool for Hardhat]]></title>
+        <id>https://soliditydeveloper.com/smock2</id>
+        <link href="https://soliditydeveloper.com/smock2"/>
+        <updated>2022-10-05T06:17:11.948Z</updated>
+        <content type="html"><![CDATA[Features of smock v2 and how to use them with examples]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to deploy on Evmos: The first EVM chain on Cosmos]]></title>
+        <id>https://soliditydeveloper.com/evmos</id>
+        <link href="https://soliditydeveloper.com/evmos"/>
+        <updated>2022-10-05T06:17:11.948Z</updated>
+        <content type="html"><![CDATA[Deploying and onboarding users to Evmos]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EIP-2535: A standard for organizing and upgrading a modular smart contract system.]]></title>
+        <id>https://soliditydeveloper.com/eip-2535</id>
+        <link href="https://soliditydeveloper.com/eip-2535"/>
+        <updated>2022-10-05T06:17:11.948Z</updated>
+        <content type="html"><![CDATA[Multi-Facet Proxies for full control over your upgrades]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MultiSwap: How to arbitrage with Solidity]]></title>
+        <id>https://soliditydeveloper.com/multiswap</id>
+        <link href="https://soliditydeveloper.com/multiswap"/>
+        <updated>2022-10-05T06:17:11.953Z</updated>
+        <content type="html"><![CDATA[Making multiple swaps across different decentralized exchanges in a single transaction]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The latest tech for scaling your contracts: Optimism]]></title>
+        <id>https://soliditydeveloper.com/optimism</id>
+        <link href="https://soliditydeveloper.com/optimism"/>
+        <updated>2022-10-05T06:17:11.953Z</updated>
+        <content type="html"><![CDATA[How the blockchain on a blockchain works and how to use it]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultimate Performance: The Aurora Layer2 Network]]></title>
+        <id>https://soliditydeveloper.com/aurora-near-protocol</id>
+        <link href="https://soliditydeveloper.com/aurora-near-protocol"/>
+        <updated>2022-10-05T06:17:11.953Z</updated>
+        <content type="html"><![CDATA[Deploying and onboarding users to the Aurora Network powered by NEAR Protocol]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is ecrecover in Solidity?]]></title>
+        <id>https://soliditydeveloper.com/ecrecover</id>
+        <link href="https://soliditydeveloper.com/ecrecover"/>
+        <updated>2022-10-05T06:17:11.953Z</updated>
+        <content type="html"><![CDATA[A dive into the waters of signatures for smart contracts]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use Binance Smart Chain in your Dapp]]></title>
+        <id>https://soliditydeveloper.com/deploy-to-binance-smart-chain</id>
+        <link href="https://soliditydeveloper.com/deploy-to-binance-smart-chain"/>
+        <updated>2022-10-05T06:17:11.955Z</updated>
+        <content type="html"><![CDATA[Deploying and onboarding users to the Binance Smart Chain (BSC)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using the new Uniswap v3 in your contracts]]></title>
+        <id>https://soliditydeveloper.com/uniswap3</id>
+        <link href="https://soliditydeveloper.com/uniswap3"/>
+        <updated>2022-10-05T06:17:11.955Z</updated>
+        <content type="html"><![CDATA[What's new in Uniswap v3 and how to integrate Uniswap v3]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's coming in the London Hardfork?]]></title>
+        <id>https://soliditydeveloper.com/london-hardfork</id>
+        <link href="https://soliditydeveloper.com/london-hardfork"/>
+        <updated>2022-10-05T06:17:11.955Z</updated>
+        <content type="html"><![CDATA[Looking at all the details of the upcoming fork]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Ethereum Mainnet Deployment Guide]]></title>
+        <id>https://soliditydeveloper.com/deployments</id>
+        <link href="https://soliditydeveloper.com/deployments"/>
+        <updated>2022-10-05T06:17:11.955Z</updated>
+        <content type="html"><![CDATA[All you need to know to deploy to the Ethereum mainnet]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SushiSwap Explained!]]></title>
+        <id>https://soliditydeveloper.com/sushi-swap</id>
+        <link href="https://soliditydeveloper.com/sushi-swap"/>
+        <updated>2022-10-05T06:17:11.959Z</updated>
+        <content type="html"><![CDATA[Looking at the implementation details of SushiSwap]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Fast Track 2: Continue Learning Solidity Fast]]></title>
+        <id>https://soliditydeveloper.com/solidity-fast-track-2</id>
+        <link href="https://soliditydeveloper.com/solidity-fast-track-2"/>
+        <updated>2022-10-05T06:17:11.959Z</updated>
+        <content type="html"><![CDATA[Continuing to learn Solidity fast with the advanced basics]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's coming in the Berlin Hardfork?]]></title>
+        <id>https://soliditydeveloper.com/berlin-hardfork</id>
+        <link href="https://soliditydeveloper.com/berlin-hardfork"/>
+        <updated>2022-10-05T06:17:11.959Z</updated>
+        <content type="html"><![CDATA[Looking at all the details of the upcoming fork]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using 1inch ChiGas tokens to reduce transaction costs]]></title>
+        <id>https://soliditydeveloper.com/chi-gas</id>
+        <link href="https://soliditydeveloper.com/chi-gas"/>
+        <updated>2022-10-05T06:17:11.959Z</updated>
+        <content type="html"><![CDATA[What are gas tokens and example usage for Uniswap v2]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Openzeppelin Contracts v4 in Review]]></title>
+        <id>https://soliditydeveloper.com/openzeppelin-contracts-v4</id>
+        <link href="https://soliditydeveloper.com/openzeppelin-contracts-v4"/>
+        <updated>2022-10-05T06:17:11.959Z</updated>
+        <content type="html"><![CDATA[Taking a look at the new Openzeppelin v4 Release]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EIP-3156: Creating a standard for Flash Loans]]></title>
+        <id>https://soliditydeveloper.com/eip-3156</id>
+        <link href="https://soliditydeveloper.com/eip-3156"/>
+        <updated>2022-10-05T06:17:11.960Z</updated>
+        <content type="html"><![CDATA[A new standard for flash loans unifying the interface + wrappers for existing ecosystems]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tornado.cash: A story of anonymity and zk-SNARKs]]></title>
+        <id>https://soliditydeveloper.com/tornado.cash</id>
+        <link href="https://soliditydeveloper.com/tornado.cash"/>
+        <updated>2022-10-05T06:17:11.960Z</updated>
+        <content type="html"><![CDATA[What is Tornado.cash, how to use it and the future]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High Stakes Roulette on Ethereum]]></title>
+        <id>https://soliditydeveloper.com/high-stakes-roulette</id>
+        <link href="https://soliditydeveloper.com/high-stakes-roulette"/>
+        <updated>2022-10-05T06:17:11.960Z</updated>
+        <content type="html"><![CDATA[Learn by Example: Building a secure High Stakes Roulette]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to implement generalized meta transactions]]></title>
+        <id>https://soliditydeveloper.com/meta-transactions</id>
+        <link href="https://soliditydeveloper.com/meta-transactions"/>
+        <updated>2022-10-05T06:17:11.960Z</updated>
+        <content type="html"><![CDATA[We'll explore a powerful design for meta transactions based on 0x]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Utilizing Bitmaps to dramatically save on Gas]]></title>
+        <id>https://soliditydeveloper.com/bitmaps</id>
+        <link href="https://soliditydeveloper.com/bitmaps"/>
+        <updated>2022-10-05T06:17:11.960Z</updated>
+        <content type="html"><![CDATA[A simple pattern which can save you a lot of money]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using the new Uniswap v2 as oracle in your contracts]]></title>
+        <id>https://soliditydeveloper.com/uniswap-oracle</id>
+        <link href="https://soliditydeveloper.com/uniswap-oracle"/>
+        <updated>2022-10-05T06:17:11.961Z</updated>
+        <content type="html"><![CDATA[How does the Uniswap v2 oracle function and how to integrate with it]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smock: The powerful mocking tool for Hardhat]]></title>
+        <id>https://soliditydeveloper.com/smock</id>
+        <link href="https://soliditydeveloper.com/smock"/>
+        <updated>2022-10-05T06:17:11.962Z</updated>
+        <content type="html"><![CDATA[Features of smock and how to use them with examples]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to build and use ERC-721 tokens in 2021]]></title>
+        <id>https://soliditydeveloper.com/erc-721</id>
+        <link href="https://soliditydeveloper.com/erc-721"/>
+        <updated>2022-10-05T06:17:11.962Z</updated>
+        <content type="html"><![CDATA[An intro for devs to the uniquely identifying token standard and its future]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trustless token management with Set Protocol]]></title>
+        <id>https://soliditydeveloper.com/set-protocol</id>
+        <link href="https://soliditydeveloper.com/set-protocol"/>
+        <updated>2022-10-05T06:17:11.962Z</updated>
+        <content type="html"><![CDATA[How to integrate token sets in your contracts]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the new Solidity 0.8 Release]]></title>
+        <id>https://soliditydeveloper.com/solidity-0.8</id>
+        <link href="https://soliditydeveloper.com/solidity-0.8"/>
+        <updated>2022-10-05T06:17:11.962Z</updated>
+        <content type="html"><![CDATA[And how to upgrade your contracts to Solidity 0.8]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to build and use ERC-1155 tokens]]></title>
+        <id>https://soliditydeveloper.com/erc-1155</id>
+        <link href="https://soliditydeveloper.com/erc-1155"/>
+        <updated>2022-10-05T06:17:11.963Z</updated>
+        <content type="html"><![CDATA[An intro to the new standard for having many tokens in one]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leveraging the power of Bitcoins with RSK]]></title>
+        <id>https://soliditydeveloper.com/rsk</id>
+        <link href="https://soliditydeveloper.com/rsk"/>
+        <updated>2022-10-05T06:17:11.963Z</updated>
+        <content type="html"><![CDATA[Learn how RSK works and how to deploy your smart contracts to it]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Fast Track: Learn Solidity Fast]]></title>
+        <id>https://soliditydeveloper.com/solidity-fast-track</id>
+        <link href="https://soliditydeveloper.com/solidity-fast-track"/>
+        <updated>2022-10-05T06:17:11.964Z</updated>
+        <content type="html"><![CDATA['Learn X in Y minutes' this time with X = Solidity 0.7 and Y = 20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sourcify: The future of a Decentralized Etherscan]]></title>
+        <id>https://soliditydeveloper.com/sourcify</id>
+        <link href="https://soliditydeveloper.com/sourcify"/>
+        <updated>2022-10-05T06:17:11.964Z</updated>
+        <content type="html"><![CDATA[Learn how to use the new Sourcify infrastructure today]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating the 0x API into your contracts]]></title>
+        <id>https://soliditydeveloper.com/0x-api</id>
+        <link href="https://soliditydeveloper.com/0x-api"/>
+        <updated>2022-10-05T06:17:11.964Z</updated>
+        <content type="html"><![CDATA[How to automatically get the best prices via 0x]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to build and use ERC-777 tokens]]></title>
+        <id>https://soliditydeveloper.com/erc-777</id>
+        <link href="https://soliditydeveloper.com/erc-777"/>
+        <updated>2022-10-05T06:17:11.964Z</updated>
+        <content type="html"><![CDATA[An intro to the new upgraded standard for ERC-20 tokens]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COMP Governance Explained]]></title>
+        <id>https://soliditydeveloper.com/comp-governance</id>
+        <link href="https://soliditydeveloper.com/comp-governance"/>
+        <updated>2022-10-05T06:17:11.964Z</updated>
+        <content type="html"><![CDATA[How Compound's Decentralized Governance is working under the hood]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to prevent stuck tokens in contracts]]></title>
+        <id>https://soliditydeveloper.com/eip-165</id>
+        <link href="https://soliditydeveloper.com/eip-165"/>
+        <updated>2022-10-05T06:17:11.965Z</updated>
+        <content type="html"><![CDATA[And other use cases for the popular EIP-165]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the World of Automated Smart Contract Analyzers]]></title>
+        <id>https://soliditydeveloper.com/smart-contract-security-analyzers</id>
+        <link href="https://soliditydeveloper.com/smart-contract-security-analyzers"/>
+        <updated>2022-10-05T06:17:11.965Z</updated>
+        <content type="html"><![CDATA[What are the best tools today and how can you use them?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Long Way To Go: On Gasless Tokens and ERC20-Permit]]></title>
+        <id>https://soliditydeveloper.com/erc20-permit</id>
+        <link href="https://soliditydeveloper.com/erc20-permit"/>
+        <updated>2022-10-05T06:17:11.965Z</updated>
+        <content type="html"><![CDATA[And how to avoid the two step approve + transferFrom with ERC20-Permit (EIP-2612)!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart Contract Testing with Waffle 3]]></title>
+        <id>https://soliditydeveloper.com/waffle</id>
+        <link href="https://soliditydeveloper.com/waffle"/>
+        <updated>2022-10-05T06:17:11.965Z</updated>
+        <content type="html"><![CDATA[What are the features of Waffle and how to use them.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use xDai in your Dapp]]></title>
+        <id>https://soliditydeveloper.com/xdai</id>
+        <link href="https://soliditydeveloper.com/xdai"/>
+        <updated>2022-10-05T06:17:11.991Z</updated>
+        <content type="html"><![CDATA[Deploying and onboarding users to xDai to avoid the high gas costs]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stack Too Deep]]></title>
+        <id>https://soliditydeveloper.com/stacktoodeep</id>
+        <link href="https://soliditydeveloper.com/stacktoodeep"/>
+        <updated>2022-10-05T06:17:11.992Z</updated>
+        <content type="html"><![CDATA[Three words of horror]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating the new Chainlink contracts]]></title>
+        <id>https://soliditydeveloper.com/chainlink</id>
+        <link href="https://soliditydeveloper.com/chainlink"/>
+        <updated>2022-10-05T06:17:11.992Z</updated>
+        <content type="html"><![CDATA[How to use the new price feeder oracles]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TheGraph: Fixing the Web3 data querying]]></title>
+        <id>https://soliditydeveloper.com/thegraph</id>
+        <link href="https://soliditydeveloper.com/thegraph"/>
+        <updated>2022-10-05T06:17:11.992Z</updated>
+        <content type="html"><![CDATA[Why we need TheGraph and how to use it]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Typescript to Truffle and Buidler]]></title>
+        <id>https://soliditydeveloper.com/typescript</id>
+        <link href="https://soliditydeveloper.com/typescript"/>
+        <updated>2022-10-05T06:17:11.997Z</updated>
+        <content type="html"><![CDATA[How to use TypeChain to utilize the powers of Typescript in your project]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating Balancer in your contracts]]></title>
+        <id>https://soliditydeveloper.com/balancer</id>
+        <link href="https://soliditydeveloper.com/balancer"/>
+        <updated>2022-10-05T06:17:12.007Z</updated>
+        <content type="html"><![CDATA[What is Balancer and how to use it]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navigating the pitfalls of securely interacting with ERC20 tokens]]></title>
+        <id>https://soliditydeveloper.com/safe-erc20</id>
+        <link href="https://soliditydeveloper.com/safe-erc20"/>
+        <updated>2022-10-05T06:17:12.007Z</updated>
+        <content type="html"><![CDATA[Figuring out how to securely interact might be harder than you think]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why you should automatically generate interests from user funds]]></title>
+        <id>https://soliditydeveloper.com/integrate-aave</id>
+        <link href="https://soliditydeveloper.com/integrate-aave"/>
+        <updated>2022-10-05T06:17:12.008Z</updated>
+        <content type="html"><![CDATA[How to integrate Aave and similar systems in your contracts]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use Polygon (Matic) in your Dapp]]></title>
+        <id>https://soliditydeveloper.com/deploy-to-matic</id>
+        <link href="https://soliditydeveloper.com/deploy-to-matic"/>
+        <updated>2022-10-05T06:17:12.008Z</updated>
+        <content type="html"><![CDATA[Deploying and onboarding users to&nbsp; Polygon &nbsp;to avoid the high gas costs]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrating from Truffle to Buidler]]></title>
+        <id>https://soliditydeveloper.com/truffle-to-buidler</id>
+        <link href="https://soliditydeveloper.com/truffle-to-buidler"/>
+        <updated>2022-10-05T06:17:12.008Z</updated>
+        <content type="html"><![CDATA[And why you should probably keep both.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Contract factories and clones]]></title>
+        <id>https://soliditydeveloper.com/clonefactory</id>
+        <link href="https://soliditydeveloper.com/clonefactory"/>
+        <updated>2022-10-05T06:17:12.009Z</updated>
+        <content type="html"><![CDATA[How to deploy contracts within contracts as easily and gas-efficient as possible]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use IPFS in your Dapp?]]></title>
+        <id>https://soliditydeveloper.com/ipfs</id>
+        <link href="https://soliditydeveloper.com/ipfs"/>
+        <updated>2022-10-05T06:17:12.013Z</updated>
+        <content type="html"><![CDATA[Using the interplanetary file system in your frontend and contracts]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Downsizing contracts to fight the contract size limit]]></title>
+        <id>https://soliditydeveloper.com/max-contract-size</id>
+        <link href="https://soliditydeveloper.com/max-contract-size"/>
+        <updated>2022-10-05T06:17:12.013Z</updated>
+        <content type="html"><![CDATA[What can you do to prevent your contracts from getting too large?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using EXTCODEHASH to secure your systems]]></title>
+        <id>https://soliditydeveloper.com/extcodehash</id>
+        <link href="https://soliditydeveloper.com/extcodehash"/>
+        <updated>2022-10-05T06:17:12.018Z</updated>
+        <content type="html"><![CDATA[How to safely integrate anyone's smart contract]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using the new Uniswap v2 in your contracts]]></title>
+        <id>https://soliditydeveloper.com/uniswap2</id>
+        <link href="https://soliditydeveloper.com/uniswap2"/>
+        <updated>2022-10-05T06:17:12.018Z</updated>
+        <content type="html"><![CDATA[What's new in Uniswap v2 and how to integrate Uniswap v2]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity and Truffle Continuous Integration Setup]]></title>
+        <id>https://soliditydeveloper.com/continuous-integration</id>
+        <link href="https://soliditydeveloper.com/continuous-integration"/>
+        <updated>2022-10-05T06:17:12.018Z</updated>
+        <content type="html"><![CDATA[How to setup Travis or Circle CI for Truffle testing along with useful plugins.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upcoming Devcon 2021 and other events]]></title>
+        <id>https://soliditydeveloper.com/upcoming-devcon6-2021</id>
+        <link href="https://soliditydeveloper.com/upcoming-devcon6-2021"/>
+        <updated>2022-10-05T06:17:12.018Z</updated>
+        <content type="html"><![CDATA[The Ethereum Foundation just announced the next Devcon in 2021 in Colombia]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Year of the 20: Creating an ERC20 in 2020]]></title>
+        <id>https://soliditydeveloper.com/erc-2020</id>
+        <link href="https://soliditydeveloper.com/erc-2020"/>
+        <updated>2022-10-05T06:17:12.018Z</updated>
+        <content type="html"><![CDATA[How to use the latest and best tools to create an ERC-20 token contract]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get a Solidity developer job?]]></title>
+        <id>https://soliditydeveloper.com/how-to-get-a-solidity-developer-job</id>
+        <link href="https://soliditydeveloper.com/how-to-get-a-solidity-developer-job"/>
+        <updated>2022-10-05T06:17:12.018Z</updated>
+        <content type="html"><![CDATA[There are many ways to get a Solidity job and it might be easier than you think!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design Pattern Solidity: Mock contracts for testing]]></title>
+        <id>https://soliditydeveloper.com/mocking-contracts</id>
+        <link href="https://soliditydeveloper.com/mocking-contracts"/>
+        <updated>2022-10-05T06:17:12.018Z</updated>
+        <content type="html"><![CDATA[Why you should make fun of your contracts]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kickstart your Dapp frontend development with create-eth-app]]></title>
+        <id>https://soliditydeveloper.com/create-eth-app</id>
+        <link href="https://soliditydeveloper.com/create-eth-app"/>
+        <updated>2022-10-05T06:17:12.018Z</updated>
+        <content type="html"><![CDATA[An overview on how to use the app and its features]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The big picture of Solidity and Blockchain development in 2020]]></title>
+        <id>https://soliditydeveloper.com/solidity-overview-2020</id>
+        <link href="https://soliditydeveloper.com/solidity-overview-2020"/>
+        <updated>2022-10-05T06:17:12.018Z</updated>
+        <content type="html"><![CDATA[Overview of the most important technologies, services and tools that you need to know]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design Pattern Solidity: Free up unused storage]]></title>
+        <id>https://soliditydeveloper.com/design-pattern-solidity-free-up-unused-storage</id>
+        <link href="https://soliditydeveloper.com/design-pattern-solidity-free-up-unused-storage"/>
+        <updated>2022-10-05T06:17:12.018Z</updated>
+        <content type="html"><![CDATA[Why you should clean up after yourself]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to setup Solidity Developer Environment on Windows]]></title>
+        <id>https://soliditydeveloper.com/windows-solidity</id>
+        <link href="https://soliditydeveloper.com/windows-solidity"/>
+        <updated>2022-10-05T06:17:12.018Z</updated>
+        <content type="html"><![CDATA[What you need to know about developing on Windows]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avoiding out of gas for Truffle tests]]></title>
+        <id>https://soliditydeveloper.com/avoiding-out-of-gas-for-truffle-tests</id>
+        <link href="https://soliditydeveloper.com/avoiding-out-of-gas-for-truffle-tests"/>
+        <updated>2022-10-05T06:17:12.018Z</updated>
+        <content type="html"><![CDATA[How you do not have to worry about gas in tests anymore]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design Pattern Solidity: Stages]]></title>
+        <id>https://soliditydeveloper.com/design-pattern-solidity-stages</id>
+        <link href="https://soliditydeveloper.com/design-pattern-solidity-stages"/>
+        <updated>2022-10-05T06:17:12.018Z</updated>
+        <content type="html"><![CDATA[How you can design stages in your contract]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3 1.2.5: Revert reason strings]]></title>
+        <id>https://soliditydeveloper.com/web3-1-2-5-revert-reason-strings</id>
+        <link href="https://soliditydeveloper.com/web3-1-2-5-revert-reason-strings"/>
+        <updated>2022-10-05T06:17:12.019Z</updated>
+        <content type="html"><![CDATA[How to use the new feature]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gaining back control of the internet]]></title>
+        <id>https://soliditydeveloper.com/gaining-back-control-of-the-internet</id>
+        <link href="https://soliditydeveloper.com/gaining-back-control-of-the-internet"/>
+        <updated>2022-10-05T06:17:12.019Z</updated>
+        <content type="html"><![CDATA[How Ocelot is decentralizing cloud computing]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devcon 5 - Review]]></title>
+        <id>https://soliditydeveloper.com/devcon-5-review</id>
+        <link href="https://soliditydeveloper.com/devcon-5-review"/>
+        <updated>2022-10-05T06:17:12.019Z</updated>
+        <content type="html"><![CDATA[Impressions from the conference]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devcon 5 - Information, Events, Links, Telegram]]></title>
+        <id>https://soliditydeveloper.com/devcon-5-information-events-links-telegram</id>
+        <link href="https://soliditydeveloper.com/devcon-5-information-events-links-telegram"/>
+        <updated>2022-10-05T06:17:12.019Z</updated>
+        <content type="html"><![CDATA[What you need to know]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design Pattern Solidity: Off-chain beats on-chain]]></title>
+        <id>https://soliditydeveloper.com/design-pattern-solidity-off-chain-beats-on-chain</id>
+        <link href="https://soliditydeveloper.com/design-pattern-solidity-off-chain-beats-on-chain"/>
+        <updated>2022-10-05T06:17:12.021Z</updated>
+        <content type="html"><![CDATA[Why you should do as much as possible off-chain]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design Pattern Solidity: Initialize Contract after Deployment]]></title>
+        <id>https://soliditydeveloper.com/design-pattern-solidity-initialize-contract-after-deployment</id>
+        <link href="https://soliditydeveloper.com/design-pattern-solidity-initialize-contract-after-deployment"/>
+        <updated>2022-10-05T06:17:12.022Z</updated>
+        <content type="html"><![CDATA[How to use the Initializable pattern]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Consensys Blockchain Jobs Report]]></title>
+        <id>https://soliditydeveloper.com/consensys-blockchain-jobs-report</id>
+        <link href="https://soliditydeveloper.com/consensys-blockchain-jobs-report"/>
+        <updated>2022-10-05T06:17:12.022Z</updated>
+        <content type="html"><![CDATA[What the current blockchain job market looks like]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Provable — Randomness Oracle]]></title>
+        <id>https://soliditydeveloper.com/provable-randomness-oracle</id>
+        <link href="https://soliditydeveloper.com/provable-randomness-oracle"/>
+        <updated>2022-10-05T06:17:12.023Z</updated>
+        <content type="html"><![CDATA[How the Oraclize random number generator works]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solidity Design Patterns: Multiply before Dividing]]></title>
+        <id>https://soliditydeveloper.com/solidity-design-patterns-multiply-before-dividing</id>
+        <link href="https://soliditydeveloper.com/solidity-design-patterns-multiply-before-dividing"/>
+        <updated>2022-10-05T06:17:12.023Z</updated>
+        <content type="html"><![CDATA[Why the correct order matters!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devcon 5 Applications closing in one week]]></title>
+        <id>https://soliditydeveloper.com/devcon-5-applications-closing-in-one-week</id>
+        <link href="https://soliditydeveloper.com/devcon-5-applications-closing-in-one-week"/>
+        <updated>2022-10-05T06:17:12.023Z</updated>
+        <content type="html"><![CDATA[Devcon 5 Applications closing]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Randomness and the Blockchain]]></title>
+        <id>https://soliditydeveloper.com/2019-06-23-randomness-blockchain</id>
+        <link href="https://soliditydeveloper.com/2019-06-23-randomness-blockchain"/>
+        <updated>2022-10-05T06:17:12.024Z</updated>
+        <content type="html"><![CDATA[How to achieve secure randomness for Solidity smart contracts?]]></content>
     </entry>
 </feed>
