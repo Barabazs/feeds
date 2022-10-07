@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2022-10-06T18:17:12.094Z</updated>
+    <updated>2022-10-07T06:02:47.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Face That AI Built]]></title>
+        <id>https://every.to/napkin-math/the-face-that-ai-built</id>
+        <link href="https://every.to/napkin-math/the-face-that-ai-built"/>
+        <updated>2022-10-07T05:58:00.614Z</updated>
+        <content type="html"><![CDATA[My explorations in image generation]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Culture Eats Strategy]]></title>
         <id>https://every.to/napkin-math/why-culture-eats-strategy</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/the-race-for-new-payment-rails"/>
         <updated>2022-04-14T17:41:26.547Z</updated>
         <content type="html"><![CDATA[Who is building the next Visa?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Futility of Utility]]></title>
-        <id>https://every.to/napkin-math/why-you-can-t-maximize-utility</id>
-        <link href="https://every.to/napkin-math/why-you-can-t-maximize-utility"/>
-        <updated>2022-04-10T05:35:44.305Z</updated>
-        <content type="html"><![CDATA[A personal essay]]></content>
     </entry>
 </feed>
