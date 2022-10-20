@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/divinations?sort=newest</id>
     <title>Divinations</title>
-    <updated>2022-10-20T06:07:13.815Z</updated>
+    <updated>2022-10-20T18:16:32.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How Lex Happened]]></title>
+        <id>https://every.to/divinations/how-lex-happened</id>
+        <link href="https://every.to/divinations/how-lex-happened"/>
+        <updated>2022-10-20T18:07:41.696Z</updated>
+        <content type="html"><![CDATA[25,000 users in 24 hours]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Will the Metaverse replace PCs?]]></title>
         <id>https://every.to/divinations/will-the-metaverse-replace-pcs</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/divinations/recursive-publishing"/>
         <updated>2022-04-01T05:35:58.120Z</updated>
         <content type="html"><![CDATA[A force to be reckoned with]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Screw it, I’m investing in Peloton]]></title>
-        <id>https://every.to/divinations/screw-it-i-m-investing-in-peloton</id>
-        <link href="https://every.to/divinations/screw-it-i-m-investing-in-peloton"/>
-        <updated>2022-03-23T05:35:33.330Z</updated>
-        <content type="html"><![CDATA[I’m in at $22.51—we’ll see what happens next.]]></content>
     </entry>
 </feed>
