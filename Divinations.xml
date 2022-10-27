@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/divinations?sort=newest</id>
     <title>Divinations</title>
-    <updated>2022-10-26T17:51:58.127Z</updated>
+    <updated>2022-10-27T05:52:05.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Writing with Machines]]></title>
+        <id>https://every.to/divinations/writing-with-machines</id>
+        <link href="https://every.to/divinations/writing-with-machines"/>
+        <updated>2022-10-27T05:47:01.386Z</updated>
+        <content type="html"><![CDATA[How AI will—and won’t—change writing]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Lex Happened]]></title>
         <id>https://every.to/divinations/how-lex-happened</id>
@@ -118,18 +125,18 @@
         <content type="html"><![CDATA[Scale, speed, or freedom: choose two]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Time The Market (Or Not)]]></title>
-        <id>https://every.to/divinations/how-to-time-the-market-or-not</id>
-        <link href="https://every.to/divinations/how-to-time-the-market-or-not"/>
-        <updated>2022-05-20T17:48:09.428Z</updated>
-        <content type="html"><![CDATA[A Book Review of “Mastering the Market Cycle”]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mastering the MarketCycle, by Howard Marks]]></title>
         <id>https://every.to/divinations/mastering-the-market-cycle-by-howard-marks</id>
         <link href="https://every.to/divinations/mastering-the-market-cycle-by-howard-marks"/>
         <updated>2022-05-20T17:48:09.429Z</updated>
         <content type="html"><![CDATA[My chapter-by-chapter summary, with notes and reactions]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Time The Market (Or Not)]]></title>
+        <id>https://every.to/divinations/how-to-time-the-market-or-not</id>
+        <link href="https://every.to/divinations/how-to-time-the-market-or-not"/>
+        <updated>2022-05-20T17:48:09.428Z</updated>
+        <content type="html"><![CDATA[A Book Review of “Mastering the Market Cycle”]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why Sh*t is Hitting the Fan]]></title>
@@ -172,12 +179,5 @@
         <link href="https://every.to/divinations/friendly-competition-and-subtle-defection"/>
         <updated>2022-04-08T05:36:32.381Z</updated>
         <content type="html"><![CDATA[My wife and I recently bought our first home<br data-owner="balance-text">and we’re expecting our first child soon, so, as<br data-owner="balance-text">you can imagine, we’ve been doing a lot of wor]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recursive Publishing]]></title>
-        <id>https://every.to/divinations/recursive-publishing</id>
-        <link href="https://every.to/divinations/recursive-publishing"/>
-        <updated>2022-04-01T05:35:58.120Z</updated>
-        <content type="html"><![CDATA[A force to be reckoned with]]></content>
     </entry>
 </feed>
