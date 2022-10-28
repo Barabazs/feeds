@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2022-10-27T05:52:05.428Z</updated>
+    <updated>2022-10-28T05:57:09.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Venture Capital Is Ripe for Disruption]]></title>
+        <id>https://every.to/napkin-math/venture-capital-is-ripe-for-disruption</id>
+        <link href="https://every.to/napkin-math/venture-capital-is-ripe-for-disruption"/>
+        <updated>2022-10-28T05:48:26.917Z</updated>
+        <content type="html"><![CDATA[A world where a billion is a drop in the bucket]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Who Wins the AI Value Chain?]]></title>
         <id>https://every.to/napkin-math/who-wins-the-ai-value-chain</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/cash-kingmaker-or-killer"/>
         <updated>2022-04-29T17:42:09.514Z</updated>
         <content type="html"><![CDATA[A examination of when cash can anoint a market winner]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft should buy Netflix]]></title>
-        <id>https://every.to/napkin-math/microsoft-should-buy-netflix</id>
-        <link href="https://every.to/napkin-math/microsoft-should-buy-netflix"/>
-        <updated>2022-04-22T17:48:02.692Z</updated>
-        <content type="html"><![CDATA[Netflix and Bill]]></content>
     </entry>
 </feed>
