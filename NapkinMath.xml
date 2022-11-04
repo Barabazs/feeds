@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2022-11-03T17:47:58.074Z</updated>
+    <updated>2022-11-04T05:53:27.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How Elon Wins]]></title>
+        <id>https://every.to/napkin-math/how-elon-wins</id>
+        <link href="https://every.to/napkin-math/how-elon-wins"/>
+        <updated>2022-11-04T05:42:45.310Z</updated>
+        <content type="html"><![CDATA[Twitter needs to pursue the algorithmic feed]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Venture Capital Is Ripe for Disruption]]></title>
         <id>https://every.to/napkin-math/venture-capital-is-ripe-for-disruption</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/the-empire-stripes-back"/>
         <updated>2022-05-06T05:40:24.768Z</updated>
         <content type="html"><![CDATA[A $100B Bet on Two Brothers]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cash—Kingmaker or Killer?]]></title>
-        <id>https://every.to/napkin-math/cash-kingmaker-or-killer</id>
-        <link href="https://every.to/napkin-math/cash-kingmaker-or-killer"/>
-        <updated>2022-04-29T17:42:09.514Z</updated>
-        <content type="html"><![CDATA[A examination of when cash can anoint a market winner]]></content>
     </entry>
 </feed>
