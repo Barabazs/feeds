@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/divinations?sort=newest</id>
     <title>Divinations</title>
-    <updated>2022-11-30T17:42:34.869Z</updated>
+    <updated>2022-12-01T05:43:45.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[My Philosophy of Product Building (Part II)]]></title>
+        <id>https://every.to/divinations/my-philosophy-of-product-building-part-ii</id>
+        <link href="https://every.to/divinations/my-philosophy-of-product-building-part-ii"/>
+        <updated>2022-12-01T05:36:54.883Z</updated>
+        <content type="html"><![CDATA[Building your v1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My Philosophy of Product Building]]></title>
         <id>https://every.to/divinations/my-philosophy-of-product-building</id>
@@ -153,13 +160,6 @@
         <content type="html"><![CDATA[Scale, speed, or freedom: choose two]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering the MarketCycle, by Howard Marks]]></title>
-        <id>https://every.to/divinations/mastering-the-market-cycle-by-howard-marks</id>
-        <link href="https://every.to/divinations/mastering-the-market-cycle-by-howard-marks"/>
-        <updated>2022-05-20T17:48:09.429Z</updated>
-        <content type="html"><![CDATA[My chapter-by-chapter summary, with notes and reactions]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Time The Market (Or Not)]]></title>
         <id>https://every.to/divinations/how-to-time-the-market-or-not</id>
         <link href="https://every.to/divinations/how-to-time-the-market-or-not"/>
@@ -167,17 +167,17 @@
         <content type="html"><![CDATA[A Book Review of “Mastering the Market Cycle”]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mastering the MarketCycle, by Howard Marks]]></title>
+        <id>https://every.to/divinations/mastering-the-market-cycle-by-howard-marks</id>
+        <link href="https://every.to/divinations/mastering-the-market-cycle-by-howard-marks"/>
+        <updated>2022-05-20T17:48:09.429Z</updated>
+        <content type="html"><![CDATA[My chapter-by-chapter summary, with notes and reactions]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why Sh*t is Hitting the Fan]]></title>
         <id>https://every.to/divinations/why-sh-t-is-hitting-the-fan</id>
         <link href="https://every.to/divinations/why-sh-t-is-hitting-the-fan"/>
         <updated>2022-05-15T17:57:55.777Z</updated>
         <content type="html"><![CDATA[How the Fed accidentally scuttled<br data-owner="balance-text">your Series B, simply explained]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Map of a Downturn]]></title>
-        <id>https://every.to/divinations/map-of-a-downturn</id>
-        <link href="https://every.to/divinations/map-of-a-downturn"/>
-        <updated>2022-05-07T17:39:48.873Z</updated>
-        <content type="html"><![CDATA[Untangling the complex causal<br data-owner="balance-text">chain that makes good times go bad]]></content>
     </entry>
 </feed>
