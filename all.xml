@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Barabazs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-12T17:51:32.933Z</updated>
+    <updated>2022-12-13T05:44:48.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Artificial Unintelligence (Superorganizers)]]></title>
@@ -201,6 +201,13 @@
         <content type="html"><![CDATA[What I Learned From Listening to<br data-owner="balance-text">100 Episodes of the SPI Podcast]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Introducing: Praxis Fellows Essays (Praxis)]]></title>
+        <id>https://every.to/praxis/paranoid-productivity-dccd9d86-6ad0-4579-8329-2b2d5e3eef10</id>
+        <link href="https://every.to/praxis/paranoid-productivity-dccd9d86-6ad0-4579-8329-2b2d5e3eef10"/>
+        <updated>2021-12-27T05:37:24.434Z</updated>
+        <content type="html"><![CDATA[Hello Praxsters!I have something special to<br data-owner="balance-text">share with you&nbsp;today: the first contributions of<br data-owner="balance-text">our&nbsp;Praxis Writing Fellows!I recruited a few of]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Paranoid Productivity (Praxis)]]></title>
         <id>https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2</id>
         <link href="https://every.to/praxis/paranoid-productivity-c14ef47b-af8a-4bdc-b475-fd4da8dc6cc2"/>
@@ -213,13 +220,6 @@
         <link href="https://every.to/praxis/inner-limits"/>
         <updated>2021-12-27T05:37:24.434Z</updated>
         <content type="html"><![CDATA[Why You’re Not Getting More Out of Journaling]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing: Praxis Fellows Essays (Praxis)]]></title>
-        <id>https://every.to/praxis/paranoid-productivity-dccd9d86-6ad0-4579-8329-2b2d5e3eef10</id>
-        <link href="https://every.to/praxis/paranoid-productivity-dccd9d86-6ad0-4579-8329-2b2d5e3eef10"/>
-        <updated>2021-12-27T05:37:24.434Z</updated>
-        <content type="html"><![CDATA[Hello Praxsters!I have something special to<br data-owner="balance-text">share with you&nbsp;today: the first contributions of<br data-owner="balance-text">our&nbsp;Praxis Writing Fellows!I recruited a few of]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Modern Swipe File (Praxis)]]></title>
@@ -236,51 +236,27 @@
         <content type="html"><![CDATA[Over the last year I filmed a short documentary<br data-owner="balance-text">on the life and artistic career of my father<br data-owner="balance-text">Wayne Forte. He has been one of the strongest]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Complete Guide to Landing a Book Deal (Praxis)]]></title>
+        <id>https://every.to/praxis/the-complete-guide-to-landing-a-book-11294349</id>
+        <link href="https://every.to/praxis/the-complete-guide-to-landing-a-book-11294349"/>
+        <updated>2021-12-27T05:37:24.464Z</updated>
+        <content type="html"><![CDATA[I&nbsp;recently signed&nbsp;a six-figure book deal with<br data-owner="balance-text">Simon &amp;amp; Schuster for my book Building a<br data-owner="balance-text">Second Brain.&nbsp;
+As a first-time author, and in the]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ins and Outs of Offers (Praxis)]]></title>
+        <id>https://every.to/praxis/the-ins-and-outs-of-offers-11294416</id>
+        <link href="https://every.to/praxis/the-ins-and-outs-of-offers-11294416"/>
+        <updated>2021-12-27T05:37:24.438Z</updated>
+        <content type="html"><![CDATA[After you’ve written your proposal and sent<br data-owner="balance-text">it to publishers, the future of your book is in<br data-owner="balance-text">their hands.&nbsp;
+If you’ve done your job effectivel]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Introducing: How to Land a Book Deal (Praxis)]]></title>
         <id>https://every.to/praxis/introducing-how-to-land-a-book-deal-11295091</id>
         <link href="https://every.to/praxis/introducing-how-to-land-a-book-deal-11295091"/>
         <updated>2021-12-27T05:37:24.434Z</updated>
         <content type="html"><![CDATA[A Nine-Part Series, from Concept to Launch]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Own Your Writing Platform (Praxis)]]></title>
-        <id>https://every.to/praxis/own-your-writing-platform-11294360</id>
-        <link href="https://every.to/praxis/own-your-writing-platform-11294360"/>
-        <updated>2021-12-27T05:37:24.453Z</updated>
-        <content type="html"><![CDATA[Publishing a book is like running for political<br data-owner="balance-text">office.
-There are a lot of people out there who<br data-owner="balance-text">you want to take a certain action, at a cert]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launching Your Book (Praxis)]]></title>
-        <id>https://every.to/praxis/launching-your-book-11294430</id>
-        <link href="https://every.to/praxis/launching-your-book-11294430"/>
-        <updated>2021-12-27T05:37:24.435Z</updated>
-        <content type="html"><![CDATA[Everything you’ve done up to this point has been<br data-owner="balance-text">preparation for this singular moment: the launch<br data-owner="balance-text">of your book.
-An incredible amount of time]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evaluating Your Book Idea (Praxis)]]></title>
-        <id>https://every.to/praxis/evaluating-your-book-idea-11294355</id>
-        <link href="https://every.to/praxis/evaluating-your-book-idea-11294355"/>
-        <updated>2021-12-27T05:37:24.464Z</updated>
-        <content type="html"><![CDATA[In the beginning, is a message.
-You have<br data-owner="balance-text">something to say. A message that wants to get out<br data-owner="balance-text">of you. That&nbsp;needs&nbsp;to get out of you or else it w]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crafting a Book Proposal (Praxis)]]></title>
-        <id>https://every.to/praxis/crafting-a-book-proposal-11294365</id>
-        <link href="https://every.to/praxis/crafting-a-book-proposal-11294365"/>
-        <updated>2021-12-27T05:37:24.450Z</updated>
-        <content type="html"><![CDATA[Your proposal is like a business plan for your<br data-owner="balance-text">book.
-It needs to justify why your book is<br data-owner="balance-text">worth not just years of&nbsp;your&nbsp;time and effort, but]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding an Agent and Publisher (Praxis)]]></title>
-        <id>https://every.to/praxis/finding-an-agent-and-publisher-11294406</id>
-        <link href="https://every.to/praxis/finding-an-agent-and-publisher-11294406"/>
-        <updated>2021-12-27T05:37:24.441Z</updated>
-        <content type="html"><![CDATA[You should think of the people you’re working<br data-owner="balance-text">with at each stage of the publishing process as<br data-owner="balance-text">your publishing team.
-Each one contributes som]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Negotiating Your Contract (Praxis)]]></title>
@@ -299,20 +275,44 @@ Many of these contra]]></content>
 Leave plenty of time to]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Ins and Outs of Offers (Praxis)]]></title>
-        <id>https://every.to/praxis/the-ins-and-outs-of-offers-11294416</id>
-        <link href="https://every.to/praxis/the-ins-and-outs-of-offers-11294416"/>
-        <updated>2021-12-27T05:37:24.438Z</updated>
-        <content type="html"><![CDATA[After you’ve written your proposal and sent<br data-owner="balance-text">it to publishers, the future of your book is in<br data-owner="balance-text">their hands.&nbsp;
-If you’ve done your job effectivel]]></content>
+        <title type="html"><![CDATA[Finding an Agent and Publisher (Praxis)]]></title>
+        <id>https://every.to/praxis/finding-an-agent-and-publisher-11294406</id>
+        <link href="https://every.to/praxis/finding-an-agent-and-publisher-11294406"/>
+        <updated>2021-12-27T05:37:24.441Z</updated>
+        <content type="html"><![CDATA[You should think of the people you’re working<br data-owner="balance-text">with at each stage of the publishing process as<br data-owner="balance-text">your publishing team.
+Each one contributes som]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Complete Guide to Landing a Book Deal (Praxis)]]></title>
-        <id>https://every.to/praxis/the-complete-guide-to-landing-a-book-11294349</id>
-        <link href="https://every.to/praxis/the-complete-guide-to-landing-a-book-11294349"/>
+        <title type="html"><![CDATA[Crafting a Book Proposal (Praxis)]]></title>
+        <id>https://every.to/praxis/crafting-a-book-proposal-11294365</id>
+        <link href="https://every.to/praxis/crafting-a-book-proposal-11294365"/>
+        <updated>2021-12-27T05:37:24.450Z</updated>
+        <content type="html"><![CDATA[Your proposal is like a business plan for your<br data-owner="balance-text">book.
+It needs to justify why your book is<br data-owner="balance-text">worth not just years of&nbsp;your&nbsp;time and effort, but]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launching Your Book (Praxis)]]></title>
+        <id>https://every.to/praxis/launching-your-book-11294430</id>
+        <link href="https://every.to/praxis/launching-your-book-11294430"/>
+        <updated>2021-12-27T05:37:24.435Z</updated>
+        <content type="html"><![CDATA[Everything you’ve done up to this point has been<br data-owner="balance-text">preparation for this singular moment: the launch<br data-owner="balance-text">of your book.
+An incredible amount of time]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Own Your Writing Platform (Praxis)]]></title>
+        <id>https://every.to/praxis/own-your-writing-platform-11294360</id>
+        <link href="https://every.to/praxis/own-your-writing-platform-11294360"/>
+        <updated>2021-12-27T05:37:24.453Z</updated>
+        <content type="html"><![CDATA[Publishing a book is like running for political<br data-owner="balance-text">office.
+There are a lot of people out there who<br data-owner="balance-text">you want to take a certain action, at a cert]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evaluating Your Book Idea (Praxis)]]></title>
+        <id>https://every.to/praxis/evaluating-your-book-idea-11294355</id>
+        <link href="https://every.to/praxis/evaluating-your-book-idea-11294355"/>
         <updated>2021-12-27T05:37:24.464Z</updated>
-        <content type="html"><![CDATA[I&nbsp;recently signed&nbsp;a six-figure book deal with<br data-owner="balance-text">Simon &amp;amp; Schuster for my book Building a<br data-owner="balance-text">Second Brain.&nbsp;
-As a first-time author, and in the]]></content>
+        <content type="html"><![CDATA[In the beginning, is a message.
+You have<br data-owner="balance-text">something to say. A message that wants to get out<br data-owner="balance-text">of you. That&nbsp;needs&nbsp;to get out of you or else it w]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[P.A.R.A. Part 4 — A full setup guide (Praxis)]]></title>
@@ -876,18 +876,18 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <content type="html"><![CDATA[Scale, speed, or freedom: choose two]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering the MarketCycle, by Howard Marks (Divinations)]]></title>
-        <id>https://every.to/divinations/mastering-the-market-cycle-by-howard-marks</id>
-        <link href="https://every.to/divinations/mastering-the-market-cycle-by-howard-marks"/>
-        <updated>2022-05-20T17:48:09.429Z</updated>
-        <content type="html"><![CDATA[My chapter-by-chapter summary, with notes and reactions]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Time The Market (Or Not) (Divinations)]]></title>
         <id>https://every.to/divinations/how-to-time-the-market-or-not</id>
         <link href="https://every.to/divinations/how-to-time-the-market-or-not"/>
         <updated>2022-05-20T17:48:09.428Z</updated>
         <content type="html"><![CDATA[A Book Review of “Mastering the Market Cycle”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering the MarketCycle, by Howard Marks (Divinations)]]></title>
+        <id>https://every.to/divinations/mastering-the-market-cycle-by-howard-marks</id>
+        <link href="https://every.to/divinations/mastering-the-market-cycle-by-howard-marks"/>
+        <updated>2022-05-20T17:48:09.429Z</updated>
+        <content type="html"><![CDATA[My chapter-by-chapter summary, with notes and reactions]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Primary Trends I’mInvesting In Next Year (Napkin Math)]]></title>
@@ -2421,6 +2421,15 @@ Welcome back to the<br data-owner="balance-text">fourth installment in Tiago For
         <link href="https://Barabazs.github.io/feeds/all.xml"/>
         <updated>2022-12-12T17:43:18.539Z</updated>
         <content type="html"><![CDATA[<a href="/post/why-ship-30-is-the-best-writing-course-online" class="content-box _2em-bottom-margin w-inline-block"><div style="background-image:url(&quot;https://uploads-ssl.webflow.com/6083106780a2bf00f02fdf4b/621a843fbe8a989d07c9baf1_Radrad-Banner.png&quot;)" class="blog-post-feed-main-image _1-75em-bottom-margin"></div><h3 class="_700 _5em-bottom-margin">Why Ship 30 For 30 Is The Best Writing Course On The Internet Today</h3><div class="text-block-2">Read More →</div></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Issue #524 (Software Lead Weekly)]]></title>
+        <id>https://softwareleadweekly.com/issues/524</id>
+        <link href="https://softwareleadweekly.com/issues/524"/>
+        <updated>2022-12-13T05:38:38.259Z</updated>
+        <content type="html"><![CDATA[<div class="head-table-issue" data-v-192ce8d8=""><p class="title-table-issue" data-v-192ce8d8=""><a href="/issues/524" data-v-192ce8d8="" class=""><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="newspaper" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="svg-inline--fa fa-newspaper fa-w-18" style="height:20px;margin-right:6px;margin-bottom:2px" data-v-192ce8d8=""><path fill="currentColor" d="M552 64H88c-13.255 0-24 10.745-24 24v8H24c-13.255 0-24 10.745-24 24v272c0 30.928 25.072 56 56 56h472c26.51 0 48-21.49 48-48V88c0-13.255-10.745-24-24-24zM56 400a8 8 0 0 1-8-8V144h16v248a8 8 0 0 1-8 8zm236-16H140c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h152c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12zm208 0H348c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h152c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12zm-208-96H140c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h152c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12zm208 0H348c-6.627 0-12-5.373-12-12v-8c0-6.627 5.373-12 12-12h152c6.627 0 12 5.373 12 12v8c0 6.627-5.373 12-12 12zm0-96H140c-6.627 0-12-5.373-12-12v-40c0-6.627 5.373-12 12-12h360c6.627 0 12 5.373 12 12v40c0 6.627-5.373 12-12 12z" data-v-192ce8d8="" class=""></path></svg>Issue #524</a></p></div> <div class="body-table-issue" data-v-192ce8d8=""><p class="text-table-issue" data-v-192ce8d8="">
+                  9th December 2022
+                </p></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Issue #523 (Software Lead Weekly)]]></title>
