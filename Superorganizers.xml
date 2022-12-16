@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/superorganizers?sort=newest</id>
     <title>Superorganizers</title>
-    <updated>2022-12-16T05:44:39.006Z</updated>
+    <updated>2022-12-16T17:46:12.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[I Built an AI Chatbot BasedOn My Favorite Podcast]]></title>
+        <id>https://every.to/superorganizers/i-trained-a-gpt-3-chatbot-on-every-episode-of-my-favorite-podcast</id>
+        <link href="https://every.to/superorganizers/i-trained-a-gpt-3-chatbot-on-every-episode-of-my-favorite-podcast"/>
+        <updated>2022-12-16T17:35:02.955Z</updated>
+        <content type="html"><![CDATA[Here’s how I built it and what I learned about the future]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Artificial Unintelligence]]></title>
         <id>https://every.to/superorganizers/artificial-limits</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/superorganizers/against-ikigai"/>
         <updated>2022-04-08T05:36:14.787Z</updated>
         <content type="html"><![CDATA[And How to Move Toward a<br data-owner="balance-text">Diversified Portfolio of Meaning]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pile Avoidance]]></title>
-        <id>https://every.to/superorganizers/pile-avoidance</id>
-        <link href="https://every.to/superorganizers/pile-avoidance"/>
-        <updated>2022-03-29T17:38:39.850Z</updated>
-        <content type="html"><![CDATA[If you look closely at anything that you try to<br data-owner="balance-text">keep clean—like an email inbox, a product<br data-owner="balance-text">backlog, or a dishwasher—you’ll notice that they t]]></content>
     </entry>
 </feed>
