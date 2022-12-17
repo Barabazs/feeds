@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nfx.com/</id>
     <title>NFX</title>
-    <updated>2022-12-16T17:46:12.250Z</updated>
+    <updated>2022-12-17T05:42:07.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nfx.com/favicon-32x32.png</icon>
     <entry>
@@ -30,7 +30,7 @@
         <title type="html"><![CDATA[From Sick Care to Health Care: Why We Need Longevity Startups]]></title>
         <id>https://www.nfx.com/post/why-we-need-longevity-startups</id>
         <link href="https://www.nfx.com/post/why-we-need-longevity-startups"/>
-        <updated>2022-12-16T17:46:11.253Z</updated>
+        <updated>2022-12-16T17:46:11.252Z</updated>
         <content type="html"><![CDATA[<div class="hover:underline text-xl font-medium font-palatino relative"><a href="/post/why-we-need-longevity-startups">From Sick Care to Health Care: Why We Need Longevity Startups</a></div><div class="text-secondary text-xs font-sans uppercase"><a href="/library/bio">Bio</a></div>]]></content>
     </entry>
     <entry>
