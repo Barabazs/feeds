@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nfx.com/</id>
     <title>NFX</title>
-    <updated>2022-12-22T05:44:19.842Z</updated>
+    <updated>2022-12-22T17:44:09.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nfx.com/favicon-32x32.png</icon>
     <entry>
@@ -30,7 +30,7 @@
         <title type="html"><![CDATA[Why NFX Invested in Imagen: The AI-Powered Editing Platform for Professional Photographers]]></title>
         <id>https://www.nfx.com/post/why-nfx-invested-in-imagen</id>
         <link href="https://www.nfx.com/post/why-nfx-invested-in-imagen"/>
-        <updated>2022-12-22T05:44:18.717Z</updated>
+        <updated>2022-12-22T05:44:18.715Z</updated>
         <content type="html"><![CDATA[<div class="hover:underline text-xl font-medium font-palatino relative"><a href="/post/why-nfx-invested-in-imagen">Why NFX Invested in Imagen: The AI-Powered Editing Platform for Professional Photographers</a></div><div class="text-secondary text-xs font-sans uppercase"><a href="/library/generative-tech">Generative Tech</a><span>, </span><a href="/library/investment-memos">Investment Memos</a></div>]]></content>
     </entry>
     <entry>
