@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nfx.com/</id>
     <title>NFX</title>
-    <updated>2022-12-26T17:45:57.708Z</updated>
+    <updated>2022-12-27T05:42:16.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nfx.com/favicon-32x32.png</icon>
     <entry>
@@ -30,7 +30,7 @@
         <title type="html"><![CDATA[What Doesn’t Kill You, Mutates And Tries Again]]></title>
         <id>https://www.nfx.com/post/what-doesnt-kill-you-mutates</id>
         <link href="https://www.nfx.com/post/what-doesnt-kill-you-mutates"/>
-        <updated>2022-12-26T17:45:56.598Z</updated>
+        <updated>2022-12-26T17:45:56.597Z</updated>
         <content type="html"><![CDATA[<div class="hover:underline text-xl font-medium font-palatino relative"><a href="/post/what-doesnt-kill-you-mutates">What Doesn’t Kill You, Mutates And Tries Again</a></div><div class="text-secondary text-xs font-sans uppercase"><a href="/library/bio">Bio</a></div>]]></content>
     </entry>
     <entry>
