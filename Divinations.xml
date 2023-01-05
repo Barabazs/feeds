@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/divinations?sort=newest</id>
     <title>Divinations</title>
-    <updated>2023-01-04T17:43:56.462Z</updated>
+    <updated>2023-01-05T05:42:21.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Beware Flavored Software]]></title>
+        <id>https://every.to/divinations/beware-flavored-software</id>
+        <link href="https://every.to/divinations/beware-flavored-software"/>
+        <updated>2023-01-05T05:35:20.572Z</updated>
+        <content type="html"><![CDATA[If you’re building the tech equivalent of balsamic<br data-owner="balance-text">strawberry ice cream, don’t expect vanilla scale]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Prioritize a Roadmap]]></title>
         <id>https://every.to/divinations/how-to-prioritize-a-roadmap</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/divinations/what-kind-of-company-do-you-want-to-build"/>
         <updated>2022-06-30T17:49:36.062Z</updated>
         <content type="html"><![CDATA[Scale, speed, or freedom: choose two]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Time The Market (Or Not)]]></title>
-        <id>https://every.to/divinations/how-to-time-the-market-or-not</id>
-        <link href="https://every.to/divinations/how-to-time-the-market-or-not"/>
-        <updated>2023-01-04T05:37:11.418Z</updated>
-        <content type="html"><![CDATA[A Book Review of “Mastering the Market Cycle”]]></content>
     </entry>
 </feed>
