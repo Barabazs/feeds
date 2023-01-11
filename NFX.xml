@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nfx.com/</id>
     <title>NFX</title>
-    <updated>2023-01-11T05:38:34.541Z</updated>
+    <updated>2023-01-11T17:46:29.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nfx.com/favicon-32x32.png</icon>
     <entry>
@@ -30,7 +30,7 @@
         <title type="html"><![CDATA[Deal or Die: Your 3-Part Guide to  Business Development in TechBio]]></title>
         <id>https://www.nfx.com/post/deal-or-die-guide-to-development-in-techbio</id>
         <link href="https://www.nfx.com/post/deal-or-die-guide-to-development-in-techbio"/>
-        <updated>2023-01-11T05:38:33.333Z</updated>
+        <updated>2023-01-11T05:38:33.332Z</updated>
         <content type="html"><![CDATA[<div class="hover:underline text-xl font-medium font-palatino relative"><a href="/post/deal-or-die-guide-to-development-in-techbio">Deal or Die: Your 3-Part Guide to  Business Development in TechBio</a></div><div class="text-secondary text-xs font-sans uppercase"><a href="/library/bio">Bio</a></div>]]></content>
     </entry>
     <entry>
