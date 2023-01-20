@@ -2,44 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/superorganizers?sort=newest</id>
     <title>Superorganizers</title>
-    <updated>2023-01-20T05:40:05.359Z</updated>
+    <updated>2023-01-20T17:51:59.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[GPT-3 Is the Best Journal I’ve Ever Used]]></title>
-        <id>https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used</id>
-        <link href="https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used"/>
-        <updated>2023-01-14T05:35:31.195Z</updated>
-        <content type="html"><![CDATA[My slow and steady progression to<br data-owner="balance-text">living out the plot of the movie 'Her']]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The End of Organizing]]></title>
-        <id>https://every.to/superorganizers/the-end-of-organizing</id>
-        <link href="https://every.to/superorganizers/the-end-of-organizing"/>
-        <updated>2023-01-07T05:34:52.635Z</updated>
-        <content type="html"><![CDATA[How GPT-3 will turn your notes<br data-owner="balance-text">into an *actual* second brain]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here’s What I Saw at an AI Hackathon]]></title>
-        <id>https://every.to/superorganizers/the-knee-of-the-exponential-curve</id>
-        <link href="https://every.to/superorganizers/the-knee-of-the-exponential-curve"/>
-        <updated>2022-12-21T05:35:06.356Z</updated>
-        <content type="html"><![CDATA[AI gossip, celebrity sightings, tech<br data-owner="balance-text">trends—and some great projects]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built an AI Chatbot BasedOn My Favorite Podcast]]></title>
-        <id>https://every.to/superorganizers/i-trained-a-gpt-3-chatbot-on-every-episode-of-my-favorite-podcast</id>
-        <link href="https://every.to/superorganizers/i-trained-a-gpt-3-chatbot-on-every-episode-of-my-favorite-podcast"/>
-        <updated>2022-12-16T17:35:02.955Z</updated>
-        <content type="html"><![CDATA[Here’s how I built it and what I learned about the future]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artificial Unintelligence]]></title>
-        <id>https://every.to/superorganizers/artificial-limits</id>
-        <link href="https://every.to/superorganizers/artificial-limits"/>
-        <updated>2022-12-11T17:34:41.855Z</updated>
-        <content type="html"><![CDATA[Returning risky results is a dimension<br data-owner="balance-text">of performance for AI models]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[How to Improve Your Creative Thinking]]></title>
         <id>https://every.to/superorganizers/understanding-the-science-of-creativity</id>
@@ -48,32 +13,11 @@
         <content type="html"><![CDATA[The science of creativity—and how to unlock it]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linus Lee Is Living With AI]]></title>
-        <id>https://every.to/superorganizers/linus-lee-is-living-with-ai</id>
-        <link href="https://every.to/superorganizers/linus-lee-is-living-with-ai"/>
-        <updated>2022-12-03T17:35:19.913Z</updated>
-        <content type="html"><![CDATA[How a researcher uses generative AI to<br data-owner="balance-text">help him think better and get more done]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The End of Effective Altruism?]]></title>
         <id>https://every.to/superorganizers/the-end-of-effective-altruism</id>
         <link href="https://every.to/superorganizers/the-end-of-effective-altruism"/>
         <updated>2022-11-19T05:36:56.364Z</updated>
         <content type="html"><![CDATA[Success has many philosophical<br data-owner="balance-text">bedfellows; frauds have none]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI and the Age of the Individual]]></title>
-        <id>https://every.to/superorganizers/ai-and-the-age-of-the-individual</id>
-        <link href="https://every.to/superorganizers/ai-and-the-age-of-the-individual"/>
-        <updated>2022-11-12T05:39:03.337Z</updated>
-        <content type="html"><![CDATA[When intelligence is cheap individuals win]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative AIs Narrow the Taste Gap]]></title>
-        <id>https://every.to/superorganizers/generative-ais-narrow-the-taste-gap</id>
-        <link href="https://every.to/superorganizers/generative-ais-narrow-the-taste-gap"/>
-        <updated>2022-11-05T05:37:35.399Z</updated>
-        <content type="html"><![CDATA[Musings from the frontier of AI and the written word]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Art and Science of Interoception]]></title>
@@ -179,5 +123,61 @@
         <link href="https://every.to/superorganizers/the-neuroscience-of-achieving-your-goals"/>
         <updated>2022-05-15T17:57:39.764Z</updated>
         <content type="html"><![CDATA[We turned a Huberman Lab Podcast Episode into an essay]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Do Hard Things]]></title>
+        <id>https://every.to/superorganizers/how-to-do-hard-things</id>
+        <link href="https://every.to/superorganizers/how-to-do-hard-things"/>
+        <updated>2023-01-20T17:35:02.283Z</updated>
+        <content type="html"><![CDATA[A founder explores his journey with<br data-owner="balance-text">Acceptance and Commitment Therapy (ACT)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Tamed Panic]]></title>
+        <id>https://every.to/superorganizers/how-i-tamed-panic</id>
+        <link href="https://every.to/superorganizers/how-i-tamed-panic"/>
+        <updated>2023-01-20T17:35:02.290Z</updated>
+        <content type="html"><![CDATA[A Comprehensive Guide to an Unfortunate Experience]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Against Ikigai]]></title>
+        <id>https://every.to/superorganizers/against-ikigai</id>
+        <link href="https://every.to/superorganizers/against-ikigai"/>
+        <updated>2023-01-20T17:35:02.290Z</updated>
+        <content type="html"><![CDATA[And How to Move Toward a<br data-owner="balance-text">Diversified Portfolio of Meaning]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pile Avoidance]]></title>
+        <id>https://every.to/superorganizers/pile-avoidance</id>
+        <link href="https://every.to/superorganizers/pile-avoidance"/>
+        <updated>2023-01-20T17:35:02.291Z</updated>
+        <content type="html"><![CDATA[If you look closely at anything that you try to<br data-owner="balance-text">keep clean—like an email inbox, a product<br data-owner="balance-text">backlog, or a dishwasher—you’ll notice that they t]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Feedback Decision Tree]]></title>
+        <id>https://every.to/superorganizers/the-feedback-decision-tree-5eb36f38-335e-4682-8f1c-36acc2a8aeb1</id>
+        <link href="https://every.to/superorganizers/the-feedback-decision-tree-5eb36f38-335e-4682-8f1c-36acc2a8aeb1"/>
+        <updated>2023-01-20T17:35:02.292Z</updated>
+        <content type="html"><![CDATA[How to Give Feedback to Your Colleagues]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Following the White-Hot Fire Inside of You]]></title>
+        <id>https://every.to/superorganizers/the-white-hot-fire-inside-of-you</id>
+        <link href="https://every.to/superorganizers/the-white-hot-fire-inside-of-you"/>
+        <updated>2023-01-20T17:35:02.292Z</updated>
+        <content type="html"><![CDATA[In the Studio with Painter Brian Rutenberg]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing Your Manager]]></title>
+        <id>https://every.to/superorganizers/managing-your-manager</id>
+        <link href="https://every.to/superorganizers/managing-your-manager"/>
+        <updated>2023-01-20T17:35:02.293Z</updated>
+        <content type="html"><![CDATA[How Helping Your Manager<br data-owner="balance-text">Succeed Will Help You Succeed]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You’re Not Doing Creative Work]]></title>
+        <id>https://every.to/superorganizers/why-you-re-not-doing-creative-work</id>
+        <link href="https://every.to/superorganizers/why-you-re-not-doing-creative-work"/>
+        <updated>2023-01-20T17:35:02.293Z</updated>
+        <content type="html"><![CDATA[And how to start again even if you don't have time]]></content>
     </entry>
 </feed>
