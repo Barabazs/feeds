@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nfx.com/</id>
     <title>NFX</title>
-    <updated>2023-01-24T17:44:54.031Z</updated>
+    <updated>2023-01-25T05:43:12.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nfx.com/favicon-32x32.png</icon>
     <entry>
@@ -30,7 +30,7 @@
         <title type="html"><![CDATA[Building Your Startup’s Attention Flywheel]]></title>
         <id>https://www.nfx.com/post/building-startup-attention-flywheel</id>
         <link href="https://www.nfx.com/post/building-startup-attention-flywheel"/>
-        <updated>2023-01-24T17:44:52.800Z</updated>
+        <updated>2023-01-24T17:44:52.799Z</updated>
         <content type="html"><![CDATA[<div class="hover:underline text-xl font-medium font-palatino relative"><a href="/post/building-startup-attention-flywheel">Building Your Startup’s Attention Flywheel</a></div><div class="text-secondary text-xs font-sans uppercase"><a href="/library/growth">Growth</a></div>]]></content>
     </entry>
     <entry>
