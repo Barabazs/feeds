@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/divinations?sort=newest</id>
     <title>Divinations</title>
-    <updated>2023-01-25T05:43:12.193Z</updated>
+    <updated>2023-01-26T05:42:19.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Advice for Building in AI]]></title>
+        <id>https://every.to/divinations/advice-for-building-in-ai</id>
+        <link href="https://every.to/divinations/advice-for-building-in-ai"/>
+        <updated>2023-01-26T05:35:31.607Z</updated>
+        <content type="html"><![CDATA[Separating the signal from the noise]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Physics Explains Business]]></title>
         <id>https://every.to/divinations/how-physics-explains-business</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/divinations/instagram-s-existential-bet"/>
         <updated>2022-07-28T05:44:02.518Z</updated>
         <content type="html"><![CDATA[They’re betting the farm on Reels.<br data-owner="balance-text">Will it blow up in their face?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding Power: How To Do Market Analysis]]></title>
-        <id>https://every.to/divinations/finding-power-how-to-do-market-analysis</id>
-        <link href="https://every.to/divinations/finding-power-how-to-do-market-analysis"/>
-        <updated>2022-07-21T05:46:54.592Z</updated>
-        <content type="html"><![CDATA[A step-by-step process for uncovering the<br data-owner="balance-text">power dynamics that govern any industry]]></content>
     </entry>
 </feed>
