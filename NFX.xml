@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nfx.com/</id>
     <title>NFX</title>
-    <updated>2023-02-10T17:39:20.693Z</updated>
+    <updated>2023-02-11T05:40:45.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nfx.com/favicon-32x32.png</icon>
     <entry>
@@ -30,7 +30,7 @@
         <title type="html"><![CDATA[5 Years In]]></title>
         <id>https://www.nfx.com/post/nfx-5-years-in-seed-preseed-vc</id>
         <link href="https://www.nfx.com/post/nfx-5-years-in-seed-preseed-vc"/>
-        <updated>2023-02-10T17:39:19.532Z</updated>
+        <updated>2023-02-10T17:39:19.521Z</updated>
         <content type="html"><![CDATA[<div class="hover:underline text-xl font-medium font-palatino relative"><a href="/post/nfx-5-years-in-seed-preseed-vc">5 Years In</a></div><div class="text-secondary text-xs font-sans uppercase"><a href="/library/announcements">Announcements</a></div>]]></content>
     </entry>
     <entry>
