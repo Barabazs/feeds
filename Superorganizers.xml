@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/superorganizers?sort=newest</id>
     <title>Superorganizers</title>
-    <updated>2023-02-14T17:43:16.322Z</updated>
+    <updated>2023-02-15T05:41:26.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://every.to/superorganizers/the-art-and-science-of-interoception"/>
         <updated>2022-10-28T17:44:33.657Z</updated>
         <content type="html"><![CDATA[How to become an intrepid explorer of your inner landscape]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tactical Mindfulness]]></title>
-        <id>https://every.to/superorganizers/tactical-mindfulness</id>
-        <link href="https://every.to/superorganizers/tactical-mindfulness"/>
-        <updated>2023-02-14T17:36:13.524Z</updated>
-        <content type="html"><![CDATA[How to design a program to train your mind]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fear, Courage, and Willingness]]></title>
@@ -67,13 +60,6 @@
         <link href="https://every.to/superorganizers/the-unreasonable-effectiveness-of-1-1-learning"/>
         <updated>2022-08-07T05:36:16.186Z</updated>
         <content type="html"><![CDATA[How to learn anything 98% better than average]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to break the anxiety-fear-avoidance cycle]]></title>
-        <id>https://every.to/superorganizers/how-to-break-the-anxiety-fear-avoidance-cycle</id>
-        <link href="https://every.to/superorganizers/how-to-break-the-anxiety-fear-avoidance-cycle"/>
-        <updated>2023-02-14T17:36:13.528Z</updated>
-        <content type="html"><![CDATA[Using ACT to move toward what matters.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[You Grow from Your Edges]]></title>
@@ -125,13 +111,6 @@
         <content type="html"><![CDATA[We turned a Huberman Lab Podcast Episode into an essay]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Do Hard Things]]></title>
-        <id>https://every.to/superorganizers/how-to-do-hard-things</id>
-        <link href="https://every.to/superorganizers/how-to-do-hard-things"/>
-        <updated>2023-02-14T17:36:13.531Z</updated>
-        <content type="html"><![CDATA[A founder explores his journey with<br data-owner="balance-text">Acceptance and Commitment Therapy (ACT)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How I Tamed Panic]]></title>
         <id>https://every.to/superorganizers/how-i-tamed-panic</id>
         <link href="https://every.to/superorganizers/how-i-tamed-panic"/>
@@ -179,5 +158,26 @@
         <link href="https://every.to/superorganizers/why-you-re-not-doing-creative-work"/>
         <updated>2023-01-20T17:35:02.293Z</updated>
         <content type="html"><![CDATA[And how to start again even if you don't have time]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fall of Roam]]></title>
+        <id>https://every.to/superorganizers/the-fall-of-roam</id>
+        <link href="https://every.to/superorganizers/the-fall-of-roam"/>
+        <updated>2023-02-15T05:35:59.770Z</updated>
+        <content type="html"><![CDATA[I don’t use Roam anymore. Why?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Win the Great British Bake Off]]></title>
+        <id>https://every.to/superorganizers/peter-sawkins</id>
+        <link href="https://every.to/superorganizers/peter-sawkins"/>
+        <updated>2023-02-15T05:35:59.775Z</updated>
+        <content type="html"><![CDATA[Peter Sawkins Sits Down to Discuss<br data-owner="balance-text">Framing, Faith, and Finding His Path]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andrew Huberman’s MorningRoutine, Backed by Neuroscience]]></title>
+        <id>https://every.to/superorganizers/andrew-huberman-s-morning-routine-backed-by-neuroscience</id>
+        <link href="https://every.to/superorganizers/andrew-huberman-s-morning-routine-backed-by-neuroscience"/>
+        <updated>2023-02-15T05:35:59.779Z</updated>
+        <content type="html"><![CDATA[A Summary of How the Podcast Host Starts His Day]]></content>
     </entry>
 </feed>
