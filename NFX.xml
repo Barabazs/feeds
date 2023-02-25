@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.nfx.com/</id>
     <title>NFX</title>
-    <updated>2023-02-24T17:38:01.616Z</updated>
+    <updated>2023-02-25T05:36:31.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.nfx.com/favicon-32x32.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://www.nfx.com/</id>
         <link href="https://www.nfx.com/"/>
-        <updated>2023-02-24T17:37:58.774Z</updated>
+        <updated>2023-02-25T05:36:28.958Z</updated>
         <content type="html"><![CDATA[The Founder Library]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://www.nfx.com/</id>
         <link href="https://www.nfx.com/"/>
-        <updated>2023-02-24T17:37:58.775Z</updated>
+        <updated>2023-02-25T05:36:28.970Z</updated>
         <content type="html"><![CDATA[<a class="text-white rounded bg-secondary px-2 py-1 text-xs hover:text-black transition-colors duration-500" href="/library/bio">Bio</a><a class="text-white rounded bg-secondary px-2 py-1 text-xs hover:text-black transition-colors duration-500" href="/library/web3">Web3</a><a class="text-white rounded bg-secondary px-2 py-1 text-xs hover:text-black transition-colors duration-500" href="/library/gaming">Gaming</a><a class="text-white rounded bg-secondary px-2 py-1 text-xs hover:text-black transition-colors duration-500" href="/library/generative-tech">Generative Tech</a><a class="text-white rounded bg-secondary px-2 py-1 text-xs hover:text-black transition-colors duration-500" href="/library/proptech">Proptech</a><a class="text-white rounded bg-secondary px-2 py-1 text-xs hover:text-black transition-colors duration-500" href="/library/latam">LatAm</a><a class="text-white rounded bg-secondary px-2 py-1 text-xs hover:text-black transition-colors duration-500" href="/library/israel">Israel</a><a class="text-white rounded bg-secondary px-2 py-1 text-xs hover:text-black transition-colors duration-500" href="/library/space">Space</a><a class="text-white rounded bg-secondary px-2 py-1 text-xs hover:text-black transition-colors duration-500" href="/library/fintech">Fintech</a><a class="text-white rounded bg-secondary px-2 py-1 text-xs hover:text-black transition-colors duration-500" href="/library/marketplaces">Marketplaces</a>]]></content>
     </entry>
     <entry>
@@ -30,7 +30,7 @@
         <title type="html"><![CDATA[3 Waves of Successful Generative Tech Startups]]></title>
         <id>https://www.nfx.com/post/3-waves-generative-ai-startups</id>
         <link href="https://www.nfx.com/post/3-waves-generative-ai-startups"/>
-        <updated>2023-02-24T17:38:00.460Z</updated>
+        <updated>2023-02-24T17:38:00.459Z</updated>
         <content type="html"><![CDATA[<div class="hover:underline text-xl font-medium font-palatino relative"><a href="/post/3-waves-generative-ai-startups">3 Waves of Successful Generative Tech Startups&nbsp;</a></div><div class="text-secondary text-xs font-sans uppercase"><a href="/library/generative-tech">Generative Tech</a></div>]]></content>
     </entry>
     <entry>
