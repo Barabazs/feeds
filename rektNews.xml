@@ -2,91 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rekt.news/</id>
     <title>Rekt.news</title>
-    <updated>2023-03-01T17:38:45.397Z</updated>
+    <updated>2023-03-02T05:37:13.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://raw.githubusercontent.com/RektHQ/Assets/main/images/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-03-01T17:38:32.352Z</updated>
+        <updated>2023-03-02T05:37:01.850Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title featured"><a href="/hope-finance-rekt/"> <!-- -->Hope Finance - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, February 22, 2023</time><p><span><a href="/?tag=Hope+Finance">Hope Finance</a></span><span> - <a href="/?tag=Rugpull">Rugpull</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Abandon Hope all ye who enter here. $1.86M was rugged from Hope Finance yesterday. It’s impossible to know whether the doxxed individual accused by the team is truly to blame. Don’t get your Hopes up.</p><p class="post-excerpt-more"><a href="/hope-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-03-01T17:38:32.352Z</updated>
+        <updated>2023-03-02T05:37:01.850Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/dexible-rekt/"> <!-- -->Dexible - REKT</a></h5><hr><span class="post-meta"><time>Monday, February 20, 2023</time><p><span><a href="/?tag=Dexible">Dexible</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Crisis-comms calamity as cross-chain chaos continues… Dexible lost a total of $2M on Friday, on Ethereum and Arbitrum. In Dexible’s own words... "exploits happen in DeFi."</p><p class="post-excerpt-more"><a href="/dexible-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-03-01T17:38:32.355Z</updated>
+        <updated>2023-03-02T05:37:01.851Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/platypus-finance-rekt/"> <!-- -->Platypus Finance - REKT</a></h5><hr><span class="post-meta"><time>Thursday, February 16, 2023</time><p><span><a href="/?tag=Platypus+Finance">Platypus Finance</a></span><span> - <a href="/?tag=Avalanche">Avalanche</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Evolution works in mysterious ways. Platypus Finance lost $8.5M to a flash loan attack on its recently-launched stablecoin. It’s a jungle out there... and, as ever, it’s survival of the fittest.</p><p class="post-excerpt-more"><a href="/platypus-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-03-01T17:38:32.360Z</updated>
+        <updated>2023-03-02T05:37:01.852Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/dforce-network-rekt/"> <!-- -->dForce Network - REKT</a></h5><hr><span class="post-meta"><time>Monday, February 13, 2023</time><p><span><a href="/?tag=dForce+Network">dForce Network</a></span><span> - <a href="/?tag=Arbitrum">Arbitrum</a></span><span> - <a href="/?tag=Optimism">Optimism</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>dForce Network was hit for $3.65M on both Arbitrum and Optimism. This attack on two fronts exploited a common reentrancy vulnerability. How much more will be lost to this bug?</p><p class="post-excerpt-more"><a href="/dforce-network-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-03-01T17:38:32.362Z</updated>
+        <updated>2023-03-02T05:37:01.853Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/orion-protocol-rekt/"> <!-- -->Orion Protocol - REKT</a></h5><hr><span class="post-meta"><time>Saturday, February 4, 2023</time><p><span><a href="/?tag=Orion+Protocol">Orion Protocol</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>The hunter has become the hunted. Orion Protocol fell prey to a  $3M reentrancy exploit on ETH and BSC. The loss was contained to an internal broker account and user funds are safe. Let's hope they take a more Sirius approach in future.</p><p class="post-excerpt-more"><a href="/orion-protocol-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-03-01T17:38:32.366Z</updated>
+        <updated>2023-03-02T05:37:01.854Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/bonq-rekt/"> <!-- -->BonqDAO - REKT</a></h5><hr><span class="post-meta"><time>Friday, February 3, 2023</time><p><span><a href="/?tag=BonqDAO">BonqDAO</a></span><span> - <a href="/?tag=AllianceBlock">AllianceBlock</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>BonqDAO got bonked for $120M, but the anonymous attacker got away with less than $2M. The hacker was able to manually update the price feed of collateral by staking just $175 worth of TRB tokens.</p><p class="post-excerpt-more"><a href="/bonq-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-03-01T17:38:32.368Z</updated>
+        <updated>2023-03-02T05:37:01.855Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/midas-capital-rekt/"> <!-- -->Midas Capital - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, January 17, 2023</time><p><span><a href="/?tag=Midas+Capital">Midas Capital</a></span><span> - <a href="/?tag=Jarvis+Network">Jarvis Network</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>The Midas touch has backfired, leaving a $660K hole in one of its jFIAT pools. The read-only reentrancy vulnerability is a known weakness of a recently introduced collateral type. Let’s hope this rushed decision doesn’t prove to be Midas’ undoing this time…</p><p class="post-excerpt-more"><a href="/midas-capital-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-03-01T17:38:32.371Z</updated>
+        <updated>2023-03-02T05:37:01.856Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/war-on-code/"> <!-- -->War On Code - rekt.news meets The Defiant</a></h5><hr><span class="post-meta"><time>Thursday, December 29, 2022</time><p><span><a href="/?tag=Pertsev">Pertsev</a></span><span> - <a href="/?tag=Regulation">Regulation</a></span><span> - <a href="/?tag=Interview">Interview</a></span></p></span><hr></header><section class="post-excerpt"><p>When overall integrity in cryptocurrency is at an all time low, the importance of unbiased &amp; quality journalism becomes increasingly clear. rekt.news speaks to The Defiant about Alexey Pertsev and the current state of crypto journalism.</p><p class="post-excerpt-more"><a href="/war-on-code/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-03-01T17:38:32.373Z</updated>
+        <updated>2023-03-02T05:37:01.859Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/avi-arrested/"> <!-- -->Highly regrettable trading strategy</a></h5><hr><span class="post-meta"><time>Wednesday, December 28, 2022</time><p><span><a href="/?tag=Avraham+Eisenberg">Avraham Eisenberg</a></span><span> - <a href="/?tag=Mango+Markets">Mango Markets</a></span></p></span><hr></header><section class="post-excerpt"><p>Code is not law. Avraham Eisenberg has been arrested in Puerto Rico. Despite the satisfaction of seeing this arrogant aggressor finally arrested, the consequences of his case do not look good for DeFi.</p><p class="post-excerpt-more"><a href="/avi-arrested/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[9]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-03-01T17:38:32.377Z</updated>
+        <updated>2023-03-02T05:37:01.860Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/raydium-rekt/"> <!-- -->Raydium - REKT</a></h5><hr><span class="post-meta"><time>Monday, December 19, 2022</time><p><span><a href="/?tag=Raydium">Raydium</a></span><span> - <a href="/?tag=Solana">Solana</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>On Friday, Raydium, a Solana-based AMM, lost a total of $4.4M in fees from its liquidity pools. Post-FTX, the future of Solana feels uncertain...</p><p class="post-excerpt-more"><a href="/raydium-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-03-01T17:38:32.379Z</updated>
+        <updated>2023-03-02T05:37:01.862Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/lodestar-rekt/"> <!-- -->Lodestar Finance - REKT</a></h5><hr><span class="post-meta"><time>Monday, December 12, 2022</time><p><span><a href="/?tag=Lodestar+Finance">Lodestar Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Lodestar Finance is the latest victim of the mass market manipulation that has affected both people and protocols across our industry. Lending pools drained for $6.5M put Lodestar at number 77 on the leaderboard.</p><p class="post-excerpt-more"><a href="/lodestar-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[11]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-03-01T17:38:32.380Z</updated>
+        <updated>2023-03-02T05:37:01.863Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/ankr-helio-rekt/"> <!-- -->Ankr &amp; Helio - REKT</a></h5><hr><span class="post-meta"><time>Friday, December 2, 2022</time><p><span><a href="/?tag=Ankr">Ankr</a></span><span> - <a href="/?tag=Helio">Helio</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>18 quadrillion dollars. That’s the theoretical value of the 60 trillion aBNBc that was illegitimately minted from Ankr. Unfortunately, that’s more than the GDP of the entire world, and the aBNBc liquidity couldn’t stretch that far, so the hacker only got away with $5M.</p><p class="post-excerpt-more"><a href="/ankr-helio-rekt/">MORE</a></p></section>]]></content>
     </entry>
 </feed>
