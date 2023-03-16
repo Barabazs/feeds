@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/divinations?sort=newest</id>
     <title>Divinations</title>
-    <updated>2023-03-15T17:37:29.142Z</updated>
+    <updated>2023-03-16T05:36:22.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LLMs are the new CPUs]]></title>
+        <id>https://every.to/divinations/llms-are-the-new-cpus</id>
+        <link href="https://every.to/divinations/llms-are-the-new-cpus"/>
+        <updated>2023-03-16T05:35:21.986Z</updated>
+        <content type="html"><![CDATA[…but is OpenAI the new Intel?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Book Review: Mastery]]></title>
         <id>https://every.to/divinations/book-review-mastery</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/divinations/what-is-a-business"/>
         <updated>2022-09-15T06:27:28.866Z</updated>
         <content type="html"><![CDATA[An expansive question that has surprisingly practical value]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Book Review: Slouching Towards Utopia]]></title>
-        <id>https://every.to/divinations/book-review-slouching-towards-utopia</id>
-        <link href="https://every.to/divinations/book-review-slouching-towards-utopia"/>
-        <updated>2022-09-08T06:27:04.634Z</updated>
-        <content type="html"><![CDATA[The origins of economic progress, and what comes next]]></content>
     </entry>
 </feed>
