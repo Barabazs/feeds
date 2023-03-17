@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2023-03-17T05:35:55.733Z</updated>
+    <updated>2023-03-17T17:36:18.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Technology Is Good Actually]]></title>
+        <id>https://every.to/napkin-math/technology-is-good-actually</id>
+        <link href="https://every.to/napkin-math/technology-is-good-actually"/>
+        <updated>2023-03-17T17:35:21.825Z</updated>
+        <content type="html"><![CDATA[Startups screw up sometimes, but making<br data-owner="balance-text">things cheaper is a moral necessity]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Dearth of Secrets, an Excessof Capital: SVB’s Explosion]]></title>
         <id>https://every.to/napkin-math/a-dearth-of-secrets-an-excess-of-capital-svb-s-explosion</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/what-i-learned-from-being-cancer-free"/>
         <updated>2022-09-09T06:08:57.522Z</updated>
         <content type="html"><![CDATA[Seven Years of Freedom]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finance is Narrative Not Numbers]]></title>
-        <id>https://every.to/napkin-math/finance-is-narrative-not-numbers</id>
-        <link href="https://every.to/napkin-math/finance-is-narrative-not-numbers"/>
-        <updated>2022-08-26T17:44:33.968Z</updated>
-        <content type="html"><![CDATA[The Subtle Art of Manipulating CFOs]]></content>
     </entry>
 </feed>
