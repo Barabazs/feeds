@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/divinations?sort=newest</id>
     <title>Divinations</title>
-    <updated>2023-03-29T18:07:16.065Z</updated>
+    <updated>2023-03-30T05:37:07.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[OpenAI: the Next Tech Giant?]]></title>
+        <id>https://every.to/divinations/openai-the-next-tech-giant</id>
+        <link href="https://every.to/divinations/openai-the-next-tech-giant"/>
+        <updated>2023-03-30T05:35:40.054Z</updated>
+        <content type="html"><![CDATA[Reading the tea leaves and reacting to the hype]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Supercharging My Focus (with Help from AI)]]></title>
         <id>https://every.to/divinations/finding-focus-with-help-from-ai</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/divinations/the-infinite-article"/>
         <updated>2022-09-29T06:41:38.107Z</updated>
         <content type="html"><![CDATA[How close are we to having a personal AI<br data-owner="balance-text">that can write the perfect thing just for us?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Figma’s Layered Lessons]]></title>
-        <id>https://every.to/divinations/figma-s-layered-lessons</id>
-        <link href="https://every.to/divinations/figma-s-layered-lessons"/>
-        <updated>2022-09-22T06:47:05.387Z</updated>
-        <content type="html"><![CDATA[Or, how to learn something useful from big events]]></content>
     </entry>
 </feed>
