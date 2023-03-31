@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2023-03-30T05:37:07.433Z</updated>
+    <updated>2023-03-31T05:36:28.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tinder Is Way MoreImportant Than You Think]]></title>
+        <id>https://every.to/napkin-math/tinder-is-way-more-important-than-you-think</id>
+        <link href="https://every.to/napkin-math/tinder-is-way-more-important-than-you-think"/>
+        <updated>2023-03-31T05:35:27.705Z</updated>
+        <content type="html"><![CDATA[Forget AI, the people want to bone]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How AI Changes the Media Business]]></title>
         <id>https://every.to/napkin-math/how-ai-changes-the-media-business</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/the-ai-writer"/>
         <updated>2022-09-23T17:53:48.384Z</updated>
         <content type="html"><![CDATA[How tech is changing what it means to be an author]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Creation Goes To Zero]]></title>
-        <id>https://every.to/napkin-math/when-creation-goes-to-zero</id>
-        <link href="https://every.to/napkin-math/when-creation-goes-to-zero"/>
-        <updated>2022-09-16T17:56:29.478Z</updated>
-        <content type="html"><![CDATA[Skynet Who?]]></content>
     </entry>
 </feed>
