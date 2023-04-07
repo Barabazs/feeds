@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2023-04-06T17:37:26.817Z</updated>
+    <updated>2023-04-07T17:36:18.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[We Don’t Know Enough Aboutthe Pornhub Acquisition]]></title>
+        <id>https://every.to/napkin-math/we-don-t-know-enough-about-the-pornhub-sale</id>
+        <link href="https://every.to/napkin-math/we-don-t-know-enough-about-the-pornhub-sale"/>
+        <updated>2023-04-07T17:35:21.763Z</updated>
+        <content type="html"><![CDATA[One of the world’s most important<br data-owner="balance-text">websites was sold and nobody cares]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tinder Is Way MoreImportant Than You Think]]></title>
         <id>https://every.to/napkin-math/tinder-is-way-more-important-than-you-think</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/why-culture-eats-strategy"/>
         <updated>2022-09-30T06:37:17.681Z</updated>
         <content type="html"><![CDATA[The Search For the Winning Formula]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI Writer]]></title>
-        <id>https://every.to/napkin-math/the-ai-writer</id>
-        <link href="https://every.to/napkin-math/the-ai-writer"/>
-        <updated>2022-09-23T17:53:48.384Z</updated>
-        <content type="html"><![CDATA[How tech is changing what it means to be an author]]></content>
     </entry>
 </feed>
