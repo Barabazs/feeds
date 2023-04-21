@@ -2,91 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rekt.news/</id>
     <title>Rekt.news</title>
-    <updated>2023-04-21T05:35:53.184Z</updated>
+    <updated>2023-04-21T17:36:57.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://raw.githubusercontent.com/RektHQ/Assets/main/images/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-04-21T05:35:40.978Z</updated>
+        <updated>2023-04-21T17:36:42.918Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title featured"><a href="/hundred-rekt2/"> <!-- -->Hundred Finance - REKT 2</a></h5><hr><span class="post-meta"><time>Tuesday, April 18, 2023</time><p><span><a href="/?tag=Hundred+Finance">Hundred Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>On April 15th, Hundred Finance suffered a $7.4M exploit on Optimism. This is the protocol's first solo article, after having shared the stage with both Agave DAO and Meter. With Hundred’s leaderboard total now standing at $16.9M… what was it this time?</p><p class="post-excerpt-more"><a href="/hundred-rekt2/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-04-21T05:35:40.979Z</updated>
+        <updated>2023-04-21T17:36:42.920Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/yearn2-rekt/"> <!-- -->Yearn - REKT 2</a></h5><hr><span class="post-meta"><time>Thursday, April 13, 2023</time><p><span><a href="/?tag=Yearn">Yearn</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>rekt in prod… eventually. Over two years since its first leaderboard entry, Yearn has lost over $10M from an original iearn finance contract. As we wrote last time, no protocol is too big to fail. Who will be next?</p><p class="post-excerpt-more"><a href="/yearn2-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-04-21T05:35:40.985Z</updated>
+        <updated>2023-04-21T17:36:42.925Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/sushi-yoink-rekt/"> <!-- -->SushiSwap - REKT</a></h5><hr><span class="post-meta"><time>Monday, April 10, 2023</time><p><span><a href="/?tag=SushiSwap">SushiSwap</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Yoink. Over $3.3M was stolen from SushiSwap users over the weekend via a new routing contract. This is a bad look for an already-embattled protocol. How many more scandals can Sushi take?</p><p class="post-excerpt-more"><a href="/sushi-yoink-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-04-21T05:35:40.985Z</updated>
+        <updated>2023-04-21T17:36:42.926Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/safemoon-rekt/"> <!-- -->Safemoon - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, March 29, 2023</time><p><span><a href="/?tag=Safemoon">Safemoon</a></span><span> - <a href="/?tag=BSC">BSC</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Not so safe after all. Yesterday, Safemoon lost $8.9M worth of supposedly locked LP thanks to a bug introduced in the project’s latest upgrade. How much longer can Safemoon last?</p><p class="post-excerpt-more"><a href="/safemoon-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-04-21T05:35:40.987Z</updated>
+        <updated>2023-04-21T17:36:42.927Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/kokomo-finance-rekt/"> <!-- -->Kokomo Finance - REKT</a></h5><hr><span class="post-meta"><time>Monday, March 27, 2023</time><p><span><a href="/?tag=Kokomo+Finance">Kokomo Finance</a></span><span> - <a href="/?tag=Optimism">Optimism</a></span><span> - <a href="/?tag=Rugpull">Rugpull</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Another week, another rug. This time, Kokomo Finance took off with $4M, before deleting their online presence. Less than a week old, and Kokomo has already flatlined.</p><p class="post-excerpt-more"><a href="/kokomo-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-04-21T05:35:40.989Z</updated>
+        <updated>2023-04-21T17:36:42.930Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/meltdown/"> <!-- -->Meltdown</a></h5><hr><span class="post-meta"><time>Wednesday, March 22, 2023</time><p><span><a href="/?tag=Banking">Banking</a></span><span> - <a href="/?tag=Stablecoins">Stablecoins</a></span><span> - <a href="/?tag=Regulation">Regulation</a></span></p></span><hr></header><section class="post-excerpt"><p>They’re at it again. And once more, we’ll all pay the consequences. The treatment isn’t a cure, just short-term relief. As chaos rages in TradFi, we must show resilience.</p><p class="post-excerpt-more"><a href="/meltdown/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-04-21T05:35:40.991Z</updated>
+        <updated>2023-04-21T17:36:42.932Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/euler-rekt/"> <!-- -->Euler Finance - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, March 14, 2023</time><p><span><a href="/?tag=Euler+Finance">Euler Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Against the backdrop of a banking meltdown and stablecoin crisis, Euler Finance was struck a $197M blow. Many other projects had funds tied up in Euler, is anywhere truly safe?</p><p class="post-excerpt-more"><a href="/euler-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-04-21T05:35:40.993Z</updated>
+        <updated>2023-04-21T17:36:42.934Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/hedera-rekt/"> <!-- -->Hedera - REKT</a></h5><hr><span class="post-meta"><time>Friday, March 10, 2023</time><p><span><a href="/?tag=Hedera">Hedera</a></span><span> - <a href="/?tag=Ecosystem">Ecosystem</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>A nebulous threat rattled the entire Hedera ecosystem, yesterday. Dapps from across the network were affected and Hedera remains down while investigations continue. DeFi users spook easily… and with good reason.</p><p class="post-excerpt-more"><a href="/hedera-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-04-21T05:35:40.995Z</updated>
+        <updated>2023-04-21T17:36:42.936Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/silvergate-rekt/"> <!-- -->Silvergate - REKT</a></h5><hr><span class="post-meta"><time>Thursday, March 9, 2023</time><p><span><a href="/?tag=Silvergate">Silvergate</a></span><span> - <a href="/?tag=CeFi">CeFi</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Unbanking the banked. After a troubled few months, Silvergate has finally given up. A house of cards will collapse when shaken. Who's next?</p><p class="post-excerpt-more"><a href="/silvergate-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[9]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-04-21T05:35:40.997Z</updated>
+        <updated>2023-04-21T17:36:42.938Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/iron-alpha/"> <!-- -->Iron Bank vs Alpha Homora</a></h5><hr><span class="post-meta"><time>Monday, March 6, 2023</time><p><span><a href="/?tag=Iron+Bank">Iron Bank</a></span><span> - <a href="/?tag=Alpha+Homora">Alpha Homora</a></span></p></span><hr></header><section class="post-excerpt"><p>Things move fast in DeFi, but this is a slow burner. A two-year old exploit, $30M of bad debt, holding user funds hostage... Worrying precedents are being set for conflict resolution in DeFi. How did we get here?</p><p class="post-excerpt-more"><a href="/iron-alpha/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-04-21T05:35:40.999Z</updated>
+        <updated>2023-04-21T17:36:42.940Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/hope-finance-rekt/"> <!-- -->Hope Finance - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, February 22, 2023</time><p><span><a href="/?tag=Hope+Finance">Hope Finance</a></span><span> - <a href="/?tag=Rugpull">Rugpull</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Abandon Hope all ye who enter here. $1.86M was rugged from Hope Finance yesterday. It’s impossible to know whether the doxxed individual accused by the team is truly to blame. Don’t get your Hopes up.</p><p class="post-excerpt-more"><a href="/hope-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[11]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-04-21T05:35:41.001Z</updated>
+        <updated>2023-04-21T17:36:42.942Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/dexible-rekt/"> <!-- -->Dexible - REKT</a></h5><hr><span class="post-meta"><time>Monday, February 20, 2023</time><p><span><a href="/?tag=Dexible">Dexible</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Crisis-comms calamity as cross-chain chaos continues… Dexible lost a total of $2M on Friday, on Ethereum and Arbitrum. In Dexible’s own words... "exploits happen in DeFi."</p><p class="post-excerpt-more"><a href="/dexible-rekt/">MORE</a></p></section>]]></content>
     </entry>
 </feed>
