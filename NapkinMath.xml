@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2023-05-26T05:36:23.738Z</updated>
+    <updated>2023-05-26T17:35:44.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dying Whales and Dying Billionaires]]></title>
+        <id>https://every.to/napkin-math/a-note-on-power</id>
+        <link href="https://every.to/napkin-math/a-note-on-power"/>
+        <updated>2023-05-26T17:34:49.593Z</updated>
+        <content type="html"><![CDATA[A note about power]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet Your New Finance Intern: GPT-4]]></title>
         <id>https://every.to/napkin-math/meet-your-new-finance-intern-gpt-4</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/the-house-of-the-bloody-mouse"/>
         <updated>2022-12-02T05:35:59.344Z</updated>
         <content type="html"><![CDATA[Where does Disney go from here?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 New Theories About AI]]></title>
-        <id>https://every.to/napkin-math/6-new-theories-about-ai</id>
-        <link href="https://every.to/napkin-math/6-new-theories-about-ai"/>
-        <updated>2022-11-22T17:39:31.517Z</updated>
-        <content type="html"><![CDATA[Software with superpowers]]></content>
     </entry>
 </feed>
