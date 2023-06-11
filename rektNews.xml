@@ -2,91 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rekt.news/</id>
     <title>Rekt.news</title>
-    <updated>2023-06-11T05:35:55.726Z</updated>
+    <updated>2023-06-11T17:36:54.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://raw.githubusercontent.com/RektHQ/Assets/main/images/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-06-11T05:35:47.478Z</updated>
+        <updated>2023-06-11T17:36:44.894Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title featured"><a href="/grudgematch-sec/"> <!-- -->Grudgematch - SEC vs The CEXs</a></h5><hr><span class="post-meta"><time>Friday, June 9, 2023</time><p><span><a href="/?tag=Regulation">Regulation</a></span><span> - <a href="/?tag=SEC">SEC</a></span><span> - <a href="/?tag=Binance">Binance</a></span><span> - <a href="/?tag=Coinbase">Coinbase</a></span></p></span><hr></header><section class="post-excerpt"><p>Gary Gensler has come out swinging. On Monday, the SEC levelled charges at Binance and CZ. The following day, it was Coinbase’s turn. This time, the gloves are off, but the stakes are higher than ever.</p><p class="post-excerpt-more"><a href="/grudgematch-sec/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-06-11T05:35:47.482Z</updated>
+        <updated>2023-06-11T17:36:44.897Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/jimbo-rekt/"> <!-- -->Jimbo's Protocol - REKT</a></h5><hr><span class="post-meta"><time>Monday, May 29, 2023</time><p><span><a href="/?tag=Jimbo%27s+Protocol">Jimbo's Protocol</a></span><span> - <a href="/?tag=Arbitrum">Arbitrum</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Jimbo’s Protocol was hit with a flash loan attack in the early hours of Sunday, losing $7.5M. The team have sent the attacker an ultimatum. But for now, Jimbo is stuck in limbo.</p><p class="post-excerpt-more"><a href="/jimbo-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-06-11T05:35:47.483Z</updated>
+        <updated>2023-06-11T17:36:44.902Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/tornado-gov-rekt/"> <!-- -->Tornado Cash Governance - REKT</a></h5><hr><span class="post-meta"><time>Monday, May 22, 2023</time><p><span><a href="/?tag=Tornado+Cash">Tornado Cash</a></span><span> - <a href="/?tag=Governance">Governance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Cypherpunks strive to become ungovernable... but not like this. Tornado Cash's governance has been taken hostage via a trojan horse proposal. But now the hacker is proposing reversing the effects of their exploit. Hopefully this all turns out to be just a storm in a teacup.</p><p class="post-excerpt-more"><a href="/tornado-gov-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-06-11T05:35:47.484Z</updated>
+        <updated>2023-06-11T17:36:44.903Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/swaprum-rekt/"> <!-- -->Swaprum - REKT</a></h5><hr><span class="post-meta"><time>Saturday, May 20, 2023</time><p><span><a href="/?tag=Swaprum">Swaprum</a></span><span> - <a href="/?tag=Arbitrum">Arbitrum</a></span><span> - <a href="/?tag=Rugpull">Rugpull</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Swaprum, an Arbitrum-based DEX, pulled the rug for $3M on Thursday. Certik, the project's auditor, has since updated Swaprum’s security score to “Exit Scam”. Too little, too late?</p><p class="post-excerpt-more"><a href="/swaprum-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-06-11T05:35:47.487Z</updated>
+        <updated>2023-06-11T17:36:44.906Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/ledger-recover/"> <!-- -->Recover - Ledger's Latest L</a></h5><hr><span class="post-meta"><time>Tuesday, May 16, 2023</time><p><span><a href="/?tag=Ledger">Ledger</a></span><span> - <a href="/?tag=Wallet">Wallet</a></span></p></span><hr></header><section class="post-excerpt"><p>Ledger’s new firmware update has the crypto crowd in crisis. The announcement of the new Recover service has many asking questions about the capabilities of the devices, which run on closed-source code. Trust me bro.</p><p class="post-excerpt-more"><a href="/ledger-recover/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-06-11T05:35:47.489Z</updated>
+        <updated>2023-06-11T17:36:44.907Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/deus-dao-r3kt/"> <!-- -->Deus DAO - R3KT</a></h5><hr><span class="post-meta"><time>Saturday, May 6, 2023</time><p><span><a href="/?tag=Deus+DAO">Deus DAO</a></span><span> - <a href="/?tag=R3KT">R3KT</a></span></p></span><hr></header><section class="post-excerpt"><p>It’s a hat trick for Deus DAO.  Token holders lost a total of ~$6.5M and DEI depegged by over 80%. How many times can a thrice-hacked protocol be trusted?</p><p class="post-excerpt-more"><a href="/deus-dao-r3kt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-06-11T05:35:47.490Z</updated>
+        <updated>2023-06-11T17:36:44.909Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/level-finance-rekt/"> <!-- -->Level Finance - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, May 2, 2023</time><p><span><a href="/?tag=Level+Finance">Level Finance</a></span><span> - <a href="/?tag=BSC">BSC</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Level Finance got levelled. $1.1M in referral rewards were robbed from the BSC-based perps platform yesterday. The attack was initially attempted over a week ago, but it seems nobody noticed. Could a warning have saved Level?</p><p class="post-excerpt-more"><a href="/level-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-06-11T05:35:47.491Z</updated>
+        <updated>2023-06-11T17:36:44.911Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/merlin-dex-rekt/"> <!-- -->Merlin DEX - REKT</a></h5><hr><span class="post-meta"><time>Thursday, April 27, 2023</time><p><span><a href="/?tag=Merlin">Merlin</a></span><span> - <a href="/?tag=zksync">zksync</a></span><span> - <a href="/?tag=Rugpull">Rugpull</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>$1.8M disappeared in a puff of smoke as Merlin pulled the classic DeFi magic trick. The zksync-native DEX had just completed its audit with Certik. How can such an easily ruggable protocol be green-lit? Or are users also to blame?</p><p class="post-excerpt-more"><a href="/merlin-dex-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-06-11T05:35:47.496Z</updated>
+        <updated>2023-06-11T17:36:44.914Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/hundred-rekt2/"> <!-- -->Hundred Finance - REKT 2</a></h5><hr><span class="post-meta"><time>Tuesday, April 18, 2023</time><p><span><a href="/?tag=Hundred+Finance">Hundred Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>On April 15th, Hundred Finance suffered a $7.4M exploit on Optimism. This is the protocol's first solo article, after having shared the stage with both Agave DAO and Meter. With Hundred’s leaderboard total now standing at $16.9M… what was it this time?</p><p class="post-excerpt-more"><a href="/hundred-rekt2/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[9]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-06-11T05:35:47.498Z</updated>
+        <updated>2023-06-11T17:36:44.916Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/yearn2-rekt/"> <!-- -->Yearn - REKT 2</a></h5><hr><span class="post-meta"><time>Thursday, April 13, 2023</time><p><span><a href="/?tag=Yearn">Yearn</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>rekt in prod… eventually. Over two years since its first leaderboard entry, Yearn has lost over $10M from an original iearn finance contract. As we wrote last time, no protocol is too big to fail. Who will be next?</p><p class="post-excerpt-more"><a href="/yearn2-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-06-11T05:35:47.499Z</updated>
+        <updated>2023-06-11T17:36:44.919Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/sushi-yoink-rekt/"> <!-- -->SushiSwap - REKT</a></h5><hr><span class="post-meta"><time>Monday, April 10, 2023</time><p><span><a href="/?tag=SushiSwap">SushiSwap</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Yoink. Over $3.3M was stolen from SushiSwap users over the weekend via a new routing contract. This is a bad look for an already-embattled protocol. How many more scandals can Sushi take?</p><p class="post-excerpt-more"><a href="/sushi-yoink-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[11]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-06-11T05:35:47.500Z</updated>
+        <updated>2023-06-11T17:36:44.922Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/safemoon-rekt/"> <!-- -->Safemoon - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, March 29, 2023</time><p><span><a href="/?tag=Safemoon">Safemoon</a></span><span> - <a href="/?tag=BSC">BSC</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Not so safe after all. Yesterday, Safemoon lost $8.9M worth of supposedly locked LP thanks to a bug introduced in the project’s latest upgrade. How much longer can Safemoon last?</p><p class="post-excerpt-more"><a href="/safemoon-rekt/">MORE</a></p></section>]]></content>
     </entry>
 </feed>
