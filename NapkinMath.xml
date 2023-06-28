@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2023-06-27T17:35:55.777Z</updated>
+    <updated>2023-06-28T05:38:55.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Shopping for AI Shovels:The MosaicML Acquisition]]></title>
+        <id>https://every.to/napkin-math/slinging-ai-shovels-the-mosaicml-acquisition</id>
+        <link href="https://every.to/napkin-math/slinging-ai-shovels-the-mosaicml-acquisition"/>
+        <updated>2023-06-28T05:37:53.954Z</updated>
+        <content type="html"><![CDATA[Why would Databricks spend $1.3B?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Can Construct a Trading Strategy Now]]></title>
         <id>https://every.to/napkin-math/ai-can-construct-a-trading-strategy-now</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/in-defense-of-the-unoptimized-life"/>
         <updated>2023-01-13T17:37:31.077Z</updated>
         <content type="html"><![CDATA[Give yourself the space to be inspired]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It Is Always Time to Build]]></title>
-        <id>https://every.to/napkin-math/it-is-always-time-to-build</id>
-        <link href="https://every.to/napkin-math/it-is-always-time-to-build"/>
-        <updated>2023-01-05T17:35:42.922Z</updated>
-        <content type="html"><![CDATA[Interest rates do not equal innovation rates]]></content>
     </entry>
 </feed>
