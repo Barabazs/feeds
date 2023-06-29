@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2023-06-29T05:46:22.627Z</updated>
+    <updated>2023-06-29T17:36:26.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[What Happened to the Creator Economy?]]></title>
+        <id>https://every.to/napkin-math/what-happened-to-the-creator-economy</id>
+        <link href="https://every.to/napkin-math/what-happened-to-the-creator-economy"/>
+        <updated>2023-06-29T17:35:29.618Z</updated>
+        <content type="html"><![CDATA[The burden of missed expectations]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shopping for AI Shovels:The MosaicML Acquisition]]></title>
         <id>https://every.to/napkin-math/slinging-ai-shovels-the-mosaicml-acquisition</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/how-technology-giants-die"/>
         <updated>2023-01-26T17:37:13.666Z</updated>
         <content type="html"><![CDATA[GE, Amazon, and the flywheel of death]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Defense of the Unoptimized Life]]></title>
-        <id>https://every.to/napkin-math/in-defense-of-the-unoptimized-life</id>
-        <link href="https://every.to/napkin-math/in-defense-of-the-unoptimized-life"/>
-        <updated>2023-01-13T17:37:31.077Z</updated>
-        <content type="html"><![CDATA[Give yourself the space to be inspired]]></content>
     </entry>
 </feed>
