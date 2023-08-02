@@ -2,91 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rekt.news/</id>
     <title>Rekt.news</title>
-    <updated>2023-08-01T17:38:12.565Z</updated>
+    <updated>2023-08-02T05:36:40.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://raw.githubusercontent.com/RektHQ/Assets/main/images/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-01T17:38:02.695Z</updated>
+        <updated>2023-08-02T05:36:30.926Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title featured"><a href="/curve-vyper-rekt/"> <!-- -->Curve, Vyper - REKT</a></h5><hr><span class="post-meta"><time>Monday, July 31, 2023</time><p><span><a href="/?tag=Curve">Curve</a></span><span> - <a href="/?tag=Vyper">Vyper</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Multiple protocols bit by the Vyper. Curve Finance returns to the leaderboard with a total of $69M drained from four pools. Some funds have been returned with hopefully more to come. Will this wake-up call be enough to trigger a change?</p><p class="post-excerpt-more"><a href="/curve-vyper-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-01T17:38:02.695Z</updated>
+        <updated>2023-08-02T05:36:30.927Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/kannagi-finance-rekt/"> <!-- -->Kannagi Finance - REKT</a></h5><hr><span class="post-meta"><time>Sunday, July 30, 2023</time><p><span><a href="/?tag=Kannagi+Finance">Kannagi Finance</a></span><span> - <a href="/?tag=zksync">zksync</a></span><span> - <a href="/?tag=Rugpull">Rugpull</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Kannagi Finance, a yield aggregator on zkSync pulled the rug on Saturday, dropping TVL from $2.1M to $0.17. The auditors may have highlighted 'centralised aspects' but, in this industry, who reads the fine print?</p><p class="post-excerpt-more"><a href="/kannagi-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-01T17:38:02.696Z</updated>
+        <updated>2023-08-02T05:36:30.929Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/defilabs-rekt/"> <!-- -->DeFiLabs - REKT</a></h5><hr><span class="post-meta"><time>Friday, July 28, 2023</time><p><span><a href="/?tag=DeFiLabs">DeFiLabs</a></span><span> - <a href="/?tag=Rugpull">Rugpull</a></span><span> - <a href="/?tag=BSC">BSC</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Yesterday, DeFiLabs rugged $1.6M from its users on BSC via a backdoor function in their staking contract. Random projects rugging on BSC is nothing new. The shitcoin casino claims another set of victims.</p><p class="post-excerpt-more"><a href="/defilabs-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-01T17:38:02.696Z</updated>
+        <updated>2023-08-02T05:36:30.931Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/alphapo-rekt/"> <!-- -->AlphaPo - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, July 26, 2023</time><p><span><a href="/?tag=AlphaPo">AlphaPo</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>AlphaPo lost $60M and it barely raises an eyebrow… Stories of compromised hot wallets leave little to be said. But one thing’s for sure, Lazarus isn’t getting bored.</p><p class="post-excerpt-more"><a href="/alphapo-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-01T17:38:02.697Z</updated>
+        <updated>2023-08-02T05:36:30.933Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/eralend-rekt/"> <!-- -->EraLend - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, July 26, 2023</time><p><span><a href="/?tag=EraLend">EraLend</a></span><span> - <a href="/?tag=zksync">zksync</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>One more added to the list. EraLend lost $3.4M to the rampant read-only reentrancy bug plaguing protocols across the cryptosphere. Comments are not effective reentrancy protection.</p><p class="post-excerpt-more"><a href="/eralend-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-01T17:38:02.700Z</updated>
+        <updated>2023-08-02T05:36:30.935Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/conic-finance-rekt/"> <!-- -->Conic Finance - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, July 25, 2023</time><p><span><a href="/?tag=Conic+Finance">Conic Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Lightning does strike twice. Conic Finance got double-rekt on Friday, losing a total of $4.2M from their ETH and crvUSD omnipools. Will such a promising protocol survive this double blow?</p><p class="post-excerpt-more"><a href="/conic-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-01T17:38:02.702Z</updated>
+        <updated>2023-08-02T05:36:30.938Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/multichain-r3kt/"> <!-- -->Multichain - R3KT</a></h5><hr><span class="post-meta"><time>Friday, July 14, 2023</time><p><span><a href="/?tag=Multichain">Multichain</a></span><span> - <a href="/?tag=Fantom">Fantom</a></span><span> - <a href="/?tag=R3KT">R3KT</a></span></p></span><hr></header><section class="post-excerpt"><p>So the rumours were true. At least according to Multichain. CEO Zhaojun has been in custody in China since May 21st, and he held all the keys. Multichain’s recent troubles have turned Fantom into a ghost town…</p><p class="post-excerpt-more"><a href="/multichain-r3kt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-01T17:38:02.705Z</updated>
+        <updated>2023-08-02T05:36:30.939Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/arkham-asylum/"> <!-- -->Arkham Asylum</a></h5><hr><span class="post-meta"><time>Wednesday, July 12, 2023</time><p><span><a href="/?tag=Arkham+Intelligence">Arkham Intelligence</a></span><span> - <a href="/?tag=Privacy">Privacy</a></span></p></span><hr></header><section class="post-excerpt"><p>Intel exchange or snitch-to-earn? Arkham Intelligence’s address-doxxing market throws open the gates of the asylum, letting loose all kinds of unknown threats...</p><p class="post-excerpt-more"><a href="/arkham-asylum/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-01T17:38:02.707Z</updated>
+        <updated>2023-08-02T05:36:30.942Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/multichain-rekt2/"> <!-- -->Multichain - REKT 2</a></h5><hr><span class="post-meta"><time>Friday, July 7, 2023</time><p><span><a href="/?tag=Multichain">Multichain</a></span><span> - <a href="/?tag=Bridge">Bridge</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Multi-rekt. Multichain was drained yesterday for a total of $126M of Fantom and Moonriver backing. The project has quite the record… How many more victims will lose out to these ‘experiments’?</p><p class="post-excerpt-more"><a href="/multichain-rekt2/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[9]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-01T17:38:02.710Z</updated>
+        <updated>2023-08-02T05:36:30.944Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/poly-network-rekt2/"> <!-- -->Poly Network - REKT 2</a></h5><hr><span class="post-meta"><time>Monday, July 3, 2023</time><p><span><a href="/?tag=Poly+Network">Poly Network</a></span><span> - <a href="/?tag=Bridge">Bridge</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Poly Network is back. Almost two years after topping the leaderboard, this time the hacker got away with just $4.4M. How many more bridges will get rekt because of a handful of compromised keys?</p><p class="post-excerpt-more"><a href="/poly-network-rekt2/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-01T17:38:02.713Z</updated>
+        <updated>2023-08-02T05:36:30.946Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/tradfi-takeover/"> <!-- -->TradFi Takeover</a></h5><hr><span class="post-meta"><time>Friday, June 23, 2023</time><p><span><a href="/?tag=TradFi">TradFi</a></span><span> - <a href="/?tag=SEC">SEC</a></span><span> - <a href="/?tag=Regulation">Regulation</a></span></p></span><hr></header><section class="post-excerpt"><p>The vultures are circling. 2021’s bull market saw crypto gain mainstream attention, turning old money from sceptics into scavengers. Now, with crypto vulnerable, instinct tells them to strike.</p><p class="post-excerpt-more"><a href="/tradfi-takeover/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[11]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-01T17:38:02.717Z</updated>
+        <updated>2023-08-02T05:36:30.955Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/midas-rekt2/"> <!-- -->Midas Capital - REKT 2</a></h5><hr><span class="post-meta"><time>Monday, June 19, 2023</time><p><span><a href="/?tag=Midas+Capital">Midas Capital</a></span><span> - <a href="/?tag=BSC">BSC</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Midas can’t keep hold of their gold. On Saturday they lost $600k to a known vulnerability, again. Weaknesses, once discovered, instantly propagate through the ecosystem… When will they learn?</p><p class="post-excerpt-more"><a href="/midas-rekt2/">MORE</a></p></section>]]></content>
     </entry>
 </feed>
