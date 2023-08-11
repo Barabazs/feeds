@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2023-08-10T17:35:58.464Z</updated>
+    <updated>2023-08-11T05:35:56.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Futility of Utility]]></title>
+        <id>https://every.to/napkin-math/the-futility-of-utility</id>
+        <link href="https://every.to/napkin-math/the-futility-of-utility"/>
+        <updated>2023-08-11T05:34:59.885Z</updated>
+        <content type="html"><![CDATA[Why do I choose to do things that aren't in my best interest?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Devote Yourself to the Cause of Your Life]]></title>
         <id>https://every.to/napkin-math/devote-yourself-to-the-cause-of-your-life</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/should-i-quit-and-start-a-franchise"/>
         <updated>2023-03-03T05:38:06.020Z</updated>
         <content type="html"><![CDATA[I’m wondering if I can deep-fry<br data-owner="balance-text">my way out of the apocalypse]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Content Creation Goes to Zero]]></title>
-        <id>https://every.to/napkin-math/when-content-creation-goes-to-zero</id>
-        <link href="https://every.to/napkin-math/when-content-creation-goes-to-zero"/>
-        <updated>2023-02-24T17:37:04.895Z</updated>
-        <content type="html"><![CDATA[AI is making a world where it costs nothing<br data-owner="balance-text">to produce anything. What happens next?]]></content>
     </entry>
 </feed>
