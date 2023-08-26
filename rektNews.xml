@@ -2,91 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rekt.news/</id>
     <title>Rekt.news</title>
-    <updated>2023-08-25T17:36:00.881Z</updated>
+    <updated>2023-08-26T05:36:00.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://raw.githubusercontent.com/RektHQ/Assets/main/images/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-25T17:35:52.048Z</updated>
+        <updated>2023-08-26T05:35:52.075Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title featured"><a href="/exactly-protocol-rekt/"> <!-- -->Exactly Protocol - REKT</a></h5><hr><span class="post-meta"><time>Friday, August 18, 2023</time><p><span><a href="/?tag=Exactly+Protocol">Exactly Protocol</a></span><span> - <a href="/?tag=Optimism">Optimism</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>L2s have been going through something of a rekt-naissance lately. Exactly Protocol got hit for $7.2M by an exploit which drained users' collateral. Will Exactly ever financially recover from this?</p><p class="post-excerpt-more"><a href="/exactly-protocol-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-25T17:35:52.051Z</updated>
+        <updated>2023-08-26T05:35:52.076Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/shibarium-bridge-rekt/"> <!-- -->Shibarium Bridge - REKT</a></h5><hr><span class="post-meta"><time>Thursday, August 17, 2023</time><p><span><a href="/?tag=Shibarium">Shibarium</a></span><span> - <a href="/?tag=Bridge">Bridge</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>The Shibarium devs are in the doghouse. A botched launch of Shiba Inu’s ETH L2 sees a total of $2.6M of user funds stuck in a faulty bridge. Memecoins are evolving... but why?</p><p class="post-excerpt-more"><a href="/shibarium-bridge-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-25T17:35:52.053Z</updated>
+        <updated>2023-08-26T05:35:52.077Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/rocketswap-rekt/"> <!-- -->RocketSwap - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, August 15, 2023</time><p><span><a href="/?tag=RocketSwap">RocketSwap</a></span><span> - <a href="/?tag=Base">Base</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>RocketSwap has lost $869k to compromised private keys, allegedly stolen in a bruteforce attack on the project’s server. We are very sorry for your loss.</p><p class="post-excerpt-more"><a href="/rocketswap-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-25T17:35:52.055Z</updated>
+        <updated>2023-08-26T05:35:52.078Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/zunami-protocol-rekt/"> <!-- -->Zunami Protocol - REKT</a></h5><hr><span class="post-meta"><time>Monday, August 14, 2023</time><p><span><a href="/?tag=Zunami+Protocol">Zunami Protocol</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>The Curve ecosystem can't catch a break... Yesterday, Zunami Protocol lost $2.1M to a price manipulation attack. Keeping DeFi safe is a constant game of cat-and-mouse, one that can’t always be won.</p><p class="post-excerpt-more"><a href="/zunami-protocol-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-25T17:35:52.057Z</updated>
+        <updated>2023-08-26T05:35:52.078Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/steadefi-rekt/"> <!-- -->Steadefi - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, August 8, 2023</time><p><span><a href="/?tag=Steadefi">Steadefi</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Steady lads. Steadefi lost $1.14M to a compromised deployer address on Monday. The attacker drained lending contracts after transferring their ownership. Phishing or an inside job?</p><p class="post-excerpt-more"><a href="/steadefi-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-25T17:35:52.059Z</updated>
+        <updated>2023-08-26T05:35:52.079Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/bald-rekt/"> <!-- -->BALD on Base - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, August 2, 2023</time><p><span><a href="/?tag=BALD">BALD</a></span><span> - <a href="/?tag=Base">Base</a></span><span> - <a href="/?tag=Rugpull">Rugpull</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Coinbase’s compliant and grown-up L2 is already a shitshow. BALD pulled the rug for $23M, and the deployer has some interesting connections... YOLO-mania is in full force while DeFi burns.</p><p class="post-excerpt-more"><a href="/bald-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-25T17:35:52.061Z</updated>
+        <updated>2023-08-26T05:35:52.081Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/curve-vyper-rekt/"> <!-- -->Curve, Vyper - REKT</a></h5><hr><span class="post-meta"><time>Monday, July 31, 2023</time><p><span><a href="/?tag=Curve">Curve</a></span><span> - <a href="/?tag=Vyper">Vyper</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Multiple protocols bit by the Vyper. Curve Finance returns to the leaderboard with a total of $69M drained from four pools. Some funds have been returned with hopefully more to come. Will this wake-up call be enough to trigger a change?</p><p class="post-excerpt-more"><a href="/curve-vyper-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-25T17:35:52.065Z</updated>
+        <updated>2023-08-26T05:35:52.082Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/kannagi-finance-rekt/"> <!-- -->Kannagi Finance - REKT</a></h5><hr><span class="post-meta"><time>Sunday, July 30, 2023</time><p><span><a href="/?tag=Kannagi+Finance">Kannagi Finance</a></span><span> - <a href="/?tag=zksync">zksync</a></span><span> - <a href="/?tag=Rugpull">Rugpull</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Kannagi Finance, a yield aggregator on zkSync pulled the rug on Saturday, dropping TVL from $2.1M to $0.17. The auditors may have highlighted 'centralised aspects' but, in this industry, who reads the fine print?</p><p class="post-excerpt-more"><a href="/kannagi-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-25T17:35:52.065Z</updated>
+        <updated>2023-08-26T05:35:52.083Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/defilabs-rekt/"> <!-- -->DeFiLabs - REKT</a></h5><hr><span class="post-meta"><time>Friday, July 28, 2023</time><p><span><a href="/?tag=DeFiLabs">DeFiLabs</a></span><span> - <a href="/?tag=Rugpull">Rugpull</a></span><span> - <a href="/?tag=BSC">BSC</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Yesterday, DeFiLabs rugged $1.6M from its users on BSC via a backdoor function in their staking contract. Random projects rugging on BSC is nothing new. The shitcoin casino claims another set of victims.</p><p class="post-excerpt-more"><a href="/defilabs-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[9]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-25T17:35:52.066Z</updated>
+        <updated>2023-08-26T05:35:52.085Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/alphapo-rekt/"> <!-- -->AlphaPo - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, July 26, 2023</time><p><span><a href="/?tag=AlphaPo">AlphaPo</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>AlphaPo lost $60M and it barely raises an eyebrow… Stories of compromised hot wallets leave little to be said. But one thing’s for sure, Lazarus isn’t getting bored.</p><p class="post-excerpt-more"><a href="/alphapo-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-25T17:35:52.067Z</updated>
+        <updated>2023-08-26T05:35:52.086Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/eralend-rekt/"> <!-- -->EraLend - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, July 26, 2023</time><p><span><a href="/?tag=EraLend">EraLend</a></span><span> - <a href="/?tag=zksync">zksync</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>One more added to the list. EraLend lost $3.4M to the rampant read-only reentrancy bug plaguing protocols across the cryptosphere. Comments are not effective reentrancy protection.</p><p class="post-excerpt-more"><a href="/eralend-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[11]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2023-08-25T17:35:52.069Z</updated>
+        <updated>2023-08-26T05:35:52.089Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/conic-finance-rekt/"> <!-- -->Conic Finance - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, July 25, 2023</time><p><span><a href="/?tag=Conic+Finance">Conic Finance</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Lightning does strike twice. Conic Finance got double-rekt on Friday, losing a total of $4.2M from their ETH and crvUSD omnipools. Will such a promising protocol survive this double blow?</p><p class="post-excerpt-more"><a href="/conic-finance-rekt/">MORE</a></p></section>]]></content>
     </entry>
 </feed>
