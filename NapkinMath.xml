@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2023-09-21T05:36:12.083Z</updated>
+    <updated>2023-09-21T17:36:56.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Oh No, I Kinda Want to Work for Elon]]></title>
+        <id>https://every.to/napkin-math/oh-no-i-kinda-want-to-work-for-elon</id>
+        <link href="https://every.to/napkin-math/oh-no-i-kinda-want-to-work-for-elon"/>
+        <updated>2023-09-21T17:35:36.457Z</updated>
+        <content type="html"><![CDATA[An examination of the man-child who would be king]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Defense Tech Shouldn’t Be Sexy]]></title>
         <id>https://every.to/napkin-math/defense-tech-shouldn-t-be-sexy</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/we-don-t-know-enough-about-the-pornhub-sale"/>
         <updated>2023-04-07T17:35:21.763Z</updated>
         <content type="html"><![CDATA[One of the world’s most important<br data-owner="balance-text">websites was sold and nobody cares]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tinder Is Way MoreImportant Than You Think]]></title>
-        <id>https://every.to/napkin-math/tinder-is-way-more-important-than-you-think</id>
-        <link href="https://every.to/napkin-math/tinder-is-way-more-important-than-you-think"/>
-        <updated>2023-03-31T05:35:27.705Z</updated>
-        <content type="html"><![CDATA[Forget AI, the people want to bone]]></content>
     </entry>
 </feed>
