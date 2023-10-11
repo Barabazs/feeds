@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2023-10-11T05:36:43.033Z</updated>
+    <updated>2023-10-11T17:36:58.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Falling Out of Love With Michael Lewis]]></title>
+        <id>https://every.to/napkin-math/falling-out-of-love-with-michael-lewis</id>
+        <link href="https://every.to/napkin-math/falling-out-of-love-with-michael-lewis"/>
+        <updated>2023-10-11T17:35:37.159Z</updated>
+        <content type="html"><![CDATA[The complicated demands of business writing]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automate the SimpleStuff With Stupid Tools]]></title>
         <id>https://every.to/napkin-math/automate-the-simple-with-stupid</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/death-of-a-flywheel"/>
         <updated>2023-04-29T05:35:32.909Z</updated>
         <content type="html"><![CDATA[How Amazon and Berkshire got too big]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Probably Shouldn’t Work at a Startup]]></title>
-        <id>https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-2ed96ceb-c907-489a-8dd8-f07ed8c77bd0</id>
-        <link href="https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-2ed96ceb-c907-489a-8dd8-f07ed8c77bd0"/>
-        <updated>2023-04-20T17:35:51.934Z</updated>
-        <content type="html"><![CDATA[It’s overrated—both financially and emotionally]]></content>
     </entry>
 </feed>
