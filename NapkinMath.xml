@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2024-02-06T17:35:31.152Z</updated>
+    <updated>2024-02-07T05:35:23.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Profit, Power, and the Vision Pro]]></title>
+        <id>https://every.to/napkin-math/profit-power-and-the-vision-pro</id>
+        <link href="https://every.to/napkin-math/profit-power-and-the-vision-pro"/>
+        <updated>2024-02-07T05:34:33.231Z</updated>
+        <content type="html"><![CDATA[Will Apple’s new headset change everything?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto’s Prophet Speaks]]></title>
         <id>https://every.to/napkin-math/crypto-s-prophet-speaks</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/the-futility-of-utility"/>
         <updated>2023-08-11T05:34:59.885Z</updated>
         <content type="html"><![CDATA[Why do I choose to do things that aren't in my best interest?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devote Yourself to the Cause of Your Life]]></title>
-        <id>https://every.to/napkin-math/devote-yourself-to-the-cause-of-your-life</id>
-        <link href="https://every.to/napkin-math/devote-yourself-to-the-cause-of-your-life"/>
-        <updated>2023-08-04T05:34:59.214Z</updated>
-        <content type="html"><![CDATA[Your to-do list can wait]]></content>
     </entry>
 </feed>
