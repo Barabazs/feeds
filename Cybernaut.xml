@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/cybernaut?sort=newest</id>
     <title>Cybernaut</title>
-    <updated>2024-03-04T17:35:19.350Z</updated>
+    <updated>2024-03-05T05:36:40.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://every.to/cybernaut/the-quest-for-a-dumber-phone</id>
         <link href="https://every.to/cybernaut/the-quest-for-a-dumber-phone"/>
         <updated>2023-01-17T17:37:11.189Z</updated>
-        <content type="html"><![CDATA[Digital minimalists are using simple talk-<br data-owner="balance-text-hyphen">and-text devices to spend less time online, curb<br data-owner="balance-text">distraction, and navigate internet addiction]]></content>
+        <content type="html"><![CDATA[Digital minimalists are using simple talk-and-<br data-owner="balance-text-hyphen">text devices to spend less time online, curb<br data-owner="balance-text">distraction, and navigate internet addiction]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[On Twitch, You Can Never Log Off]]></title>
@@ -38,7 +38,7 @@
         <id>https://every.to/cybernaut/the-screaming-fangirls-who-forged-the-internet</id>
         <link href="https://every.to/cybernaut/the-screaming-fangirls-who-forged-the-internet"/>
         <updated>2022-06-14T05:48:34.994Z</updated>
-        <content type="html"><![CDATA[Book Review—Everything I Need I Get from You: How<br data-owner="balance-text">Fangirls Created the Internet as We Know It by Kaitlyn Tiffany]]></content>
+        <content type="html"><![CDATA[Book Review—Everything I Need I Get<br data-owner="balance-text">from You: How Fangirls Created the<br data-owner="balance-text">Internet as We Know It by Kaitlyn Tiffany]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Internet Encyclopedia of Memes]]></title>
@@ -139,7 +139,7 @@
         <content type="html"><![CDATA[Cyberbits #6: The quest to use the internet less]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How One Student Built a Study DiscordCommunity With 150K Members in 15 Months]]></title>
+        <title type="html"><![CDATA[How One Student Built a StudyDiscord Community With150K Members in 15 Months]]></title>
         <id>https://every.to/cybernaut/how-one-student-built-a-study-discord-community-with-150k-members-in-15-months</id>
         <link href="https://every.to/cybernaut/how-one-student-built-a-study-discord-community-with-150k-members-in-15-months"/>
         <updated>2021-08-30T17:32:45.514Z</updated>
