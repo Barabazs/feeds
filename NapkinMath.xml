@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2024-03-07T05:36:03.718Z</updated>
+    <updated>2024-03-07T17:36:56.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ads in the Age of AI]]></title>
+        <id>https://every.to/napkin-math/ads-in-the-age-of-ai</id>
+        <link href="https://every.to/napkin-math/ads-in-the-age-of-ai"/>
+        <updated>2024-03-07T17:36:04.998Z</updated>
+        <content type="html"><![CDATA[Weirder, different, and new]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude 3 Is The Most Human AI Yet]]></title>
         <id>https://every.to/napkin-math/claude-3-is-the-most-human-ai-yet</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/the-double-bind-theory-or-why-sensationalism-unfortunately-works"/>
         <updated>2023-09-28T17:35:36.700Z</updated>
         <content type="html"><![CDATA[If you want to win, you gotta spike]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh No, I Kinda Want to Work for Elon]]></title>
-        <id>https://every.to/napkin-math/oh-no-i-kinda-want-to-work-for-elon</id>
-        <link href="https://every.to/napkin-math/oh-no-i-kinda-want-to-work-for-elon"/>
-        <updated>2023-09-21T17:35:36.457Z</updated>
-        <content type="html"><![CDATA[An examination of the man-child who would be king]]></content>
     </entry>
 </feed>
