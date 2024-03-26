@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2024-03-26T05:37:58.655Z</updated>
+    <updated>2024-03-26T17:37:26.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How to Make Millions on Discord]]></title>
+        <id>https://every.to/napkin-math/how-to-make-millions-on-discord</id>
+        <link href="https://every.to/napkin-math/how-to-make-millions-on-discord"/>
+        <updated>2024-03-26T17:36:36.005Z</updated>
+        <content type="html"><![CDATA[A new distribution channel has opened]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Polarity Pays]]></title>
         <id>https://every.to/napkin-math/why-polarity-pays</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/falling-out-of-love-with-michael-lewis"/>
         <updated>2023-10-11T17:35:37.159Z</updated>
         <content type="html"><![CDATA[The complicated demands of business writing]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automate the SimpleStuff With Stupid Tools]]></title>
-        <id>https://every.to/napkin-math/automate-the-simple-with-stupid</id>
-        <link href="https://every.to/napkin-math/automate-the-simple-with-stupid"/>
-        <updated>2023-10-05T17:34:51.851Z</updated>
-        <content type="html"><![CDATA[This is the dumbest AI will ever be—and it’s still magic]]></content>
     </entry>
 </feed>
