@@ -2,91 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rekt.news/</id>
     <title>Rekt.news</title>
-    <updated>2024-04-02T17:37:56.382Z</updated>
+    <updated>2024-04-03T05:35:34.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://raw.githubusercontent.com/RektHQ/Assets/main/images/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2024-04-02T17:37:47.863Z</updated>
+        <updated>2024-04-03T05:35:25.989Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title featured"><a href="/prismafi-rekt/"> <!-- -->PrismaFi - REKT</a></h5><hr><span class="post-meta"><time>Thursday, March 28, 2024</time><p><span><a href="/?tag=PrismaFi">PrismaFi</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>PrismaFi fell victim to a flash loan attack, resulting in a loss of 3258 wstETH tokens, valued at approximately $11.6 million.</p><p class="post-excerpt-more"><a href="/prismafi-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2024-04-02T17:37:47.864Z</updated>
+        <updated>2024-04-03T05:35:25.990Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/munchables-rekt/"> <!-- -->Munchables - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, March 27, 2024</time><p><span><a href="/?tag=Munchables">Munchables</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>The Blast L2 Big Bang award-winning project Munchables was exploited for $62.5M by a rogue dev. Funds retrieved from dev within a few hours in a rollercoaster ride of a day.</p><p class="post-excerpt-more"><a href="/munchables-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2024-04-02T17:37:47.865Z</updated>
+        <updated>2024-04-03T05:35:25.991Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/curio-rekt/"> <!-- -->Curio - REKT</a></h5><hr><span class="post-meta"><time>Tuesday, March 26, 2024</time><p><span><a href="/?tag=Curio">Curio</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Curio's MakerDAO-based smart contract on Ethereum was exploited for $16 million, due to a critical vulnerability involving voting power privileges.</p><p class="post-excerpt-more"><a href="/curio-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2024-04-02T17:37:47.866Z</updated>
+        <updated>2024-04-03T05:35:25.992Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/sss-rekt/"> <!-- -->Super Sushi Samurai - REKT</a></h5><hr><span class="post-meta"><time>Friday, March 22, 2024</time><p><span><a href="/?tag=Super+Sushi+Samurai">Super Sushi Samurai</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Blast L2-based game Super Sushi Samurai's LP drained $4.8m in contract bug exploit shortly after its launch, and the price dropped 99.9%.</p><p class="post-excerpt-more"><a href="/sss-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2024-04-02T17:37:47.867Z</updated>
+        <updated>2024-04-03T05:35:25.993Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/slerf-rekt/"> <!-- -->Slerf - Rekt</a></h5><hr><span class="post-meta"><time>Tuesday, March 19, 2024</time><p><span><a href="/?tag=Slerf">Slerf</a></span><span> - <a href="/?tag=Rekt">Rekt</a></span></p></span><hr></header><section class="post-excerpt"><p>Solana Meme Coin SLERF turns into a hot mess after dev's $10M fumble.</p><p class="post-excerpt-more"><a href="/slerf-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2024-04-02T17:37:47.868Z</updated>
+        <updated>2024-04-03T05:35:25.994Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/sushiswap-somethingsmells-fishy/"> <!-- -->Sushi - Something Smells Fishy</a></h5><hr><span class="post-meta"><time>Thursday, March 14, 2024</time><p><span><a href="/?tag=Sushi">Sushi</a></span><span> - <a href="/?tag=Governance">Governance</a></span></p></span><hr></header><section class="post-excerpt"><p>Once seen as one of the darlings of Defi among Uniswap, Curve and Aave. SushiSwap showed a lot of promise, but that promise has been overshadowed by drama, which can be relentless at times. If we could have a leader board of Defi trainwrecks, surely Sushiswap would make the list.</p><p class="post-excerpt-more"><a href="/sushiswap-somethingsmells-fishy/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2024-04-02T17:37:47.869Z</updated>
+        <updated>2024-04-03T05:35:25.995Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/unizen-rekt/"> <!-- -->Unizen - Rekt</a></h5><hr><span class="post-meta"><time>Tuesday, March 12, 2024</time><p><span><a href="/?tag=Unizen">Unizen</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>March 8th, $2.1M was stolen in multiple attacks on the ETH-based DEX shortly after a contract upgrade to their DEX aggregation contract.</p><p class="post-excerpt-more"><a href="/unizen-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2024-04-02T17:37:47.872Z</updated>
+        <updated>2024-04-03T05:35:25.996Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/woo-rekt/"> <!-- -->Woofi - Rekt</a></h5><hr><span class="post-meta"><time>Wednesday, March 6, 2024</time><p><span><a href="/?tag=Woofi">Woofi</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>WooFi  got taken for a $8.5 Million ride on March 5th, after a flash loan attack on Arbitrum.</p><p class="post-excerpt-more"><a href="/woo-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2024-04-02T17:37:47.872Z</updated>
+        <updated>2024-04-03T05:35:25.998Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/seneca-protocol-rekt/"> <!-- -->Seneca Protocol - REKT</a></h5><hr><span class="post-meta"><time>Thursday, February 29, 2024</time><p><span><a href="/?tag=Seneca+Protocol">Seneca Protocol</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Over $6.4 million was stolen from users wallets on February 28, thanks to the bad tao of Seneca. Roughly 80% of the funds were returned within a day. Clearly Seneca knew there were issues, but chose the reckless route.</p><p class="post-excerpt-more"><a href="/seneca-protocol-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[9]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2024-04-02T17:37:47.875Z</updated>
+        <updated>2024-04-03T05:35:25.999Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/communications-breakdown/"> <!-- -->Aave - Communication Breakdown</a></h5><hr><span class="post-meta"><time>Monday, February 26, 2024</time><p><span><a href="/?tag=Aave">Aave</a></span><span> - <a href="/?tag=Governance">Governance</a></span></p></span><hr></header><section class="post-excerpt"><p>Governance is a theater. Dramatic walkouts from liquidity experts and risk managers alike serve as stark reminders of the complexities and challenges of decentralized governance.</p><p class="post-excerpt-more"><a href="/communications-breakdown/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2024-04-02T17:37:47.876Z</updated>
+        <updated>2024-04-03T05:35:26.000Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/abra-rekt/"> <!-- -->Abracadabra - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, January 31, 2024</time><p><span><a href="/?tag=Abracadabra">Abracadabra</a></span><span> - <a href="/?tag=MIM">MIM</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>On-chain black magic led to two of Abracadabra’s cauldrons springing a leak yesterday. $6.5M gone and MIM losing its magic... What dark arts are needed for a full repeg?</p><p class="post-excerpt-more"><a href="/abra-rekt/">MORE</a></p></section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[11]]></title>
         <id>https://rekt.news/</id>
         <link href="https://rekt.news/"/>
-        <updated>2024-04-02T17:37:47.877Z</updated>
+        <updated>2024-04-03T05:35:26.003Z</updated>
         <content type="html"><![CDATA[<header class="post-header"><h5 class="post-title"><a href="/socket-rekt/"> <!-- -->Socket - REKT</a></h5><hr><span class="post-meta"><time>Wednesday, January 17, 2024</time><p><span><a href="/?tag=Socket">Socket</a></span><span> - <a href="/?tag=Bungee">Bungee</a></span><span> - <a href="/?tag=Bridge">Bridge</a></span><span> - <a href="/?tag=REKT">REKT</a></span></p></span><hr></header><section class="post-excerpt"><p>Infinite approvals… the ultimate leap of faith. Socket’s Bungee bridge lost $3.3M yesterday. Have you checked your approvals lately?</p><p class="post-excerpt-more"><a href="/socket-rekt/">MORE</a></p></section>]]></content>
     </entry>
 </feed>
