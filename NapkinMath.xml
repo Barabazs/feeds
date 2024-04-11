@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2024-04-11T05:35:16.411Z</updated>
+    <updated>2024-04-11T17:36:44.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[How I Use ChatGPT (As A Reasonable Person)]]></title>
+        <title type="html"><![CDATA[Can the Truly MoralBillionaire Please Stand Up?]]></title>
+        <id>https://every.to/napkin-math/can-the-truly-moral-billionaire-please-stand-up</id>
+        <link href="https://every.to/napkin-math/can-the-truly-moral-billionaire-please-stand-up"/>
+        <updated>2024-04-11T17:35:55.133Z</updated>
+        <content type="html"><![CDATA[My quest to find Jesus Christ with a Gulfstream]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Use ChatGPT (AsA Reasonable Person)]]></title>
         <id>https://every.to/napkin-math/how-i-use-chatgpt-as-a-reasonable-person</id>
         <link href="https://every.to/napkin-math/how-i-use-chatgpt-as-a-reasonable-person"/>
         <updated>2024-04-04T17:34:47.640Z</updated>
@@ -69,7 +76,7 @@
         <content type="html"><![CDATA[The future must be built on truth]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI and the Vision Pro Don’t Need a Killer App]]></title>
+        <title type="html"><![CDATA[AI and the Vision ProDon’t Need a Killer App]]></title>
         <id>https://every.to/napkin-math/ai-and-the-vision-pro-don-t-need-a-killer-app</id>
         <link href="https://every.to/napkin-math/ai-and-the-vision-pro-don-t-need-a-killer-app"/>
         <updated>2024-02-22T17:34:35.056Z</updated>
@@ -118,7 +125,7 @@
         <content type="html"><![CDATA[If you want to develop great<br data-owner="balance-text">taste, you must taste a lot of stuff]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Should You Fire This Newsletter? 2023 Edition]]></title>
+        <title type="html"><![CDATA[Should You Fire ThisNewsletter? 2023 Edition]]></title>
         <id>https://every.to/napkin-math/should-you-fire-this-newsletter-2023-edition</id>
         <link href="https://every.to/napkin-math/should-you-fire-this-newsletter-2023-edition"/>
         <updated>2023-12-21T17:34:44.411Z</updated>
@@ -146,7 +153,7 @@
         <content type="html"><![CDATA[Amazon and Berkshire Hathaway got<br data-owner="balance-text">really big. Here’s why it might kill them.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How I Use ChatGPT (As A Reasonable Person)]]></title>
+        <title type="html"><![CDATA[How I Use ChatGPT (AsA Reasonable Person)]]></title>
         <id>https://every.to/napkin-math/how-i-a-reasonable-person-use-chatgpt</id>
         <link href="https://every.to/napkin-math/how-i-a-reasonable-person-use-chatgpt"/>
         <updated>2023-11-30T17:34:50.146Z</updated>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/we-should-all-want-to-be-mitt-romney"/>
         <updated>2023-11-09T17:35:12.052Z</updated>
         <content type="html"><![CDATA[What is the point of F U money if you never say F U?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Win Argumentsand Manipulate Managers]]></title>
-        <id>https://every.to/napkin-math/how-to-win-arguments-and-manipulate-managers</id>
-        <link href="https://every.to/napkin-math/how-to-win-arguments-and-manipulate-managers"/>
-        <updated>2023-11-02T17:35:31.735Z</updated>
-        <content type="html"><![CDATA[Make your spreadsheets shape strategy]]></content>
     </entry>
 </feed>
