@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2024-04-16T05:35:23.638Z</updated>
+    <updated>2024-04-16T17:37:32.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Distribution Is King]]></title>
+        <id>https://every.to/napkin-math/distribution-is-king</id>
+        <link href="https://every.to/napkin-math/distribution-is-king"/>
+        <updated>2024-04-16T17:36:39.428Z</updated>
+        <content type="html"><![CDATA[What video games can teach us about<br data-owner="balance-text">building billion-dollar companies]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can the Truly MoralBillionaire Please Stand Up?]]></title>
         <id>https://every.to/napkin-math/can-the-truly-moral-billionaire-please-stand-up</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/cogs-how-i-bankrupted-moviepass-c6535dbb-3ea2-4329-ac3e-1249415ae81b"/>
         <updated>2023-11-16T17:34:29.568Z</updated>
         <content type="html"><![CDATA[An intuitive explainer for how<br data-owner="balance-text">to lose money and win anyway]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Should All Want to Be Mitt Romney]]></title>
-        <id>https://every.to/napkin-math/we-should-all-want-to-be-mitt-romney</id>
-        <link href="https://every.to/napkin-math/we-should-all-want-to-be-mitt-romney"/>
-        <updated>2023-11-09T17:35:12.052Z</updated>
-        <content type="html"><![CDATA[What is the point of F U money if you never say F U?]]></content>
     </entry>
 </feed>
