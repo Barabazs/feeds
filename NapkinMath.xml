@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2024-04-18T05:35:27.282Z</updated>
+    <updated>2024-04-18T17:35:29.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Don’t Dismiss the Apple Vision Pro]]></title>
+        <id>https://every.to/napkin-math/don-t-dismiss-the-apple-vision-pro</id>
+        <link href="https://every.to/napkin-math/don-t-dismiss-the-apple-vision-pro"/>
+        <updated>2024-04-18T17:34:42.124Z</updated>
+        <content type="html"><![CDATA[Apple has a hit on its hands. Will it seize the opportunity?]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Distribution Is King]]></title>
         <id>https://every.to/napkin-math/distribution-is-king</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/the-case-against-sam-altman"/>
         <updated>2023-11-21T17:37:02.313Z</updated>
         <content type="html"><![CDATA[The board is bad at their job, but they may not be crazy]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COGS: How I Bankrupted MoviePass]]></title>
-        <id>https://every.to/napkin-math/cogs-how-i-bankrupted-moviepass-c6535dbb-3ea2-4329-ac3e-1249415ae81b</id>
-        <link href="https://every.to/napkin-math/cogs-how-i-bankrupted-moviepass-c6535dbb-3ea2-4329-ac3e-1249415ae81b"/>
-        <updated>2023-11-16T17:34:29.568Z</updated>
-        <content type="html"><![CDATA[An intuitive explainer for how<br data-owner="balance-text">to lose money and win anyway]]></content>
     </entry>
 </feed>
