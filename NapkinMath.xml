@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2024-05-07T05:36:08.770Z</updated>
+    <updated>2024-05-07T17:35:37.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Right Kind of Asshole]]></title>
+        <id>https://every.to/napkin-math/the-right-kind-of-asshole</id>
+        <link href="https://every.to/napkin-math/the-right-kind-of-asshole"/>
+        <updated>2024-05-07T17:34:48.937Z</updated>
+        <content type="html"><![CDATA[A founder’s personality can<br data-owner="balance-text">differentiate them—or destroy them]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The AI Hardware Dilemma]]></title>
         <id>https://every.to/napkin-math/the-ai-hardware-dilemma</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/want-to-build-technical-excellence-won-t-be-enough"/>
         <updated>2023-12-14T17:34:52.665Z</updated>
         <content type="html"><![CDATA[This new era of startups requires a<br data-owner="balance-text">founder baptized in the humanities]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Impossibility of Being Charlie]]></title>
-        <id>https://every.to/napkin-math/the-impossibility-of-being-charlie</id>
-        <link href="https://every.to/napkin-math/the-impossibility-of-being-charlie"/>
-        <updated>2023-12-07T17:34:46.163Z</updated>
-        <content type="html"><![CDATA[RIP to nerd Jesus]]></content>
     </entry>
 </feed>
