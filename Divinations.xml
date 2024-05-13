@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/divinations?sort=newest</id>
     <title>Divinations</title>
-    <updated>2024-05-12T17:36:43.833Z</updated>
+    <updated>2024-05-13T05:37:05.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
     <entry>
@@ -24,7 +24,7 @@
         <id>https://every.to/divinations/noise-canceling-filters-for-the-internet-are-coming</id>
         <link href="https://every.to/divinations/noise-canceling-filters-for-the-internet-are-coming"/>
         <updated>2024-03-27T17:34:39.012Z</updated>
-        <content type="html"><![CDATA[What happens when “the algorithm”<br data-owner="balance-text">is just a prompt to GPT-4?]]></content>
+        <content type="html"><![CDATA[What happens when “the algorithm” is just a prompt to GPT-4?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Robo-Coaches Are Here]]></title>
