@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://every.to/napkin-math?sort=newest</id>
     <title>Napkin Math</title>
-    <updated>2024-05-23T05:36:51.727Z</updated>
+    <updated>2024-05-23T17:36:33.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://every.to/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Microsoft’s Boring but Profitable Future]]></title>
+        <id>https://every.to/napkin-math/microsoft-s-boring-but-profitable-future</id>
+        <link href="https://every.to/napkin-math/microsoft-s-boring-but-profitable-future"/>
+        <updated>2024-05-23T17:35:45.112Z</updated>
+        <content type="html"><![CDATA[The PC giant is making Windows exciting again]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Goes All In on AI]]></title>
         <id>https://every.to/napkin-math/google-goes-all-in-on-ai</id>
@@ -172,12 +179,5 @@
         <link href="https://every.to/napkin-math/the-zone-of-deployment"/>
         <updated>2024-01-25T17:35:09.502Z</updated>
         <content type="html"><![CDATA[How can you know when to invest?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Books, Videos, Movies, and TVShows That Changed Me Last Year]]></title>
-        <id>https://every.to/napkin-math/the-books-youtube-videos-movies-and-tv-shows-that-changed-me-last-year</id>
-        <link href="https://every.to/napkin-math/the-books-youtube-videos-movies-and-tv-shows-that-changed-me-last-year"/>
-        <updated>2024-01-11T17:34:34.096Z</updated>
-        <content type="html"><![CDATA[If you want to develop great<br data-owner="balance-text">taste, you must taste a lot of stuff]]></content>
     </entry>
 </feed>
