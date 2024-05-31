@@ -7,12 +7,3 @@ linkSelector = "h3 a"
 contentSelector = "h4"
 onFail = "stale"
 timeout = 120
-
-[NFX]
-title = "NFX"
-url = "https://www.nfx.com/"
-entrySelector = ".flex.flex-col.gap-4 > div"
-titleSelector = "div:first-child a"
-linkSelector = "div:first-child a"
-onFail = "stale"
-timeout = 120
