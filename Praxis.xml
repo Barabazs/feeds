@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://every.to/praxis?sort=newest</id>
-    <title>Praxis</title>
-    <updated>2024-05-31T11:19:57.818Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://every.to/favicon.ico</icon>
-</feed>
