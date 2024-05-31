@@ -138,15 +138,6 @@ contentSelector = ".w-dyn-item .dark-dimmed-text"
 onFail = "stale"
 timeout = 120
 
-[SoftwareLeadWeekly]
-title = "Software Lead Weekly"
-url = "https://softwareleadweekly.com/issues/"
-entrySelector = ".table-issue"
-titleSelector = ".head-table-issue > .title-table-issue > a"
-linkSelector = ".head-table-issue > .title-table-issue > a"
-onFail = "stale"
-timeout = 120
-
 [rektNews]
 title = "Rekt.news"
 url = "https://rekt.news/"
