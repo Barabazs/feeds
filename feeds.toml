@@ -8,3 +8,15 @@ dateSelector = "span"
 dateFormat = "MMM d, yyyy"
 onFail = "error"
 timeout = 120
+
+[DeGatchi]
+title = "DeGatchi's Articles"
+url = "https://degatchi.com/articles"
+entrySelector = "section>ul>li"
+titleSelector = "a>div>div:nth-child(1)"
+contentSelector = "a>div>q"
+linkSelector = "a"
+dateSelector = "time"
+dateFormat = "d MMM yyyy"
+onFail = "error"
+timeout = 120
