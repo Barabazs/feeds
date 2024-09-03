@@ -7,3 +7,14 @@ linkSelector = "h3 a"
 contentSelector = "h4"
 onFail = "stale"
 timeout = 120
+
+[toniwahrstaetter]
+title = "Anton Wahrstätter's Blog"
+url = "https://blog.toniwahrstaetter.com/"
+entrySelector = "ul>li"
+titleSelector = "h3"
+linkSelector = "h3 a"
+dateSelector = "span"
+dateFormat = "MMM d, YYYY"
+onFail = "stale"
+timeout = 120
