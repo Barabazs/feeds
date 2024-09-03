@@ -5,6 +5,6 @@ entrySelector = "ul>li"
 titleSelector = "h3"
 linkSelector = "h3 a"
 dateSelector = "span"
-dateFormat = "MMM d, YYYY"
+dateFormat = "MMM d, yyyy"
 onFail = "error"
 timeout = 120
