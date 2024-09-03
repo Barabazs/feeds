@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Barabazs.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2024-09-03T08:58:31.885Z</updated>
+    <id>https://blog.toniwahrstaetter.com/</id>
+    <title>Anton Wahrstätter's Blog</title>
+    <updated>2024-09-03T08:58:31.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://blog.toniwahrstaetter.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Is it worth using MEV-Boost? (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[Is it worth using MEV-Boost?]]></title>
         <id>https://ethresear.ch/t/is-it-worth-using-mev-boost/19753</id>
         <link href="https://ethresear.ch/t/is-it-worth-using-mev-boost/19753"/>
         <updated>2024-06-06T00:00:00.000Z</updated>
@@ -15,7 +16,7 @@
     </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Big blocks, blobs, and reorgs. (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[Big blocks, blobs, and reorgs.]]></title>
         <id>https://ethresear.ch/t/big-blocks-blobs-and-reorgs/19674</id>
         <link href="https://ethresear.ch/t/big-blocks-blobs-and-reorgs/19674"/>
         <updated>2024-05-29T00:00:00.000Z</updated>
@@ -25,7 +26,7 @@
     </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slashing Proofoor - On-chain slashed validator proofs. (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[Slashing Proofoor - On-chain slashed validator proofs.]]></title>
         <id>https://ethresear.ch/t/slashing-proofoor-on-chain-slashed-validator-proofs/19421</id>
         <link href="https://ethresear.ch/t/slashing-proofoor-on-chain-slashed-validator-proofs/19421"/>
         <updated>2024-04-30T00:00:00.000Z</updated>
@@ -35,7 +36,7 @@
     </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Analysis on Correlated Attestation Penalties. (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[Analysis on Correlated Attestation Penalties.]]></title>
         <id>https://ethresear.ch/t/analysis-on-correlated-attestation-penalties/19244</id>
         <link href="https://ethresear.ch/t/analysis-on-correlated-attestation-penalties/19244"/>
         <updated>2024-04-09T00:00:00.000Z</updated>
@@ -45,7 +46,7 @@
     </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EIP-7623 - Post-4844 Analysis. (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[EIP-7623 - Post-4844 Analysis.]]></title>
         <id>https://ethresear.ch/t/eip-7623-post-4844-analysis/19199</id>
         <link href="https://ethresear.ch/t/eip-7623-post-4844-analysis/19199"/>
         <updated>2024-04-03T00:00:00.000Z</updated>
@@ -55,7 +56,7 @@
     </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Analyzing EIP-7623: Increase Calldata Cost. (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[Analyzing EIP-7623: Increase Calldata Cost.]]></title>
         <id>https://ethresear.ch/t/analyzing-eip-7623-increase-calldata-cost/19002</id>
         <link href="https://ethresear.ch/t/analyzing-eip-7623-increase-calldata-cost/19002"/>
         <updated>2024-03-14T00:00:00.000Z</updated>
@@ -65,7 +66,7 @@
     </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On Increasing the Block Gas Limit. (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[On Increasing the Block Gas Limit.]]></title>
         <id>https://ethresear.ch/t/on-increasing-the-block-gas-limit/18567</id>
         <link href="https://ethresear.ch/t/on-increasing-the-block-gas-limit/18567"/>
         <updated>2024-02-05T00:00:00.000Z</updated>
@@ -75,7 +76,7 @@
     </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On Block Sizes, Gas Limits and Scalability. (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[On Block Sizes, Gas Limits and Scalability.]]></title>
         <id>https://ethresear.ch/t/on-block-sizes-gas-limits-and-scalability/184443</id>
         <link href="https://ethresear.ch/t/on-block-sizes-gas-limits-and-scalability/184443"/>
         <updated>2024-01-24T00:00:00.000Z</updated>
@@ -85,7 +86,7 @@
     </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In a post MEV-Burn world - Some simulations and stats. (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[In a post MEV-Burn world - Some simulations and stats.]]></title>
         <id>https://ethresear.ch/t/in-a-post-mev-burn-world-some-simulations-and-stats/17092</id>
         <link href="https://ethresear.ch/t/in-a-post-mev-burn-world-some-simulations-and-stats/17092"/>
         <updated>2023-10-16T00:00:00.000Z</updated>
@@ -95,7 +96,7 @@
     </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cumulative, Non-Expiring Inclusion Lists. (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[Cumulative, Non-Expiring Inclusion Lists.]]></title>
         <id>https://ethresear.ch/t/cumulative-non-expiring-inclusion-lists/16520</id>
         <link href="https://ethresear.ch/t/cumulative-non-expiring-inclusion-lists/16520"/>
         <updated>2023-08-31T00:00:00.000Z</updated>
@@ -105,7 +106,7 @@
     </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Second-Slot Itch - Statistical Analysis of Reorgs. (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[The Second-Slot Itch - Statistical Analysis of Reorgs.]]></title>
         <id>https://ethresear.ch/t/the-second-slot-itch-statistical-analysis-of-reorgs/16333</id>
         <link href="https://ethresear.ch/t/the-second-slot-itch-statistical-analysis-of-reorgs/16333"/>
         <updated>2023-08-10T00:00:00.000Z</updated>
@@ -115,7 +116,7 @@
     </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Selfish Mixing and RANDAO Manipulation. (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[Selfish Mixing and RANDAO Manipulation.]]></title>
         <id>https://ethresear.ch/t/selfish-mixing-and-randao-manipulation/16081</id>
         <link href="https://ethresear.ch/t/selfish-mixing-and-randao-manipulation/16081"/>
         <updated>2023-07-10T00:00:00.000Z</updated>
@@ -125,7 +126,7 @@
     </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gas Ticketing - A Backstage Pass to Ethereum Blocks. (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[Gas Ticketing - A Backstage Pass to Ethereum Blocks.]]></title>
         <id>https://hackmd.io/@Nerolation/rkp8LyRUh</id>
         <link href="https://hackmd.io/@Nerolation/rkp8LyRUh"/>
         <updated>2023-06-11T00:00:00.000Z</updated>
@@ -135,7 +136,7 @@
     </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Builders on MEV - Analysing the impact of the OFAC sanctions on Block Builders. (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[Builders on MEV - Analysing the impact of the OFAC sanctions on Block Builders.]]></title>
         <id>https://blog.toniwahrstaetter.com/builder-censorship.html</id>
         <link href="https://blog.toniwahrstaetter.com/builder-censorship.html"/>
         <updated>2023-01-30T00:00:00.000Z</updated>
@@ -145,7 +146,7 @@
     </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Practical Guide into Analyzing MEV in the Proof-of-Stake Era. (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[Practical Guide into Analyzing MEV in the Proof-of-Stake Era.]]></title>
         <id>https://medium.com/@toni_w/practical-guide-into-analyzing-mev-in-the-proof-of-stake-era-e2b024509918</id>
         <link href="https://medium.com/@toni_w/practical-guide-into-analyzing-mev-in-the-proof-of-stake-era-e2b024509918"/>
         <updated>2022-10-18T00:00:00.000Z</updated>
@@ -155,7 +156,7 @@
     </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ERC-5564: Improving Privacy on Ethereum through Stealth Address Wallets. (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[ERC-5564: Improving Privacy on Ethereum through Stealth Address Wallets.]]></title>
         <id>https://blog.toniwahrstaetter.com/eip5564.html</id>
         <link href="https://blog.toniwahrstaetter.com/eip5564.html"/>
         <updated>2022-09-03T00:00:00.000Z</updated>
@@ -165,7 +166,7 @@
     </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ethereum Datafarm: Parsing Historic Event Data from the Ethereum Blockchain into CSV files using the Etherscan API. (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[Ethereum Datafarm: Parsing Historic Event Data from the Ethereum Blockchain into CSV files using the Etherscan API.]]></title>
         <id>https://medium.com/@toni_w/ethereum-datafarm-parsing-historic-event-data-from-the-ethereum-blockchain-into-csv-files-using-9c7ec79dfe7c</id>
         <link href="https://medium.com/@toni_w/ethereum-datafarm-parsing-historic-event-data-from-the-ethereum-blockchain-into-csv-files-using-9c7ec79dfe7c"/>
         <updated>2022-08-29T00:00:00.000Z</updated>
@@ -175,7 +176,7 @@
     </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ERC721 Extension for zk-SNARKs. (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[ERC721 Extension for zk-SNARKs.]]></title>
         <id>https://ethresear.ch/t/erc721-extension-for-zk-snarks/13237</id>
         <link href="https://ethresear.ch/t/erc721-extension-for-zk-snarks/13237"/>
         <updated>2022-08-04T00:00:00.000Z</updated>
@@ -185,7 +186,7 @@
     </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Privacy-Preserving Proof of Ownership for Attendance Tokens (PoA) using zk-SNARKs. (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[Privacy-Preserving Proof of Ownership for Attendance Tokens (PoA) using zk-SNARKs.]]></title>
         <id>https://medium.com/@toni_w/privacy-preserving-proof-of-owernship-for-attendance-tokens-poa-using-zk-snarks-4fddabedfddb</id>
         <link href="https://medium.com/@toni_w/privacy-preserving-proof-of-owernship-for-attendance-tokens-poa-using-zk-snarks-4fddabedfddb"/>
         <updated>2022-07-24T00:00:00.000Z</updated>
@@ -195,7 +196,7 @@
     </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bitcoin Full Node Setup on Custom Location. (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[Bitcoin Full Node Setup on Custom Location.]]></title>
         <id>https://medium.com/@toni_w/set-up-a-bitcoin-core-full-node-with-a-custom-data-directory-5a073ab9a2c5</id>
         <link href="https://medium.com/@toni_w/set-up-a-bitcoin-core-full-node-with-a-custom-data-directory-5a073ab9a2c5"/>
         <updated>2022-06-19T00:00:00.000Z</updated>
@@ -205,7 +206,7 @@
     </h3>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hashing Data To Ethereum. (Anton Wahrstätter's Blog)]]></title>
+        <title type="html"><![CDATA[Hashing Data To Ethereum.]]></title>
         <id>https://medium.com/@toni_w/hash-to-ethereum-f554fee4d055</id>
         <link href="https://medium.com/@toni_w/hash-to-ethereum-f554fee4d055"/>
         <updated>2020-03-21T00:00:00.000Z</updated>
