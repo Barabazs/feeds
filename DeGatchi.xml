@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://degatchi.com/articles</id>
+    <title>DeGatchi's Articles</title>
+    <updated>2024-09-03T09:37:38.342Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://degatchi.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Perfect Plan]]></title>
+        <id>https://degatchi.com/articles/the-perfect-plan</id>
+        <link href="https://degatchi.com/articles/the-perfect-plan"/>
+        <updated>2024-09-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Too often do we obsess over the perfect plan to chase our dreams, resulting in analysis paralysis. Instead of being stuck in this limbo, I've made the perfect plan for anyone to chase their dreams.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dream A Little]]></title>
+        <id>https://degatchi.com/articles/dream-a-little</id>
+        <link href="https://degatchi.com/articles/dream-a-little"/>
+        <updated>2024-08-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[It's saddening to see 99% of people lose their spark as they reach adulthood. From curious driven children to mindless robots, oh what a world we live in, or should I say exist in for most. If money wasn't an issue what would you do? If you can't answer this then you have a big problem, anon-kun.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learning Is Hard...]]></title>
+        <id>https://degatchi.com/articles/learning-is-hard</id>
+        <link href="https://degatchi.com/articles/learning-is-hard"/>
+        <updated>2024-08-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[When we look at people better than us in a certain something we often don't consider the amount of pain and suffering that person went through to get to that point. A level 3 crook wants to be world-class at something but doesn't go through the torturous regime it takes to get to level 99 and reap the rewards. It's okay, anon-kun. I'm here to eliminate the fog of war and show you the limelight!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking Algebra (WIP)]]></title>
+        <id>https://degatchi.com/articles/unlocking-algebra</id>
+        <link href="https://degatchi.com/articles/unlocking-algebra"/>
+        <updated>2024-08-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Want to learn math but not sure how to start? Feel like you're bad at math? Or maybe, you know different parts of math but there are holes in your mental model. Follow DeGatchi along this ride to get an intuition of how math works algebraically, as he once was 'bad at math' and had completely fragmented mental math models.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A Brand]]></title>
+        <id>https://degatchi.com/articles/build-a-brand</id>
+        <link href="https://degatchi.com/articles/build-a-brand"/>
+        <updated>2024-04-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[One of the most powerful forms of leverage, that lasts a lifetime, is branding. Whether business or personal branding the concepts apply to both. Branding is the association between entity and things you want to relate to. Whether you're an entrepreneur or a person sitting at your desk at 2 am contemplating 'How do I make content', 'I want to express how I feel', 'I need to share my thoughts with the world in hopes someone, anyone, can find me, relate to me in this desolate sphere we call home' then you're in the right place!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leaving For London]]></title>
+        <id>https://degatchi.com/articles/leaving-for-london</id>
+        <link href="https://degatchi.com/articles/leaving-for-london"/>
+        <updated>2024-01-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Enter the mind of DeGatchi as he moves continents, once again! Ever wondered what happens in a developer's life? Someone you relate to or look up to? In this article DeGatchi exaplains his rationale for leaving his home country to venture into a new one to start a new life -- all in the name of *blank*...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swimming Safely In The Public Mempool: MEV Smart Contract Obfuscation Techniques]]></title>
+        <id>https://degatchi.com/articles/mev-smart-contract-obfuscation</id>
+        <link href="https://degatchi.com/articles/mev-smart-contract-obfuscation"/>
+        <updated>2024-01-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In blockchain, generalized frontrunners in MEV abuse the well-known standards of smart contract, therefore obfuscation techniques are essential for MEV operators. Over the past year I've created some zero-day techniques for avoiding these sharks in the mempool of Ethereum and all other existing blockchains in web3. Whether you're a semi-vet like DeGatchi or are just starting in the the MEV world of ETH, you are able to deploy these obfuscation techniques on day 1 to potentially gain an edge on your competition. Godspeed, anon!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeGatchi's Life Plan]]></title>
+        <id>https://degatchi.com/articles/life-plan</id>
+        <link href="https://degatchi.com/articles/life-plan"/>
+        <updated>2023-10-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Ever wondered what DeGatchi's life looks like or what he wants to accomplish in life? Well, here's an exclusive look into the mysterious mind of DeGatchi. Maybe you'll be inspired, maybe you wont give a single shit, but here it is!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humanity: The Age Of AI]]></title>
+        <id>https://degatchi.com/articles/the-age-of-ai</id>
+        <link href="https://degatchi.com/articles/the-age-of-ai"/>
+        <updated>2023-10-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Delve into the essence of Artificial Intelligence (AI) and explore its profound implications for humanity in reshaping the modern world. Join us on a visionary journey into the imminent future, where AI stands at the helm of the most significant and transformative era the human race has ever witnessed. With AI's unparalleled potential, we are on the cusp of transcending conventional boundaries, heralding a new chapter of innovation, evolution, and infinite possibilities.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Learn Fast]]></title>
+        <id>https://degatchi.com/articles/how-to-learn-fast</id>
+        <link href="https://degatchi.com/articles/how-to-learn-fast"/>
+        <updated>2023-04-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Whether you're a beginner developer starting from scratch or an intermediate developer seeking to level up, having an efficient learning strategy in place is crucial. Learning a new topic can unlock a realm of possibilities that can significantly impact the trajectory of your journey. In this article, DeGatchi will explain how he managed to optimize his learning as a self-taught developer with no prior experience, eventually becoming a renowned EVM developer.]]></content>
+    </entry>
+</feed>
