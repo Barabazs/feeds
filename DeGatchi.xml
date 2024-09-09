@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://degatchi.com/articles</id>
     <title>DeGatchi's Articles</title>
-    <updated>2024-09-09T15:07:16.292Z</updated>
+    <updated>2024-09-09T17:38:16.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://degatchi.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[A Retard's Mathematical Evolutionary Philosophy]]></title>
+        <id>https://degatchi.com/articles/mathematical-evolutionary-philosophy</id>
+        <link href="https://degatchi.com/articles/mathematical-evolutionary-philosophy"/>
+        <updated>2024-09-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[What happens when you combine existential philosophy w/ the background of mathematical mutation-based evolutionary biology? A borderline crazy person or a genius? Who knows! Let's take a look into the mind of DeGatchi as we explore the world of artificial possibilities.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Perfect Plan]]></title>
         <id>https://degatchi.com/articles/the-perfect-plan</id>
@@ -25,6 +32,13 @@
         <link href="https://degatchi.com/articles/learning-is-hard"/>
         <updated>2024-08-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[When we look at people better than us in a certain something we often don't consider the amount of pain and suffering that person went through to get to that point. A level 3 crook wants to be world-class at something but doesn't go through the torturous regime it takes to get to level 99 and reap the rewards. It's okay, anon-kun. I'm here to eliminate the fog of war and show you the limelight!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Quadratics (WIP)]]></title>
+        <id>https://degatchi.com/articles/understanding-quadratics</id>
+        <link href="https://degatchi.com/articles/understanding-quadratics"/>
+        <updated>2024-08-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Not getting quadratics? Same! With today's mental gym sesh we're doing leg day, focusing on quadratics. I know, the dreaded quadratic. Fuck them. But we need to understand them to move onto the other cool shit in math. Lets see whether we can get it to click!]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Unlocking Algebra (WIP)]]></title>
@@ -60,19 +74,5 @@
         <link href="https://degatchi.com/articles/life-plan"/>
         <updated>2023-10-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Ever wondered what DeGatchi's life looks like or what he wants to accomplish in life? Well, here's an exclusive look into the mysterious mind of DeGatchi. Maybe you'll be inspired, maybe you wont give a single shit, but here it is!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humanity: The Age Of AI]]></title>
-        <id>https://degatchi.com/articles/the-age-of-ai</id>
-        <link href="https://degatchi.com/articles/the-age-of-ai"/>
-        <updated>2023-10-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Delve into the essence of Artificial Intelligence (AI) and explore its profound implications for humanity in reshaping the modern world. Join us on a visionary journey into the imminent future, where AI stands at the helm of the most significant and transformative era the human race has ever witnessed. With AI's unparalleled potential, we are on the cusp of transcending conventional boundaries, heralding a new chapter of innovation, evolution, and infinite possibilities.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Learn Fast]]></title>
-        <id>https://degatchi.com/articles/how-to-learn-fast</id>
-        <link href="https://degatchi.com/articles/how-to-learn-fast"/>
-        <updated>2023-04-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Whether you're a beginner developer starting from scratch or an intermediate developer seeking to level up, having an efficient learning strategy in place is crucial. Learning a new topic can unlock a realm of possibilities that can significantly impact the trajectory of your journey. In this article, DeGatchi will explain how he managed to optimize his learning as a self-taught developer with no prior experience, eventually becoming a renowned EVM developer.]]></content>
     </entry>
 </feed>
