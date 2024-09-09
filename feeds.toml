@@ -20,3 +20,12 @@ dateSelector = "time"
 dateFormat = "d MMM yyyy"
 onFail = "error"
 timeout = 120
+
+[CharlieMarsh]
+title = "Charlie Marsh's Articles"
+url = "https://www.crmarsh.com/archive/"
+entrySelector = "ul.posts-list>li"
+titleSelector = "a"
+linkSelector = "a"
+onFail = "error"
+timeout = 120
