@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://degatchi.com/articles</id>
     <title>DeGatchi's Articles</title>
-    <updated>2024-09-10T05:38:01.039Z</updated>
+    <updated>2024-09-10T17:37:03.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://degatchi.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Deducing God Exists With Logic?]]></title>
+        <id>https://degatchi.com/articles/deducing-god-exists-with-logic</id>
+        <link href="https://degatchi.com/articles/deducing-god-exists-with-logic"/>
+        <updated>2024-09-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Can Mathematics convert your religious beliefs? I think it's so. Through the power of reason and logic you can get to a new perspective.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Retard's Mathematical Evolutionary Philosophy]]></title>
         <id>https://degatchi.com/articles/mathematical-evolutionary-philosophy</id>
@@ -67,12 +74,5 @@
         <link href="https://degatchi.com/articles/mev-smart-contract-obfuscation"/>
         <updated>2024-01-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[In blockchain, generalized frontrunners in MEV abuse the well-known standards of smart contract, therefore obfuscation techniques are essential for MEV operators. Over the past year I've created some zero-day techniques for avoiding these sharks in the mempool of Ethereum and all other existing blockchains in web3. Whether you're a semi-vet like DeGatchi or are just starting in the the MEV world of ETH, you are able to deploy these obfuscation techniques on day 1 to potentially gain an edge on your competition. Godspeed, anon!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeGatchi's Life Plan]]></title>
-        <id>https://degatchi.com/articles/life-plan</id>
-        <link href="https://degatchi.com/articles/life-plan"/>
-        <updated>2023-10-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Ever wondered what DeGatchi's life looks like or what he wants to accomplish in life? Well, here's an exclusive look into the mysterious mind of DeGatchi. Maybe you'll be inspired, maybe you wont give a single shit, but here it is!]]></content>
     </entry>
 </feed>
