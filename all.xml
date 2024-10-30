@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Barabazs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-30T05:40:21.028Z</updated>
+    <updated>2024-10-30T17:38:23.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Is it worth using MEV-Boost? (Anton Wahrstätter's Blog)]]></title>
@@ -458,6 +458,13 @@
         <link href="https://www.crmarsh.com/np-vs-not-p"/>
         <updated>2024-09-09T15:07:15.551Z</updated>
         <content type="html"><![CDATA[<a target="_blank" href="/np-vs-not-p">NP != NOT P</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing a JSON parser using JFlex and Jacc (Java) (graffioh's blog)]]></title>
+        <id>https://graffioh.com/blog/post/29-10-2024-JSON-parser-with-JFlex-and-Jacc</id>
+        <link href="https://graffioh.com/blog/post/29-10-2024-JSON-parser-with-JFlex-and-Jacc"/>
+        <updated>2024-10-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/blog/post/29-10-2024-JSON-parser-with-JFlex-and-Jacc"> Writing a JSON parser using JFlex and Jacc (Java)</a><p class="text-sm text-stone-400">29-10-2024</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[39 Days of leetcode (graffioh's blog)]]></title>

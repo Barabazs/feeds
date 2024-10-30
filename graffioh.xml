@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://graffioh.com/blog/</id>
     <title>graffioh's blog</title>
-    <updated>2024-10-30T05:40:20.987Z</updated>
+    <updated>2024-10-30T17:38:23.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://graffioh.com/vite.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Writing a JSON parser using JFlex and Jacc (Java)]]></title>
+        <id>https://graffioh.com/blog/post/29-10-2024-JSON-parser-with-JFlex-and-Jacc</id>
+        <link href="https://graffioh.com/blog/post/29-10-2024-JSON-parser-with-JFlex-and-Jacc"/>
+        <updated>2024-10-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/blog/post/29-10-2024-JSON-parser-with-JFlex-and-Jacc"> Writing a JSON parser using JFlex and Jacc (Java)</a><p class="text-sm text-stone-400">29-10-2024</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[39 Days of leetcode]]></title>
         <id>https://graffioh.com/blog/post/14-09-2024-39-days-of-leetcode</id>
