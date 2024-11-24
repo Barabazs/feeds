@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://degatchi.com/articles</id>
     <title>DeGatchi's Articles</title>
-    <updated>2024-11-23T17:36:39.558Z</updated>
+    <updated>2024-11-24T05:38:42.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://degatchi.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Understanding Gradient Descent]]></title>
+        <id>https://degatchi.com/articles/gradient-descent</id>
+        <link href="https://degatchi.com/articles/gradient-descent"/>
+        <updated>2024-11-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Machine Learning (ML) and Artificial Intelligence (AI) relies heavily on this very intuitive differentiation-based algorithm called gradient descent. It gets us closer to our desired minima or maxima by starting with a value and adjusting that value based on the change of our gradient. In this article you'll learn to understand what is gradient descent and all the component apart of it. And then explore a few modifications of it from simple to advanced to solidify your understanding!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seesaw]]></title>
         <id>https://degatchi.com/articles/seesaw</id>
@@ -67,12 +74,5 @@
         <link href="https://degatchi.com/articles/build-a-brand"/>
         <updated>2024-04-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[One of the most powerful forms of leverage, that lasts a lifetime, is branding. Whether business or personal branding the concepts apply to both. Branding is the association between entity and things you want to relate to. Whether you're an entrepreneur or a person sitting at your desk at 2 am contemplating 'How do I make content', 'I want to express how I feel', 'I need to share my thoughts with the world in hopes someone, anyone, can find me, relate to me in this desolate sphere we call home' then you're in the right place!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leaving For London]]></title>
-        <id>https://degatchi.com/articles/leaving-for-london</id>
-        <link href="https://degatchi.com/articles/leaving-for-london"/>
-        <updated>2024-01-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Enter the mind of DeGatchi as he moves continents, once again! Ever wondered what happens in a developer's life? Someone you relate to or look up to? In this article DeGatchi exaplains his rationale for leaving his home country to venture into a new one to start a new life -- all in the name of *blank*...]]></content>
     </entry>
 </feed>
