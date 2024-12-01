@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://graffioh.com/blog/</id>
     <title>graffioh's blog</title>
-    <updated>2024-12-01T05:39:36.073Z</updated>
+    <updated>2024-12-01T17:37:30.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://graffioh.com/vite.svg</icon>
     <entry>
@@ -10,14 +10,14 @@
         <id>https://graffioh.com/blog/post/29-10-2024-JSON-parser-with-JFlex-and-Jacc</id>
         <link href="https://graffioh.com/blog/post/29-10-2024-JSON-parser-with-JFlex-and-Jacc"/>
         <updated>2024-10-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a href="/blog/post/29-10-2024-JSON-parser-with-JFlex-and-Jacc"> Writing a JSON parser using JFlex and Jacc (Java)</a><p class="text-sm text-stone-400">29-10-2024</p>]]></content>
+        <content type="html"><![CDATA[<a href="/blog/post/29-10-2024-JSON-parser-with-JFlex-and-Jacc"> Writing a JSON parser using JFlex and Jacc (Java)</a><p class="text-sm text-stone-400">10-29-2024</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[39 Days of leetcode]]></title>
         <id>https://graffioh.com/blog/post/14-09-2024-39-days-of-leetcode</id>
         <link href="https://graffioh.com/blog/post/14-09-2024-39-days-of-leetcode"/>
         <updated>2024-09-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a href="/blog/post/14-09-2024-39-days-of-leetcode"> 39 Days of leetcode</a><p class="text-sm text-stone-400">14-09-2024</p>]]></content>
+        <content type="html"><![CDATA[<a href="/blog/post/14-09-2024-39-days-of-leetcode"> 39 Days of leetcode</a><p class="text-sm text-stone-400">09-14-2024</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Authentication made simple, for the web (and more)]]></title>
