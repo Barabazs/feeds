@@ -39,6 +39,6 @@ titleSelector = "a"
 linkSelector = "a"
 dateSelector = "p"
 dateFormat = "dd-MM-yyyy"
-onFail = "error"
+onFail = "stale"
 timeout = 120
 
