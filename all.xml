@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Barabazs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-11T05:41:54.172Z</updated>
+    <updated>2024-12-11T17:40:37.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Is it worth using MEV-Boost? (Anton Wahrstätter's Blog)]]></title>
@@ -216,6 +216,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
+        <id>https://degatchi.com/articles/starting-malware-development</id>
+        <link href="https://degatchi.com/articles/starting-malware-development"/>
+        <updated>2024-12-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[After spending years in MEV and web3 infosec DeGatchi explains his reasoning behind switching to malware development. Although seemingly less money and entering an alreaedy mature field, it's clearly the most powerful long term decision to be made -- especially when combining malware development with custom evolutionary AI algorithms.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
         <id>https://degatchi.com/articles/gradient-descent</id>
         <link href="https://degatchi.com/articles/gradient-descent"/>
         <updated>2024-11-24T00:00:00.000Z</updated>
@@ -276,13 +283,6 @@
         <link href="https://degatchi.com/articles/unlocking-algebra"/>
         <updated>2024-08-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Want to learn math but not sure how to start? Feel like you're bad at math? Or maybe, you know different parts of math but there are holes in your mental model. Follow DeGatchi along this ride to get an intuition of how math works algebraically, as he once was 'bad at math' and had completely fragmented mental math models.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
-        <id>https://degatchi.com/articles/build-a-brand</id>
-        <link href="https://degatchi.com/articles/build-a-brand"/>
-        <updated>2024-04-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[One of the most powerful forms of leverage, that lasts a lifetime, is branding. Whether business or personal branding the concepts apply to both. Branding is the association between entity and things you want to relate to. Whether you're an entrepreneur or a person sitting at your desk at 2 am contemplating 'How do I make content', 'I want to express how I feel', 'I need to share my thoughts with the world in hopes someone, anyone, can find me, relate to me in this desolate sphere we call home' then you're in the right place!]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Building a Really, Really Small Android App (Charlie Marsh's Articles)]]></title>
