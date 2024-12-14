@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Barabazs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-14T05:40:14.691Z</updated>
+    <updated>2024-12-14T17:38:44.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Is it worth using MEV-Boost? (Anton Wahrstätter's Blog)]]></title>
@@ -219,7 +219,7 @@
         <id>https://degatchi.com/articles/baiting-mev-bots-univ2-token-trapper</id>
         <link href="https://degatchi.com/articles/baiting-mev-bots-univ2-token-trapper"/>
         <updated>2024-12-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[So many MEV take money from us but why don't people take money from them? I always thought about this when I was in my web3 cybersec assembly arc. I got quite fascinated with reverse engineering them and the contracts they interected with and realised there are some interesting things you can do with the uniswap code, since it has a few assumptions with the tokens you provide to create the pairs. Although not very practical it's definitely an intereting thought experiment that can provoke some further creativity!]]></content>
+        <content type="html"><![CDATA[So many MEV bots take money from people but why don't people take money from them? I always thought about this when I was in my web3 cybersec assembly arc. I got quite fascinated with reverse engineering them and the contracts they interected with and realised there are some interesting things you can do with the uniswap code, since it has a few assumptions with the tokens you provide to create the pairs. Although not very practical it's definitely an intereting thought experiment that can provoke some further creativity!]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
