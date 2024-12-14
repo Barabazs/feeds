@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://degatchi.com/articles</id>
     <title>DeGatchi's Articles</title>
-    <updated>2024-12-13T17:40:41.356Z</updated>
+    <updated>2024-12-14T05:40:14.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://degatchi.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
+        <id>https://degatchi.com/articles/baiting-mev-bots-univ2-token-trapper</id>
+        <link href="https://degatchi.com/articles/baiting-mev-bots-univ2-token-trapper"/>
+        <updated>2024-12-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[So many MEV take money from us but why don't people take money from them? I always thought about this when I was in my web3 cybersec assembly arc. I got quite fascinated with reverse engineering them and the contracts they interected with and realised there are some interesting things you can do with the uniswap code, since it has a few assumptions with the tokens you provide to create the pairs. Although not very practical it's definitely an intereting thought experiment that can provoke some further creativity!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
         <id>https://degatchi.com/articles/starting-malware-development</id>
         <link href="https://degatchi.com/articles/starting-malware-development"/>
         <updated>2024-12-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[After spending years in MEV and web3 infosec DeGatchi explains his reasoning behind switching to malware development. Although seemingly less money and entering an alreaedy mature field, it's clearly the most powerful long term decision to be made -- especially when combining malware development with custom evolutionary AI algorithms.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1]]></title>
+        <title type="html"><![CDATA[2]]></title>
         <id>https://degatchi.com/articles/gradient-descent</id>
         <link href="https://degatchi.com/articles/gradient-descent"/>
         <updated>2024-11-24T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Machine Learning (ML) and Artificial Intelligence (AI) relies heavily on this very intuitive differentiation-based algorithm called gradient descent. It gets us closer to our desired minima or maxima by starting with a value and adjusting that value based on the change of our gradient. In this article you'll learn to understand what is gradient descent and all the component apart of it. And then explore a few modifications of it from simple to advanced to solidify your understanding!]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2]]></title>
+        <title type="html"><![CDATA[3]]></title>
         <id>https://degatchi.com/articles/seesaw</id>
         <link href="https://degatchi.com/articles/seesaw"/>
         <updated>2024-10-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Who dares enter the darkness to find the light?]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3]]></title>
+        <title type="html"><![CDATA[4]]></title>
         <id>https://degatchi.com/articles/deducing-god-exists-with-logic</id>
         <link href="https://degatchi.com/articles/deducing-god-exists-with-logic"/>
         <updated>2024-09-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Can Mathematics convert your religious beliefs? I think it's so. Through the power of reason and logic you can get to a new perspective.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4]]></title>
+        <title type="html"><![CDATA[5]]></title>
         <id>https://degatchi.com/articles/mathematical-evolutionary-philosophy</id>
         <link href="https://degatchi.com/articles/mathematical-evolutionary-philosophy"/>
         <updated>2024-09-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[What happens when you combine existential philosophy w/ the background of mathematical mutation-based evolutionary biology? A borderline crazy person or a genius? Who knows! Let's take a look into the mind of DeGatchi as we explore the world of artificial possibilities.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5]]></title>
+        <title type="html"><![CDATA[6]]></title>
         <id>https://degatchi.com/articles/the-perfect-plan</id>
         <link href="https://degatchi.com/articles/the-perfect-plan"/>
         <updated>2024-09-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Too often do we obsess over the perfect plan to chase our dreams, resulting in analysis paralysis. Instead of being stuck in this limbo, I've made the perfect plan for anyone to chase their dreams.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6]]></title>
+        <title type="html"><![CDATA[7]]></title>
         <id>https://degatchi.com/articles/dream-a-little</id>
         <link href="https://degatchi.com/articles/dream-a-little"/>
         <updated>2024-08-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[It's saddening to see 99% of people lose their spark as they reach adulthood. From curious driven children to mindless robots, oh what a world we live in, or should I say exist in for most. If money wasn't an issue what would you do? If you can't answer this then you have a big problem, anon-kun.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7]]></title>
+        <title type="html"><![CDATA[8]]></title>
         <id>https://degatchi.com/articles/learning-is-hard</id>
         <link href="https://degatchi.com/articles/learning-is-hard"/>
         <updated>2024-08-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[When we look at people better than us in a certain something we often don't consider the amount of pain and suffering that person went through to get to that point. A level 3 crook wants to be world-class at something but doesn't go through the torturous regime it takes to get to level 99 and reap the rewards. It's okay, anon-kun. I'm here to eliminate the fog of war and show you the limelight!]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8]]></title>
+        <title type="html"><![CDATA[9]]></title>
         <id>https://degatchi.com/articles/understanding-quadratics</id>
         <link href="https://degatchi.com/articles/understanding-quadratics"/>
         <updated>2024-08-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Not getting quadratics? Same! With today's mental gym sesh we're doing leg day, focusing on quadratics. I know, the dreaded quadratic. Fuck them. But we need to understand them to move onto the other cool shit in math. Lets see whether we can get it to click!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9]]></title>
-        <id>https://degatchi.com/articles/unlocking-algebra</id>
-        <link href="https://degatchi.com/articles/unlocking-algebra"/>
-        <updated>2024-08-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Want to learn math but not sure how to start? Feel like you're bad at math? Or maybe, you know different parts of math but there are holes in your mental model. Follow DeGatchi along this ride to get an intuition of how math works algebraically, as he once was 'bad at math' and had completely fragmented mental math models.]]></content>
     </entry>
 </feed>

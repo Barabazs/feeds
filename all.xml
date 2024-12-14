@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Barabazs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-13T17:40:41.359Z</updated>
+    <updated>2024-12-14T05:40:14.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Is it worth using MEV-Boost? (Anton Wahrstätter's Blog)]]></title>
@@ -216,6 +216,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
+        <id>https://degatchi.com/articles/baiting-mev-bots-univ2-token-trapper</id>
+        <link href="https://degatchi.com/articles/baiting-mev-bots-univ2-token-trapper"/>
+        <updated>2024-12-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[So many MEV take money from us but why don't people take money from them? I always thought about this when I was in my web3 cybersec assembly arc. I got quite fascinated with reverse engineering them and the contracts they interected with and realised there are some interesting things you can do with the uniswap code, since it has a few assumptions with the tokens you provide to create the pairs. Although not very practical it's definitely an intereting thought experiment that can provoke some further creativity!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
         <id>https://degatchi.com/articles/starting-malware-development</id>
         <link href="https://degatchi.com/articles/starting-malware-development"/>
         <updated>2024-12-11T00:00:00.000Z</updated>
@@ -276,13 +283,6 @@
         <link href="https://degatchi.com/articles/understanding-quadratics"/>
         <updated>2024-08-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Not getting quadratics? Same! With today's mental gym sesh we're doing leg day, focusing on quadratics. I know, the dreaded quadratic. Fuck them. But we need to understand them to move onto the other cool shit in math. Lets see whether we can get it to click!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
-        <id>https://degatchi.com/articles/unlocking-algebra</id>
-        <link href="https://degatchi.com/articles/unlocking-algebra"/>
-        <updated>2024-08-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[Want to learn math but not sure how to start? Feel like you're bad at math? Or maybe, you know different parts of math but there are holes in your mental model. Follow DeGatchi along this ride to get an intuition of how math works algebraically, as he once was 'bad at math' and had completely fragmented mental math models.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Building a Really, Really Small Android App (Charlie Marsh's Articles)]]></title>
