@@ -2,9 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.toniwahrstaetter.com/</id>
     <title>Anton Wahrstätter's Blog</title>
-    <updated>2024-12-15T05:40:57.884Z</updated>
+    <updated>2024-12-15T17:38:52.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://blog.toniwahrstaetter.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[On Increasing the Block Gas Limit: Technical Considerations & Path Forward]]></title>
+        <id>https://ethresear.ch/t/on-increasing-the-block-gas-limit-technical-considerations-path-forward/21225</id>
+        <link href="https://ethresear.ch/t/on-increasing-the-block-gas-limit-technical-considerations-path-forward/21225"/>
+        <updated>2024-12-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>Dec 9, 2024</span>
+    <h3 style="margin-top: 0px">
+      <a href="https://ethresear.ch/t/on-increasing-the-block-gas-limit-technical-considerations-path-forward/21225">On Increasing the Block Gas Limit: Technical Considerations &amp; Path Forward</a>
+    </h3>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Blob Markets, Base Fee Adjustments and Optimizations]]></title>
+        <id>https://ethresear.ch/t/on-blob-markets-base-fee-adjustments-and-optimizations/21024</id>
+        <link href="https://ethresear.ch/t/on-blob-markets-base-fee-adjustments-and-optimizations/21024"/>
+        <updated>2024-11-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>Nov 18, 2024</span>
+    <h3 style="margin-top: 0px">
+      <a href="https://ethresear.ch/t/on-blob-markets-base-fee-adjustments-and-optimizations/21024">On Blob Markets, Base Fee Adjustments and Optimizations</a>
+    </h3>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On solo staking, local block building and blobs]]></title>
+        <id>https://ethresear.ch/t/on-solo-staking-local-block-building-and-blobs/20540</id>
+        <link href="https://ethresear.ch/t/on-solo-staking-local-block-building-and-blobs/20540"/>
+        <updated>2024-10-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>Oct 2, 2024</span>
+    <h3 style="margin-top: 0px">
+      <a href="https://ethresear.ch/t/on-solo-staking-local-block-building-and-blobs/20540">On solo staking, local block building and blobs</a>
+    </h3>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steelmanning a blob throughput increase for Pectra]]></title>
+        <id>https://ethresear.ch/t/steelmanning-a-blob-throughput-increase-for-pectra/20499</id>
+        <link href="https://ethresear.ch/t/steelmanning-a-blob-throughput-increase-for-pectra/20499"/>
+        <updated>2024-09-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>Sep 26, 2024</span>
+    <h3 style="margin-top: 0px">
+      <a href="https://ethresear.ch/t/steelmanning-a-blob-throughput-increase-for-pectra/20499">Steelmanning a blob throughput increase for Pectra</a>
+    </h3>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Proposer Timing Games and Economies of Scale]]></title>
+        <id>https://ethresear.ch/t/on-proposer-timing-games-and-economies-of-scale/20309</id>
+        <link href="https://ethresear.ch/t/on-proposer-timing-games-and-economies-of-scale/20309"/>
+        <updated>2024-08-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>Aug 20, 2024</span>
+    <h3 style="margin-top: 0px">
+      <a href="https://ethresear.ch/t/on-proposer-timing-games-and-economies-of-scale/20309">On Proposer Timing Games and Economies of Scale</a>
+    </h3>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Attestations, Block Propagation, and Timing Games]]></title>
+        <id>https://ethresear.ch/t/on-attestations-block-propagation-and-timing-games/20272</id>
+        <link href="https://ethresear.ch/t/on-attestations-block-propagation-and-timing-games/20272"/>
+        <updated>2024-08-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>Aug 14, 2024</span>
+    <h3 style="margin-top: 0px">
+      <a href="https://ethresear.ch/t/on-attestations-block-propagation-and-timing-games/20272">On Attestations, Block Propagation, and Timing Games</a>
+    </h3>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diseconomies of Scale: Anti-Correlation Penalties (EIP-7716)]]></title>
+        <id>https://ethresear.ch/t/diseconomies-of-scale-anti-correlation-penalties-eip-7716/20114</id>
+        <link href="https://ethresear.ch/t/diseconomies-of-scale-anti-correlation-penalties-eip-7716/20114"/>
+        <updated>2024-07-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>Jul 24, 2024</span>
+    <h3 style="margin-top: 0px">
+      <a href="https://ethresear.ch/t/diseconomies-of-scale-anti-correlation-penalties-eip-7716/20114">Diseconomies of Scale: Anti-Correlation Penalties (EIP-7716)</a>
+    </h3>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Diving Attestations - A quantitative analysis]]></title>
+        <id>https://ethresear.ch/t/deep-diving-attestations-a-quantitative-analysis/20020</id>
+        <link href="https://ethresear.ch/t/deep-diving-attestations-a-quantitative-analysis/20020"/>
+        <updated>2024-06-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>Jun 26, 2024</span>
+    <h3 style="margin-top: 0px">
+      <a href="https://ethresear.ch/t/deep-diving-attestations-a-quantitative-analysis/20020">Deep Diving Attestations - A quantitative analysis</a>
+    </h3>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blobs, Reorgs, and the Role of MEV-Boost.]]></title>
+        <id>https://ethresear.ch/t/blobs-reorgs-and-the-role-of-mev-boost/19783</id>
+        <link href="https://ethresear.ch/t/blobs-reorgs-and-the-role-of-mev-boost/19783"/>
+        <updated>2024-06-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>Jun 26, 2024</span>
+    <h3 style="margin-top: 0px">
+      <a href="https://ethresear.ch/t/blobs-reorgs-and-the-role-of-mev-boost/19783">Blobs, Reorgs, and the Role of MEV-Boost.</a>
+    </h3>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is it worth using MEV-Boost?]]></title>
         <id>https://ethresear.ch/t/is-it-worth-using-mev-boost/19753</id>

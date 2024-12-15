@@ -2,8 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Barabazs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-15T05:40:57.864Z</updated>
+    <updated>2024-12-15T17:38:52.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[On Increasing the Block Gas Limit: Technical Considerations & Path Forward (Anton Wahrstätter's Blog)]]></title>
+        <id>https://ethresear.ch/t/on-increasing-the-block-gas-limit-technical-considerations-path-forward/21225</id>
+        <link href="https://ethresear.ch/t/on-increasing-the-block-gas-limit-technical-considerations-path-forward/21225"/>
+        <updated>2024-12-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>Dec 9, 2024</span>
+    <h3 style="margin-top: 0px">
+      <a href="https://ethresear.ch/t/on-increasing-the-block-gas-limit-technical-considerations-path-forward/21225">On Increasing the Block Gas Limit: Technical Considerations &amp; Path Forward</a>
+    </h3>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Blob Markets, Base Fee Adjustments and Optimizations (Anton Wahrstätter's Blog)]]></title>
+        <id>https://ethresear.ch/t/on-blob-markets-base-fee-adjustments-and-optimizations/21024</id>
+        <link href="https://ethresear.ch/t/on-blob-markets-base-fee-adjustments-and-optimizations/21024"/>
+        <updated>2024-11-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>Nov 18, 2024</span>
+    <h3 style="margin-top: 0px">
+      <a href="https://ethresear.ch/t/on-blob-markets-base-fee-adjustments-and-optimizations/21024">On Blob Markets, Base Fee Adjustments and Optimizations</a>
+    </h3>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On solo staking, local block building and blobs (Anton Wahrstätter's Blog)]]></title>
+        <id>https://ethresear.ch/t/on-solo-staking-local-block-building-and-blobs/20540</id>
+        <link href="https://ethresear.ch/t/on-solo-staking-local-block-building-and-blobs/20540"/>
+        <updated>2024-10-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>Oct 2, 2024</span>
+    <h3 style="margin-top: 0px">
+      <a href="https://ethresear.ch/t/on-solo-staking-local-block-building-and-blobs/20540">On solo staking, local block building and blobs</a>
+    </h3>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steelmanning a blob throughput increase for Pectra (Anton Wahrstätter's Blog)]]></title>
+        <id>https://ethresear.ch/t/steelmanning-a-blob-throughput-increase-for-pectra/20499</id>
+        <link href="https://ethresear.ch/t/steelmanning-a-blob-throughput-increase-for-pectra/20499"/>
+        <updated>2024-09-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>Sep 26, 2024</span>
+    <h3 style="margin-top: 0px">
+      <a href="https://ethresear.ch/t/steelmanning-a-blob-throughput-increase-for-pectra/20499">Steelmanning a blob throughput increase for Pectra</a>
+    </h3>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Proposer Timing Games and Economies of Scale (Anton Wahrstätter's Blog)]]></title>
+        <id>https://ethresear.ch/t/on-proposer-timing-games-and-economies-of-scale/20309</id>
+        <link href="https://ethresear.ch/t/on-proposer-timing-games-and-economies-of-scale/20309"/>
+        <updated>2024-08-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>Aug 20, 2024</span>
+    <h3 style="margin-top: 0px">
+      <a href="https://ethresear.ch/t/on-proposer-timing-games-and-economies-of-scale/20309">On Proposer Timing Games and Economies of Scale</a>
+    </h3>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Attestations, Block Propagation, and Timing Games (Anton Wahrstätter's Blog)]]></title>
+        <id>https://ethresear.ch/t/on-attestations-block-propagation-and-timing-games/20272</id>
+        <link href="https://ethresear.ch/t/on-attestations-block-propagation-and-timing-games/20272"/>
+        <updated>2024-08-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>Aug 14, 2024</span>
+    <h3 style="margin-top: 0px">
+      <a href="https://ethresear.ch/t/on-attestations-block-propagation-and-timing-games/20272">On Attestations, Block Propagation, and Timing Games</a>
+    </h3>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diseconomies of Scale: Anti-Correlation Penalties (EIP-7716) (Anton Wahrstätter's Blog)]]></title>
+        <id>https://ethresear.ch/t/diseconomies-of-scale-anti-correlation-penalties-eip-7716/20114</id>
+        <link href="https://ethresear.ch/t/diseconomies-of-scale-anti-correlation-penalties-eip-7716/20114"/>
+        <updated>2024-07-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>Jul 24, 2024</span>
+    <h3 style="margin-top: 0px">
+      <a href="https://ethresear.ch/t/diseconomies-of-scale-anti-correlation-penalties-eip-7716/20114">Diseconomies of Scale: Anti-Correlation Penalties (EIP-7716)</a>
+    </h3>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Diving Attestations - A quantitative analysis (Anton Wahrstätter's Blog)]]></title>
+        <id>https://ethresear.ch/t/deep-diving-attestations-a-quantitative-analysis/20020</id>
+        <link href="https://ethresear.ch/t/deep-diving-attestations-a-quantitative-analysis/20020"/>
+        <updated>2024-06-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>Jun 26, 2024</span>
+    <h3 style="margin-top: 0px">
+      <a href="https://ethresear.ch/t/deep-diving-attestations-a-quantitative-analysis/20020">Deep Diving Attestations - A quantitative analysis</a>
+    </h3>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blobs, Reorgs, and the Role of MEV-Boost. (Anton Wahrstätter's Blog)]]></title>
+        <id>https://ethresear.ch/t/blobs-reorgs-and-the-role-of-mev-boost/19783</id>
+        <link href="https://ethresear.ch/t/blobs-reorgs-and-the-role-of-mev-boost/19783"/>
+        <updated>2024-06-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>Jun 26, 2024</span>
+    <h3 style="margin-top: 0px">
+      <a href="https://ethresear.ch/t/blobs-reorgs-and-the-role-of-mev-boost/19783">Blobs, Reorgs, and the Role of MEV-Boost.</a>
+    </h3>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is it worth using MEV-Boost? (Anton Wahrstätter's Blog)]]></title>
         <id>https://ethresear.ch/t/is-it-worth-using-mev-boost/19753</id>
@@ -216,6 +306,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
+        <id>https://degatchi.com/articles/generating-custom-assembly-smart-contracts</id>
+        <link href="https://degatchi.com/articles/generating-custom-assembly-smart-contracts"/>
+        <updated>2024-12-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2 years ago I wrote a component that allowed me to generate any custom assembly smart contract on the fly to automatically create exploits without needing to do any manual work. I had a montiroing system that would provide the inputs and the bytecode generator would chug along and spit out an executable program that I could deploy and call on with a bundle of transactions. In this article I'll share the core of that codebase to get you up to speed! Buckle up, anon. There isn't any other article like this revealing these trade secrets!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
         <id>https://degatchi.com/articles/baiting-mev-bots-univ2-token-trapper</id>
         <link href="https://degatchi.com/articles/baiting-mev-bots-univ2-token-trapper"/>
         <updated>2024-12-14T00:00:00.000Z</updated>
@@ -283,6 +380,111 @@
         <link href="https://degatchi.com/articles/understanding-quadratics"/>
         <updated>2024-08-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[Not getting quadratics? Same! With today's mental gym sesh we're doing leg day, focusing on quadratics. I know, the dreaded quadratic. Fuck them. But we need to understand them to move onto the other cool shit in math. Lets see whether we can get it to click!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
+        <id>https://degatchi.com/articles/unlocking-algebra</id>
+        <link href="https://degatchi.com/articles/unlocking-algebra"/>
+        <updated>2024-08-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Want to learn math but not sure how to start? Feel like you're bad at math? Or maybe, you know different parts of math but there are holes in your mental model. Follow DeGatchi along this ride to get an intuition of how math works algebraically, as he once was 'bad at math' and had completely fragmented mental math models.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
+        <id>https://degatchi.com/articles/build-a-brand</id>
+        <link href="https://degatchi.com/articles/build-a-brand"/>
+        <updated>2024-04-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[One of the most powerful forms of leverage, that lasts a lifetime, is branding. Whether business or personal branding the concepts apply to both. Branding is the association between entity and things you want to relate to. Whether you're an entrepreneur or a person sitting at your desk at 2 am contemplating 'How do I make content', 'I want to express how I feel', 'I need to share my thoughts with the world in hopes someone, anyone, can find me, relate to me in this desolate sphere we call home' then you're in the right place!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
+        <id>https://degatchi.com/articles/leaving-for-london</id>
+        <link href="https://degatchi.com/articles/leaving-for-london"/>
+        <updated>2024-01-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Enter the mind of DeGatchi as he moves continents, once again! Ever wondered what happens in a developer's life? Someone you relate to or look up to? In this article DeGatchi exaplains his rationale for leaving his home country to venture into a new one to start a new life -- all in the name of *blank*...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
+        <id>https://degatchi.com/articles/mev-smart-contract-obfuscation</id>
+        <link href="https://degatchi.com/articles/mev-smart-contract-obfuscation"/>
+        <updated>2024-01-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[In blockchain, generalized frontrunners in MEV abuse the well-known standards of smart contract, therefore obfuscation techniques are essential for MEV operators. Over the past year I've created some zero-day techniques for avoiding these sharks in the mempool of Ethereum and all other existing blockchains in web3. Whether you're a semi-vet like DeGatchi or are just starting in the the MEV world of ETH, you are able to deploy these obfuscation techniques on day 1 to potentially gain an edge on your competition. Godspeed, anon!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
+        <id>https://degatchi.com/articles/life-plan</id>
+        <link href="https://degatchi.com/articles/life-plan"/>
+        <updated>2023-10-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Ever wondered what DeGatchi's life looks like or what he wants to accomplish in life? Well, here's an exclusive look into the mysterious mind of DeGatchi. Maybe you'll be inspired, maybe you wont give a single shit, but here it is!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
+        <id>https://degatchi.com/articles/the-age-of-ai</id>
+        <link href="https://degatchi.com/articles/the-age-of-ai"/>
+        <updated>2023-10-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Delve into the essence of Artificial Intelligence (AI) and explore its profound implications for humanity in reshaping the modern world. Join us on a visionary journey into the imminent future, where AI stands at the helm of the most significant and transformative era the human race has ever witnessed. With AI's unparalleled potential, we are on the cusp of transcending conventional boundaries, heralding a new chapter of innovation, evolution, and infinite possibilities.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
+        <id>https://degatchi.com/articles/how-to-learn-fast</id>
+        <link href="https://degatchi.com/articles/how-to-learn-fast"/>
+        <updated>2023-04-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Whether you're a beginner developer starting from scratch or an intermediate developer seeking to level up, having an efficient learning strategy in place is crucial. Learning a new topic can unlock a realm of possibilities that can significantly impact the trajectory of your journey. In this article, DeGatchi will explain how he managed to optimize his learning as a self-taught developer with no prior experience, eventually becoming a renowned EVM developer.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
+        <id>https://degatchi.com/articles/smart-contract-obfuscation</id>
+        <link href="https://degatchi.com/articles/smart-contract-obfuscation"/>
+        <updated>2023-02-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[How do you prevent MEV frontrunners from stealing your transactions, copying your smart contracts and understanding your strategies built into your smart contracts on-chain? Let me take you into the depths of the dark forest, where bleeding-edge smart contract bytecode obfuscation techniques are developed to keep your secrets hidden for longer.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
+        <id>https://degatchi.com/articles/low_level_guide_to_soliditys_storage_management</id>
+        <link href="https://degatchi.com/articles/low_level_guide_to_soliditys_storage_management"/>
+        <updated>2023-01-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Learn how the EVMs storage system works by interacting with it through smart contracts using solidity's inline assembly/yul, taking you a step closer to bridging the gap between high and low level programming! We'll walkthrough each encounter you will face by learning deal with them using bitwise operations alongside SLOAD and SSTORE to control the EVMs storage at will.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
+        <id>https://degatchi.com/articles/reading-raw-evm-calldata</id>
+        <link href="https://degatchi.com/articles/reading-raw-evm-calldata"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[You may have have wondered how to decipher and read evm calldata, then attempted to read the transaction calldata of an Ethereum smart contract, only to become confused at a certain point. The EVM (and other L1 forks) encode and decode calldata in a specific way for static and dynamic types, which can be initially confusing. In this article, we will delve into the encoding sequence of calldata so that you can comprehend any verified or unverified smart contract transactions and understand the bytes. By doing so, I hope to empower you to create your own raw calldata.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
+        <id>https://degatchi.com/articles/speedrunning-bug-hunting</id>
+        <link href="https://degatchi.com/articles/speedrunning-bug-hunting"/>
+        <updated>2022-12-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[So you've decided to particpate in bug bounties as bug hunter and are spending hours, searching, hoping to find a bug to claim your basket of gold coins...but to sometimes no avail. How do the high ranking hunters find vulnerabilities in such short amounts of time? Grab your spear, anon. We're about to explore the jungle!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
+        <id>https://degatchi.com/articles/memware</id>
+        <link href="https://degatchi.com/articles/memware"/>
+        <updated>2022-12-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[If there was malware native to crypto, it would be generalised frontrunners (GFs). These pesky critters analyse each transaction that enters the mempool, and like sharks, detecting vulnerable pending transactions, striking when they observe a profitable transaction. In this article we'll unravel, step-by-step, how one of these sophiscated creatures work in hopes to shed light on the depths of the mempool.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
+        <id>https://degatchi.com/articles/entering-the-dark-forest</id>
+        <link href="https://degatchi.com/articles/entering-the-dark-forest"/>
+        <updated>2022-10-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[Gain insight into the difficult field of earn about how to research about Ethereum MEV bots on-chain so you gain the knowledge and skills to start building your own and dominate the MEV market! With hundreds of thousands of dollars lying in these smart contracts it's a perfect time to enter the dark MEV forest!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
+        <id>https://degatchi.com/articles/the-areas-of-web3-development</id>
+        <link href="https://degatchi.com/articles/the-areas-of-web3-development"/>
+        <updated>2022-09-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[There are so many sectors when it comes to blockchain it's somewhat hard to choose where you want to start. I like to think of it as an MMO, where there are different 'classes' or 'roles' that dictate how you play the game, to some degree. However, if you're like me you create multiple characters with different roles because you like to switch things up. You can apply the same concept to web3. Nonetheless, everything interconnects despite specialising in the different fields.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (DeGatchi's Articles)]]></title>
+        <id>https://degatchi.com/articles/how-to-build-a-mev-bot</id>
+        <link href="https://degatchi.com/articles/how-to-build-a-mev-bot"/>
+        <updated>2022-09-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[So, you've been doing too much PvE and want to get into the on-chain PvP scene. Be wary traveler, this is a lonely environment to be in if you're playing solo. You will spend months building to upkeep your infrastructure to stay competitive in the MEV world on Ethereum, unless you find a very niche strategy. However, the booty is high and mighty if you manage to pull it off! If that sounds like something you want to do, continue on.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Building a Really, Really Small Android App (Charlie Marsh's Articles)]]></title>
