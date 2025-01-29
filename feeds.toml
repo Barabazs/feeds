@@ -18,7 +18,6 @@ linkSelector = "a"
 onFail = "error"
 timeout = 120
 
-
 [graffioh]
 title = "graffioh's blog"
 url = "https://graffioh.com/blog/"
@@ -26,6 +25,17 @@ entrySelector = "ul > li"
 titleSelector = "a"
 linkSelector = "a"
 dateSelector = "p"
+dateFormat = "dd-MM-yyyy"
+onFail = "stale"
+timeout = 120
+
+[dll110]
+title = "dll110's blog"
+url = "https://dll110.github.io/"
+entrySelector = "div.container > h3"
+titleSelector = "a"
+linkSelector = "a"
+dateSelector = "h3"
 dateFormat = "dd-MM-yyyy"
 onFail = "stale"
 timeout = 120
