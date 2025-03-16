@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://graffioh.com/blog/</id>
     <title>graffioh's blog</title>
-    <updated>2025-03-16T05:36:53.843Z</updated>
+    <updated>2025-03-16T17:36:38.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://graffioh.com/brsk.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[J8FZ (Java 8 For Zoomers)]]></title>
+        <id>https://graffioh.com/blog/post/03-16-2025-java-8-101</id>
+        <link href="https://graffioh.com/blog/post/03-16-2025-java-8-101"/>
+        <updated>2025-03-16T17:36:35.459Z</updated>
+        <content type="html"><![CDATA[<a href="/blog/post/03-16-2025-java-8-101">J8FZ (Java 8 For Zoomers)</a><p class="text-sm text-stone-400">03-16-2025</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[People here have no ambition]]></title>
         <id>https://graffioh.com/blog/post/12-30-2024-people-ambition</id>
@@ -88,12 +95,5 @@
         <link href="https://graffioh.com/blog/post/06-07-2022-the-journey-so-far"/>
         <updated>2022-07-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a href="/blog/post/06-07-2022-the-journey-so-far">The journey so far</a><p class="text-sm text-stone-400">06-07-2022</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[J8FN (Java 8 For Noobs)]]></title>
-        <id>https://graffioh.com/blog/post/03-14-2025-java-8-101</id>
-        <link href="https://graffioh.com/blog/post/03-14-2025-java-8-101"/>
-        <updated>2025-03-15T17:36:43.655Z</updated>
-        <content type="html"><![CDATA[<a href="/blog/post/03-14-2025-java-8-101">J8FN (Java 8 For Noobs)</a><p class="text-sm text-stone-400">03-14-2025</p>]]></content>
     </entry>
 </feed>
