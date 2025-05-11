@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://graffioh.com/blog/</id>
     <title>graffioh's blog</title>
-    <updated>2025-05-11T05:40:12.018Z</updated>
+    <updated>2025-05-11T17:37:00.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://graffioh.com/brsk.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Afraid to start]]></title>
+        <id>https://graffioh.com/blog/post/05-11-2025-afraid-to-start</id>
+        <link href="https://graffioh.com/blog/post/05-11-2025-afraid-to-start"/>
+        <updated>2025-11-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/blog/post/05-11-2025-afraid-to-start">Afraid to start</a><p class="text-sm text-stone-400">05-11-2025</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[J8FZ (Java 8 For Zoomers)]]></title>
         <id>https://graffioh.com/blog/post/03-16-2025-java-8-101</id>
