@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dll110.github.io/</id>
     <title>dll110's blog</title>
-    <updated>2025-05-18T17:39:13.191Z</updated>
+    <updated>2025-05-19T05:41:30.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://dll110.github.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[do scaling laws apply to hoarding]]></title>
+        <id>https://dll110.github.io/poop/lossily</id>
+        <link href="https://dll110.github.io/poop/lossily"/>
+        <updated>2025-05-19T05:41:29.786Z</updated>
+        <content type="html"><![CDATA[2025 May 18 - <a href="/poop/lossily">do scaling laws apply to hoarding</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[the meaning of trash, and other consternations]]></title>
+        <id>https://dll110.github.io/poop/misunderstandings</id>
+        <link href="https://dll110.github.io/poop/misunderstandings"/>
+        <updated>2025-05-19T05:41:29.787Z</updated>
+        <content type="html"><![CDATA[2024 September  5 - <a href="/poop/misunderstandings">the meaning of trash, and other consternations</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[can you have AGI without god?]]></title>
         <id>https://dll110.github.io/poop/artificial_god_i</id>
