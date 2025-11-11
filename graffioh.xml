@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://graffioh.com/blog/</id>
     <title>graffioh's blog</title>
-    <updated>2025-11-11T05:42:55.452Z</updated>
+    <updated>2025-11-11T17:41:55.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://graffioh.com/brsk.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[How I accidentally became a use case for my university department]]></title>
+        <id>https://graffioh.com/blog/post/16</id>
+        <link href="https://graffioh.com/blog/post/16"/>
+        <updated>2025-11-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/blog/post/16">How I accidentally became a use case for my university department</a><p class="text-sm text-stone-400">11-11-2025</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Don't let the money kill your passion]]></title>
         <id>https://graffioh.com/blog/post/15</id>
