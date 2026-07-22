@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Barabazs.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-07-22T07:53:35.074Z</updated>
+    <updated>2026-07-22T18:39:50.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[On Increasing the Block Gas Limit: Technical Considerations & Path Forward (Anton Wahrstätter's Blog)]]></title>
@@ -478,6 +478,13 @@
         <link href="https://www.crmarsh.com/np-vs-not-p"/>
         <updated>2024-09-09T15:07:15.551Z</updated>
         <content type="html"><![CDATA[<a target="_blank" href="/np-vs-not-p">NP != NOT P</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to write an argmax kernel (graffioh's blog)]]></title>
+        <id>https://graffioh.com/blog/post/19</id>
+        <link href="https://graffioh.com/blog/post/19"/>
+        <updated>2026-07-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/blog/post/19">How to write an argmax kernel</a><p class="text-sm text-stone-400">22-07-2026</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Empower a curl request: super-curl (graffioh's blog)]]></title>

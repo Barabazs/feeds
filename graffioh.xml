@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://graffioh.com/blog/</id>
     <title>graffioh's blog</title>
-    <updated>2026-07-22T07:53:35.132Z</updated>
+    <updated>2026-07-22T18:39:50.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://graffioh.com/orb.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[How to write an argmax kernel]]></title>
+        <id>https://graffioh.com/blog/post/19</id>
+        <link href="https://graffioh.com/blog/post/19"/>
+        <updated>2026-07-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/blog/post/19">How to write an argmax kernel</a><p class="text-sm text-stone-400">22-07-2026</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Empower a curl request: super-curl]]></title>
         <id>https://graffioh.com/blog/post/18</id>
