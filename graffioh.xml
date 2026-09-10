@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://graffioh.com/blog/</id>
     <title>graffioh's blog</title>
-    <updated>2026-09-09T19:55:54.420Z</updated>
+    <updated>2026-09-10T09:56:10.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://graffioh.com/orb.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Continuous batching in Lucebox]]></title>
+        <id>https://www.lucebox.com/blog/continuous-batching</id>
+        <link href="https://www.lucebox.com/blog/continuous-batching"/>
+        <updated>2026-09-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.lucebox.com/blog/continuous-batching">Continuous batching in Lucebox</a><p class="text-sm text-stone-400">09-09-2026</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to write an argmax kernel]]></title>
         <id>https://graffioh.com/blog/post/19</id>
